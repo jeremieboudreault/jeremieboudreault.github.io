@@ -1,5 +1,5 @@
 ---
-#layout: archive
+layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -19,8 +19,8 @@ Work experience
 * **2019-2022** : Research analyst in climate modelling
   * Climatic Hazards and Advanced Risk Modelling (CHARM), The Co-operators
 
-* **Summers 2014-2015**: Acturial intern
-  * Actuarial pricing (2014) \| BI & Special projects (2015), SSQ General Insurance
+* **Summer 2014-2015**: Acturial intern
+  * Actuarial pricing (2014), BI & Special projects (2015), SSQ General Insurance
   
 Awards
 ---------------
