@@ -15,7 +15,7 @@ Past talks
 
 11. **J Boudreault**, NE Bergeron, A St-Hilaire, F Chebana (2022). Functional regression models and their applications in ecohydrology. 10th Candian Statistics Student Conference (SCCS). 28/05/2022. Online.
 
-10. **J Boudreault**, NE Bergeron, A St-Hilaire, F Chebana (2022). Les modèles de régression fonctionnelle en écohydrologie: trois applications concrètes. Congrès sur la recherche hydrologique au Québec. 05/05/2022. Québec (QC) Canada.
+10. **J Boudreault**, NE Bergeron, A St-Hilaire, F Chebana (2022). L'intérêt des modèles de régression fonctionnelle en écohydrologie: trois applications concrètes. Congrès sur la recherche hydrologique au Québec. 05/05/2022. Québec (QC) Canada.
 
 9. **J Boudreault**, C Campagna, F Chebana (2022). Estimations des impacts économiques de la chaleur extrême au Québec en contexte de changements climatiques. Journée scientifique de l’INRS. 18/02/2022. Online.
 
