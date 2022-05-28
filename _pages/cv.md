@@ -51,4 +51,7 @@ Talks
 
 * [Click here](https://jeremieboudreault.github.io/talks/)
 
+
+<br />
+
 PDF version of the CV available [here](). [In French only]
