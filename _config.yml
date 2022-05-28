@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jeremie Boudreault"
   avatar           : "profile.png"
-  bio              : "PhD Student, Environmental Data Science"
-  location         : "Quebec City"
+  bio              : "PhD Student at INRS, Applied data scientist in environmental sciences"
+  location         : "Quebec City, Canada"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.fr/citations?user=ychJPQIAAAAJ&hl=fr"
-  email            :
+  email            : jeremie [dot] boudreault [at] inrs [dot] ca
   researchgate     : 
   uri              :
   bitbucket        :
