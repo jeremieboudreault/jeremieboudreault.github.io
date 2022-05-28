@@ -13,13 +13,11 @@ I am currently a Ph. D. student at [National institute of scientific research](h
 News
 ----------
 
-* [Jeremie Boudreault is recipient of the Réal-Décoste/Ouranos 2022 Award](https://www.ouranos.ca/felicitations-au-recipiendaire-du-prix-real-decoste-2022/), 2022/05/09, Ouranos
+* [Jeremie Boudreault is recipient of the Réal-Décoste/Ouranos 2022 Award](https://www.ouranos.ca/felicitations-au-recipiendaire-du-prix-real-decoste-2022/), 2022/05/09, Ouranos.
 
-* [Earth Day : The pathway of Jeremie Boudreault in environmental science studies](https://inrs.ca/actualites/ma-recherche-en-serie-la-passion-pour-lenvironnement-de-jeremie-boudreault-de-la-maitrise-au-doctorat/), 2022/04/22, INRS
+* [Earth Day : The pathway of Jeremie Boudreault in environmental science studies](https://inrs.ca/actualites/ma-recherche-en-serie-la-passion-pour-lenvironnement-de-jeremie-boudreault-de-la-maitrise-au-doctorat/), 2022/04/22, INRS.
 
-* [Earth Day : Interview with Jeremie Boudreault, a Ph. D. student in climate change](https://ici.radio-canada.ca/ohdio/premiere/emissions/place-publique/episodes/622784/rattrapage-du-vendredi-22-avril-2022/8?fbclid=IwAR3RnzZaGAJ6dpHQw4YDKKyxn9wqVtviFJphlqIKjWB8S76jWbW0nJhrA38), 2022/04/22, Radio-Canada Saguenay
-
-* [Jeremie Boudreault is recipient of the Ken Thompson Award of the CWRA](https://inrs.ca/actualites/jeremie-boudreault-est-recipiendaire-de-la-bourse-ken-thompson-de-lacrh/), 2018/05/25, INRS
+* [Earth Day : Interview with Jeremie Boudreault, a Ph. D. student in climate change](https://ici.radio-canada.ca/ohdio/premiere/emissions/place-publique/episodes/622784/rattrapage-du-vendredi-22-avril-2022/8?fbclid=IwAR3RnzZaGAJ6dpHQw4YDKKyxn9wqVtviFJphlqIKjWB8S76jWbW0nJhrA38), 2022/04/22, Radio-Canada.
 
 About me
 ----------
