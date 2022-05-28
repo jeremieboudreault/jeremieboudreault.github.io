@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jeremie Boudreault, M. Sc"
+title                    : "Jeremie Boudreault"
 title_separator          : "-"
 name                     : &name "Jeremie Boudreault"
 description              : &description "PhD student, Data science and environmental sciences"
