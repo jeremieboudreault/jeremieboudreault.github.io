@@ -8,9 +8,9 @@ author_profile: true
 Lecturer
 ----------
 
-* **Fall 2022** : ETE414 - Data science in environmental science (classes on machine learning and neural networks), INRS
+* **Fall 2022** : ETE414 - Data science and environmental applications, INRS [2 classes on machine learning and neural networks]
 
-* **Fall 2021** : ETE414 - Multivariate data analysis (class on data science and neural networks), , INRS
+* **Fall 2021** : ETE414 - Multivariate data analysis, INRS [1 class on data science neural networks]
 
 Teaching assistant
 -----------
