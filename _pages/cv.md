@@ -39,16 +39,16 @@ Awards
 Teaching experience
 ---------------
 
-* [Here](https://jeremieboudreault.github.io/teaching/).
+* [Click here](https://jeremieboudreault.github.io/teaching/)
 
 Publications
 ---------------
 
-* [Here](https://jeremieboudreault.github.io/research/).
+* [Click here](https://jeremieboudreault.github.io/research/)
 
 Talks
 ---------------
 
-* [Here](https://jeremieboudreault.github.io/talks/).
+* [Click here](https://jeremieboudreault.github.io/talks/)
 
-PDF version of the CV available [here]().
+PDF version of the CV available [here](). [In French only]
