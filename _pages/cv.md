@@ -36,6 +36,11 @@ Awards
 * **2016** : André Darveau award, Laval University (2 000$)
 * **2013** : Medal of the general board, Cegep de Chicoutimi (500$)
 
+Social involvement
+-------------------
+
+* Coming soon.
+
 Teaching experience
 ---------------
 

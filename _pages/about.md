@@ -27,6 +27,10 @@ About me
 * **2019-2022** : 
   * Research analyst in climate risks, The Co-operators
 
+* **2018-2019** :  
+
+  * Gap year in New Zealand.
+
 * **2016-2018** :  
   * M. Sc., Statistical hydrology, INRS
 
