@@ -22,7 +22,7 @@ News
 About me
 ----------
 
-* **September 2021-** :
+* **2021-** :
   * Ph. D. in data science and environmental health, INRS
 
 * **2019-2022** : 
