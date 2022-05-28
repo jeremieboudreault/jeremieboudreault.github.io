@@ -5,4 +5,15 @@ permalink: /projects/
 author_profile: true
 ---
 
-Test projects.
+Current projects
+-------------------
+
+
+*Coming soon.*
+
+
+Past projects
+------------------
+
+
+*Coming soon.*
