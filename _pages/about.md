@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph. D. student at [National institute of scientific research](https://inrs.ca/en/) (INRS), at the [Water Earth and Environment Research Center](https://inrs.ca/en/inrs/research-centres/eau-terre-environnement-research-centre/), in Quebec City, Canada. My research interests are related to the applications of statistics and data science to concrete environmental problematics, such as hydrometeorology, climate change, environmental health and ecology.
+I am currently a Ph. D. student at the [Water Earth and Environment Research Center](https://inrs.ca/en/inrs/research-centres/eau-terre-environnement-research-centre/) of [National institute of scientific research](https://inrs.ca/en/) (INRS) in Quebec City, Canada. My research interests are related to the applications of statistics and data science to concrete environmental problematics, such as hydrometeorology, climate change, environmental health and ecology.
 
 News
 ----------
@@ -22,7 +22,7 @@ About me
 ----------
 
 * **2021-** :
-  * Ph. D. in data science and environmental health, INRS
+  * Ph. D., Data science and environmental health, INRS
 
 * **2019-2022** : 
   * Research analyst in climate risks, The Co-operators
