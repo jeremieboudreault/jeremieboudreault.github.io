@@ -1,5 +1,5 @@
 ---
-layout: archive
+#layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -20,7 +20,7 @@ Work experience
   * Blablab
   * Bla
 
-* Summer 2014 and 2016: Acturial intern
+* Summers 2014-2015: Acturial intern
   * Actuarial pricing \| BI & Special projects, SSQ General Insurance
   * Blabla
   * Blabla
