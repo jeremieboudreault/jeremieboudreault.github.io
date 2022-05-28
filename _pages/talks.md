@@ -34,3 +34,4 @@ Past talks
 2. J Boudreault, NE Bergeron, A St-Hilaire, F Chebana (2018). Habitat selection by juvenile Atlantic Salmon (Salmo salar) using a functional regression model. Atlantic Salmon Ecosystem Forum (ASEF), 18/01/2018. Wells (ME) USA.
 
 1. J Boudreault, NE Bergeron, A St-Hilaire, F Chebana (2017). Modélisation de la température de l’eau en rivière avec des approches de régression fonctionnelle. Congrès Eau Terre Environnement (CETE), 18/11/2017. Québec (QC) Canada.
+{: reversed="reversed"}
