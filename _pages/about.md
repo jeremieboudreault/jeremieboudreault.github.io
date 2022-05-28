@@ -17,13 +17,14 @@ About me
 
   * Ph. D. in data science and environmental health, INRS
 
-* **2019-2022** : Research analyst in Climatic Hazards and Advanced Risk Modelling team, The Co-operators
+* **2019-2022** : 
 
-* **2018-2019** : Gap year in New Zealand
+  * Research analyst in Climatic Hazards and Advanced Risk Modelling team, The Co-operators
 
-* **2016-2018** : M. Sc. in statistical hydrology, INRS
+* **2018-2019** :  Gap year in New Zealand
+
+* **2016-2018** :  M. Sc. in statistical hydrology, INRS
 
 * **2013-2016** : B. Sc. in actuarial science, Laval University
-
 
 Full CV available [here](https://jeremieboudreault.github.io/cv/).
