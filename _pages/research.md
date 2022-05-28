@@ -15,7 +15,7 @@ Publications
 2. J Beaupré, **J Boudreault**, NE Bergeron, A St-Hilaire (2020). Inclusion of water temperature in a fuzzy logic Atlantic salmon (Salmo salar) parr habitat model. Journal of Thermal Biology, 87(102471): 1-13.
 
 1. **J Boudreault**, NE Bergeron, A St-Hilaire, F Chebana (2019). Stream Temperature Modeling Using Functional Regression Models. Journal of the American Water Resources Association, 55(6): 1382-1400.
-
+{: reversed="reversed"}
 
 Reports
 ---------------
