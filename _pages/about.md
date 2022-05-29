@@ -25,8 +25,8 @@ About me
   * Ph. D., Data science and environmental health, INRS
 
 * **2019-2022** : 
-  * Research analyst in climate risks, The Co-operators
-  
+  * Research analyst in climate risk modelling, The Co-operators
+
 * **2016-2018** :  
   * M. Sc., Statistical hydrology, INRS
 
