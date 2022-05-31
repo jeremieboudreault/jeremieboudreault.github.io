@@ -25,13 +25,13 @@ Work experience
 Awards
 ---------------
 
-* **2022** : **Vanier Canada Graduate Scholarships**, NRSEC (150 000$)
+* **2022** : **Vanier Canada Graduate Scholarships**, NSERC (150 000$)
 * **2022** : **Real-Decoste excellence scholarship**, Ouranos (60 000$)
-* **2022** : Canada Graduate Scholarships - Doctoral , NRSEC (105 000$) [Declined]
+* **2022** : Canada Graduate Scholarships - Doctoral , NSERC (105 000$) [Declined]
 * **2021** : Research students scholarship, INSPQ (14 000$)
 * **2019** : Honor Roll of the Director of Research and Academic Affairs, INRS (0$)
 * **2018** : Ken Thompson award, CWRA (2000$)
-* **2017** : Canada Graduate Scholarships - Master, NRSEC (17 500$)
+* **2017** : Canada Graduate Scholarships - Master, NSERC (17 500$)
 * **2016** : Claude-Dussault award, Laval University (3 000$)
 * **2016** : André Darveau award, Laval University (2 000$)
 * **2013** : Medal of the general board, Cegep de Chicoutimi (500$)
