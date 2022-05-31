@@ -25,8 +25,9 @@ Work experience
 Awards
 ---------------
 
+* **2022** : **Vanier Canada Graduate Scholarships**, NRSEC (150 000$)
 * **2022** : **Real-Decoste excellence scholarship**, Ouranos (60 000$)
-* **2022** : Canada Graduate Scholarships - Doctoral , NRSEC (105 000$)
+* **2022** : Canada Graduate Scholarships - Doctoral , NRSEC (105 000$) [Declined]
 * **2021** : Research students scholarship, INSPQ (14 000$)
 * **2019** : Honor Roll of the Director of Research and Academic Affairs, INRS (0$)
 * **2018** : Ken Thompson award, CWRA (2000$)
