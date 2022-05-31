@@ -16,7 +16,7 @@ Education
 Work experience
 ---------------
 
-* **2019-2022** : Research analyst in climate modelling
+* **2019-2022** : Research analyst in climate risk modelling
   * Climatic Hazards and Advanced Risk Modelling, The Co-operators
 
 * **Summer 2014-2015**: Acturial intern
