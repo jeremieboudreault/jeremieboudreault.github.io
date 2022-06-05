@@ -19,15 +19,16 @@ Work experience
 * **2019-2022** : Research analyst in climate risk modelling
   * Climatic Hazards and Advanced Risk Modelling, The Co-operators
 
-* **Summer 2014-2015**: Acturial intern
+* **Summer 2014-2015**: Actuarial intern
   * Actuarial pricing (2014), BI & Special projects (2015), SSQ General Insurance
   
 Awards
 ---------------
 
-* **2022** : **Vanier Canada Graduate Scholarships**, NSERC (150 000$)
+* **2022** : **Vanier Canada Graduate Scholarship**, NSERC (150 000$)
 * **2022** : **Real-Decoste excellence scholarship**, Ouranos (60 000$)
-* **2022** : Canada Graduate Scholarships - Doctoral , NSERC (105 000$) [Declined]
+* **2022** : Canada Graduate Scholarship - Doctoral, NSERC (105 000$) [Declined]
+* **2022** : Doctoral Research Scholarship, FRQNT (84 000$) [Declined]
 * **2021** : Research students scholarship, INSPQ (14 000$)
 * **2019** : Honor Roll of the Director of Research and Academic Affairs, INRS (0$)
 * **2018** : Ken Thompson award, CWRA (2000$)
