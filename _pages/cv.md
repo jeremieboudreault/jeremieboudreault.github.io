@@ -19,7 +19,7 @@ Work experience
 * **2019-2022** : Research analyst in climate risk modelling
   * Climatic Hazards and Advanced Risk Modelling, The Co-operators
 
-* **Summer 2014-2015**: Actuarial intern
+* **2014-2015**: Actuarial intern
   * Actuarial pricing (2014), BI & Special projects (2015), SSQ General Insurance
   
 Awards
