@@ -60,4 +60,4 @@ Talks
 
 <br />
 
-PDF version of the CV available [here](files/cv_jeremie_boudreault_2022_06.pdf). [In French only]
+PDF version of the CV available [here](../files/cv_jeremie_boudreault_2022_06.pdf). [In French only]
