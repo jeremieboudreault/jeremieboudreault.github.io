@@ -20,7 +20,7 @@ Publications
 Reports
 ---------------
 
-1. **J Boudreault**, C Campagna, F Chebana (2022). Coûts de santé de la chaleur extrême en contexte de changements climatiques : état des connaissances et orientations futures. Rapport de recherche pour l'Institut national de la santé publique du Québec, 92 p.
+1. **J Boudreault**, C Campagna, F Chebana (2022). Coûts de santé de la chaleur extrême en contexte de changements climatiques : état des connaissances et orientations futures. Rapport de recherche pour l'Institut national de santé publique du Québec, 92 p.
 
 
 Master thesis
