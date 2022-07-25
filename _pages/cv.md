@@ -37,6 +37,17 @@ Awards
 * **2016** : André Darveau award, Laval University (2 000$)
 * **2013** : Medal of the general board, Cegep de Chicoutimi (500$)
 
+Certifications
+-------------------
+
+* **2022** : Summer institute in artificial intelligence, public health and equity, McGill University
+* **2022** : Spring school in high performance computing, Calcul Québec
+* **2021** : Winter school in machine learning, Laval University
+* **2017-2018** : Microprogram in climate change, Laval University
+* **2018** : Professional working a river environment, Expertise Nautique Québec
+* **2017** : Backpack Electrofishing Certificate Course, University of New Brunswick
+* **2016-2017** : Intensive summer and winter field course in water science
+
 Social involvement
 -------------------
 
