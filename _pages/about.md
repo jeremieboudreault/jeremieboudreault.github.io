@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph. D. student at the *Water Earth and Environment Research Center* of the [*National institute of scientific research*](https://inrs.ca/en/inrs/research-centres/eau-terre-environnement-research-centre/) (INRS) in Quebec City, Canada. 
+I am currently a Ph. D. student at the [Water Earth and Environment Research Center](https://inrs.ca/en/inrs/research-centres/eau-terre-environnement-research-centre/) of the [National institute of scientific research](https://inrs.ca/en/) (INRS) in Quebec City, Canada. 
 
 My research interests are related to the applications of statistics and data science to concrete environmental problematics, such as hydrometeorology, climate change, environmental health and ecology.
 
