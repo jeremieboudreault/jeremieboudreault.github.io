@@ -16,6 +16,9 @@ Education
 Work experience
 ---------------
 
+* **2022-** : PhD fellowship
+  * Climate change and health, Quebec National Institute of Public Health (INSPQ)
+
 * **2019-2022** : Research analyst in climate risk modelling
   * Climatic Hazards and Advanced Risk Modelling, The Co-operators
 
@@ -25,6 +28,7 @@ Work experience
 Awards
 ---------------
 
+* **2022** : **Health System Impact Fellowship - AI stream**, CIHR (50 000$)
 * **2022** : **Vanier Canada Graduate Scholarship**, NSERC (150 000$)
 * **2022** : **Real-Decoste excellence scholarship**, Ouranos (60 000$)
 * **2022** : Canada Graduate Scholarship - Doctoral, NSERC (105 000$) [Declined]
@@ -71,4 +75,4 @@ Talks
 
 <br />
 
-PDF version of the CV available [here](../files/cv_jeremie_boudreault_2022_06.pdf). [In French only]
+PDF version of the CV available [here](../files/cv_jeremie_boudreault_2022_08.pdf). [In French only]
