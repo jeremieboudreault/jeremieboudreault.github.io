@@ -25,12 +25,12 @@ Work experience
 * **2014-2015**: Actuarial intern
   * Actuarial pricing (2014), BI & Special projects (2015), SSQ General Insurance
   
-Awards
+Awards and scholarships
 ---------------
 
 * **2022** : **Health System Impact Fellowship - AI stream**, CIHR (50 000$)
 * **2022** : **Vanier Canada Graduate Scholarship**, NSERC (150 000$)
-* **2022** : **Real-Decoste excellence scholarship**, Ouranos (60 000$)
+* **2022** : **Real-Decoste Excellence Scholarship**, Ouranos (60 000$)
 * **2022** : Canada Graduate Scholarship - Doctoral, NSERC (105 000$) [Declined]
 * **2022** : Doctoral Research Scholarship, FRQNT (84 000$) [Declined]
 * **2021** : Research students scholarship, INSPQ (14 000$)
