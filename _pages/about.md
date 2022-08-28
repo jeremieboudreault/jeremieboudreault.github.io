@@ -24,6 +24,9 @@ News
 About me
 ----------
 
+* **2022-** : 
+  * Doctoral intern, INSPQ
+
 * **2021-** :
   * Ph. D., Data science and environmental health, INRS
 
@@ -37,3 +40,7 @@ About me
   * B. Sc., Actuarial science, Laval University
 
 Full CV available [here](https://jeremieboudreault.github.io/cv/).
+
+
+Archive 
+----------
