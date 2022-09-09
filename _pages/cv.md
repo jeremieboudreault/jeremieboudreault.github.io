@@ -9,7 +9,7 @@ redirect_from:
 
 Education
 ---------------
-* **2021-**, Ph. D., Data science and environemental health, INRS
+* **2021-**, Ph. D., Data science and environmental health, INRS
 * **2018**, M. Sc., Statistical hydrology, INRS
 * **2016**, B. Sc., Actuarial science, Laval University
 
