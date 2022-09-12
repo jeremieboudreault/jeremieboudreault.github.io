@@ -24,22 +24,16 @@ News
 About me
 ----------
 
-**2021-** : 
-* **Ph. D., Data science and environmental health**, INRS
+* **2021- : **Ph. D., Data science and environmental health, INRS**
+* 2019-2022 : Research analyst in climate risk modelling, The Co-operators
+* 2016-2018 : M. Sc., Statistical hydrology, INRS
+* 2013-2016 : B. Sc., Actuarial science, Laval University
 
-2019-2022 : 
-* Research analyst in climate risk modelling, The Co-operators
-
-2016-2018 : 
-* M. Sc., Statistical hydrology, INRS
-
-2013-2016 : 
-* B. Sc., Actuarial science, Laval University
 
 Full CV available [here](https://jeremieboudreault.github.io/cv/).
 
 
-Archive 
+Archives
 ----------
 
 _Coming soon..._
