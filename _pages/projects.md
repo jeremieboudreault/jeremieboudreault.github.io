@@ -5,10 +5,10 @@ permalink: /projects/
 author_profile: true
 ---
 
-[2021-] Health and economic impacts of extreme heat 🌇
+Health and economic impacts of extreme heat 🌡 [2021-] 
 -------------------
 
-Part of PhD in data science and environmental health at INRS and my fellowship in artificial intelligence at INSPQ.
+*Part of PhD in data science and environmental health at INRS and my fellowship in artificial intelligence at INSPQ.*
 
 - Health impacts of extreme heat with machine learning models
 - Modelling the health costs of extreme heat in the province of Quebec
@@ -16,7 +16,7 @@ Part of PhD in data science and environmental health at INRS and my fellowship i
 
 Related research : [Report #1](https://jeremieboudreault.github.io/research/)
 
-[2018-] Climate-related risks in insurance contexts 🏚
+Climate-related risks in insurance contexts ⛈ [2018-] 
 -------------------
 
 *Part of my work in the climatic hazards team at The Co-operators.*
@@ -25,10 +25,10 @@ Related research : [Report #1](https://jeremieboudreault.github.io/research/)
 - Projection of climate change impacts for convective storms, hurricane and flooding
 - Tools for spatial concentration and natural disaster risk management
 
-[2016-2021] Functional regression models in ecohydrology 🐟
-------------------
+Functional regression models in ecohydrology 🌊 [2016-2021] 
+------------------ 
 
-*Part of my MSc in statistical hydrology at INRS.* 2016-2021
+*Part of my MSc in statistical hydrology at INRS.*
 
 - Statistical modelling of river temperatures and flows
 - Inclusion of thermal regime in fish habitat models
