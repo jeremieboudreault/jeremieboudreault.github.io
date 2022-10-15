@@ -38,4 +38,4 @@ Related research : *Publication to be submitted*
 - Prediction of habitat suitability curves using broad surrounding habitat 
 - Statistical modelling of ecohydrological variables (river temperature, flow, etc.)
 
-Related research : [Publications #1-4](https://jeremieboudreault.github.io/research/), [Master thesis](https://jeremieboudreault.github.io/research/)
+Related research : [Publications #1, #2, #3, #4, Master thesis](https://jeremieboudreault.github.io/research/)
