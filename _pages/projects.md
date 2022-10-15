@@ -16,6 +16,7 @@ Health and economic impacts of extreme heat 🌡 [2021-]
 
 Related research : [Report #1](https://jeremieboudreault.github.io/research/)
 
+
 Climate-related risks in insurance contexts ⛈ [2018-] 
 -------------------
 
@@ -24,6 +25,9 @@ Climate-related risks in insurance contexts ⛈ [2018-]
 - Modeling and simulating river and coastal flood risk at the Canadian level
 - Projection of climate change impacts for convective storms, hurricane and flooding
 - Tools for spatial concentration and natural disaster risk management
+
+Related research : *To be submitted...*
+
 
 Functional regression models in ecohydrology 🌊 [2016-2021] 
 ------------------ 
