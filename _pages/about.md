@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a **Ph. D. candidate** in data science and environemental health at the [Water Earth and Environment Research Center](https://inrs.ca/en/inrs/research-centres/eau-terre-environnement-research-centre/) of the [National institute of scientific research](https://inrs.ca/en/) (INRS) and a **Health System Impact Fellow** (HSIF) in artificial intelligence at the [National Institute of Public Health of Quebec (INSPQ)](), in Quebec City, Canada. 
+I am currently a **Ph. D. candidate** in data science and environmental health at the Water Earth and Environment Research Center of the [National institute of scientific research](https://inrs.ca/en/) (INRS) and a **Health System Impact Fellow** (HSIF) in artificial intelligence at the [National Institute of Public Health of Quebec](https://www.inspq.qc.ca/) (INSPQ), in Quebec City, Canada. 
 
 My research interests are related to the applications of statistics and data science to concrete environmental problematics, such as hydrometeorology, climate change, environmental health and ecology.
 
