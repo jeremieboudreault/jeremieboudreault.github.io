@@ -57,7 +57,7 @@ Social involvement
 
 * **2022-** : Responsible for environmental project, INRS student association
 * **2021-** : Treasurer and project manager, 490 Green Comittee
-* *Past involvement coming soon...*
+* *Past social involvements coming soon...*
 
 Teaching experience
 ---------------
