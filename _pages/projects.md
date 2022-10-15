@@ -5,25 +5,26 @@ permalink: /projects/
 author_profile: true
 ---
 
-Health and economic impacts of heatwaves 🌇
+[2021-] Health and economic impacts of extreme heat 🌇
 -------------------
 
-*Part of PhD in data science and environmental health at INRS and my fellowship in artificial intelligence at INSPQ.* 2021-
+Part of PhD in data science and environmental health at INRS and my fellowship in artificial intelligence at INSPQ.
 
-- Health impacts of extreme heat with machine learning
-- Modelling the health costs of extreme heat
-- Projecting the socioeconomics impacts of extreme heat with climate change
+- Health impacts of extreme heat with machine learning models
+- Modelling the health costs of extreme heat in the province of Quebec
+- Projecting the socioeconomics impacts of extreme heat with climate change and aging
 
-Climate risk evaluation in insurance contexts 🏚
+
+[2018-] Climate-related risks in insurance contexts 🏚
 -------------------
 
-*Part of my work in the Climatic Hazard and Advanced Risk Modelling team at The Co-operators General Insurance company.* 2018-
+*Part of my work in the climatic hazards team at The Co-operators.*
 
 - Modeling and simulating river and coastal flood risk at the Canadian level
 - Projection of climate change impacts for convective storms, hurricane and flooding
 - Tools for spatial concentration and natural disaster risk management
 
-Functional regression models in ecohydrology 🐟
+[2016-2021] Functional regression models in ecohydrology 🐟
 ------------------
 
 *Part of my MSc in statistical hydrology at INRS.* 2016-2021
