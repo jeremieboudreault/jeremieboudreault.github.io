@@ -52,10 +52,11 @@ Certifications
 * **2017** : Backpack Electrofishing Certificate Course, University of New Brunswick
 * **2016-2017** : Intensive summer and winter field course in water science
 
-Social involvement
+Current social involvement
 -------------------
 
-* Coming soon.
+* **2022-** : Responsible for environmental project, INRS student association
+* **2021-** : Treasurer and project manager, 490 Green Comittee
 
 Teaching experience
 ---------------
