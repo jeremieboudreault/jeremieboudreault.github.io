@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph. D. candidate at the [Water Earth and Environment Research Center](https://inrs.ca/en/inrs/research-centres/eau-terre-environnement-research-centre/) of the [National institute of scientific research](https://inrs.ca/en/) (INRS) in Quebec City, Canada. 
+I am currently a **Ph. D. candidate** in data science and environemental health at the [Water Earth and Environment Research Center](https://inrs.ca/en/inrs/research-centres/eau-terre-environnement-research-centre/) of the [National institute of scientific research](https://inrs.ca/en/) (INRS) and a **Health System Impact Fellow** (HSIF) in artificial intelligence at the [National Institute of Public Health of Quebec (INSPQ)](), in Quebec City, Canada. 
 
 My research interests are related to the applications of statistics and data science to concrete environmental problematics, such as hydrometeorology, climate change, environmental health and ecology.
 
@@ -37,4 +37,5 @@ Full CV available [here](https://jeremieboudreault.github.io/cv/).
 Archives
 ----------
 
-_Coming soon..._
+* [Graduates stand out at the 2018-2019 convocation](https://inrs.ca/actualites/des-diplomees-se-distinguent-a-la-collation-des-grades-2018-2019/), 2019/05/07, INRS
+* [Jeremie Boudreault is the recipient of the Ken Thompson Scholarship from CWRA](https://inrs.ca/actualites/jeremie-boudreault-est-recipiendaire-de-la-bourse-ken-thompson-de-lacrh/), 2018/05/25, INRS
