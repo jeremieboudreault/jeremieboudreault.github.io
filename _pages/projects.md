@@ -30,9 +30,8 @@ Functional regression models in ecohydrology 🌊 [2016-2021]
 
 *Part of my MSc in statistical hydrology at INRS.*
 
-- Statistical modelling of river temperatures and flows
-- Inclusion of thermal regime in fish habitat models
-- Fish habitat modelling based on the broad surrounding habitat
-- Prediction of habitat suitability curves with a functional data analysis framework
+- Modelling fish habitat based on physicothermal variables
+- Prediction of habitat suitability curves using broad surrounding habitat 
+- Statistical modelling of ecohydrological variables (river temperature, flow, etc.)
 
 Related research : [Papers #1-4](https://jeremieboudreault.github.io/research/), [Master thesis](https://jeremieboudreault.github.io/research/)
