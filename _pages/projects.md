@@ -14,6 +14,7 @@ Part of PhD in data science and environmental health at INRS and my fellowship i
 - Modelling the health costs of extreme heat in the province of Quebec
 - Projecting the socioeconomics impacts of extreme heat with climate change and aging
 
+Related research : [Report #1](https://jeremieboudreault.github.io/research/)
 
 [2018-] Climate-related risks in insurance contexts 🏚
 -------------------
@@ -33,3 +34,5 @@ Part of PhD in data science and environmental health at INRS and my fellowship i
 - Inclusion of thermal regime in fish habitat models
 - Fish habitat modelling based on the broad surrounding habitat
 - Prediction of habitat suitability curves with a functional data analysis framework
+
+Related research : [Papers #1-4](https://jeremieboudreault.github.io/research/), [Master thesis](https://jeremieboudreault.github.io/research/)
