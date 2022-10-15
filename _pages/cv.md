@@ -55,7 +55,7 @@ Certifications
 Social involvement
 -------------------
 
-* **2022-** : Responsible for environmental project, INRS student association
+* **2022-** : Responsible for environmental projects, INRS student association
 * **2021-** : Treasurer and project manager, 490 Green Comittee
 * *Past social involvements coming soon...*
 
