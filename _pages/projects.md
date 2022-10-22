@@ -34,8 +34,8 @@ Related research : *Publication(s) to be submitted.*
 
 *As part of my MSc in statistical hydrology at INRS.*
 
-- Modelling fish habitat based on physicothermal variables
-- Prediction of habitat suitability curves using broad surrounding habitat 
-- Statistical modelling of ecohydrological variables (river temperature, flow, etc.)
+- Statistical modelling of ecohydrological variables (temperature, flow, habitat, etc.)
+- Analysis of the physico-thermal variability of fish habitat
+- Prediction of local habitat suitability based on surrounding characteristics
 
 Related research : [Publications #1, #2, #3, #4, Master thesis](https://jeremieboudreault.github.io/research/)
