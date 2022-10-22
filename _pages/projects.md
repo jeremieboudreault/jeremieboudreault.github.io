@@ -10,8 +10,8 @@ author_profile: true
 
 *As part of my PhD in data science and environmental health at INRS and my fellowship in artificial intelligence at INSPQ.*
 
-- Health impacts of extreme heat with machine learning models
-- Modelling the health costs of extreme heat in the province of Quebec
+- Modelling health impacts of extreme heat with machine learning
+- Estimating the health costs of extreme heat in the province of Quebec
 - Projecting the impacts of extreme heat with climate and socioeconomic change
 
 Related research : [Report #1](https://jeremieboudreault.github.io/research/)
@@ -22,7 +22,7 @@ Related research : [Report #1](https://jeremieboudreault.github.io/research/)
 
 *As part of my employment in the climatic hazards team at The Co-operators.*
 
-- Modeling and simulating river and coastal flood risk at the Canadian level
+- Modelling and simulating river and coastal flood risk at the Canadian level
 - Projection of climate change impacts for convective storms, hurricane and flooding
 - Tools for spatial concentration and natural disaster risk management
 
