@@ -17,7 +17,7 @@ author_profile: true
 Related research : [Report #1](https://jeremieboudreault.github.io/research/)
 
 
-⛈ Climate-related risks in insurance contexts [2018-] 
+⛈ Climate-related risks in insurance contexts [2019-] 
 -------------------
 
 *As part of my employment in the climatic hazards team at The Co-operators.*
@@ -29,7 +29,7 @@ Related research : [Report #1](https://jeremieboudreault.github.io/research/)
 Related research : *Publication(s) to be submitted.*
 
 
-🌊 Functional regression models in ecohydrology [2016-2021] 
+🌊 Functional regression models in ecohydrology [2016-2019] 
 ------------------ 
 
 *As part of my MSc in statistical hydrology at INRS.*
