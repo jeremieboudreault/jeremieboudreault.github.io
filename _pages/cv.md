@@ -9,20 +9,20 @@ redirect_from:
 
 Education
 ---------------
-* **2021-**, Ph. D., Data science and environmental health, INRS
-* **2018**, M. Sc., Statistical hydrology, INRS
-* **2016**, B. Sc., Actuarial science, Laval University
+* **2021-, Ph. D., Data science and environmental health**, INRS
+* 2018, M. Sc., Statistical hydrology, INRS
+* 2016, B. Sc., Actuarial science, Laval University
 
 Work experience
 ---------------
 
-* **2022-** : Doctoral fellow
+* **2022- : Doctoral fellow**
   * Climate change and health, Quebec National Institute of Public Health (INSPQ)
 
-* **2019-2022** : Research analyst in climate risk modelling
+* 2019-2022 : Research analyst in climate risk modelling
   * Climatic Hazards and Advanced Risk Modelling, The Co-operators
 
-* **2014-2015**: Actuarial intern
+* 2014-2015: Actuarial intern
   * Actuarial pricing (2014), BI & Special projects (2015), SSQ General Insurance
   
 Awards and scholarships
@@ -44,19 +44,19 @@ Awards and scholarships
 Certifications
 -------------------
 
-* **2022** : Summer institute in artificial intelligence, public health and equity, McGill University
-* **2022** : Spring school in high performance computing, Calcul Québec
-* **2021** : Winter school in machine learning, Laval University
-* **2017-2018** : Microprogram in climate change, Laval University
-* **2018** : Professional working a river environment, Expertise Nautique Québec
-* **2017** : Backpack Electrofishing Certificate Course, University of New Brunswick
-* **2016-2017** : Intensive summer and winter field course in water science
+* 2022 : Summer institute in artificial intelligence, public health and equity, McGill University
+* 2022 : Spring school in high performance computing, Calcul Québec
+* 2021 : Winter school in machine learning, Laval University
+* 2017-2018 : Microprogram in climate change, Laval University
+* 2018 : Professional working a river environment, Expertise Nautique Québec
+* 2017 : Backpack Electrofishing Certificate Course, University of New Brunswick
+* 2016-2017 : Intensive summer and winter field course in water science
 
 Social involvement
 -------------------
 
-* **2022-** : Responsible for environmental projects, INRS student association
-* **2021-** : Treasurer and project manager, 490 Green Comittee
+* **2022- : Responsible for environmental projects**, INRS student association
+* **2021- : Treasurer and project manager**, 490 Green Comittee
 * *Past social involvements coming soon...*
 
 Teaching experience
