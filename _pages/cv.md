@@ -9,14 +9,14 @@ redirect_from:
 
 Education
 ---------------
-* **2021-, Ph. D., Data science and environmental health**, INRS
+* **2021-**, Ph. D., Data science and environmental health, INRS
 * **2018**, M. Sc., Statistical hydrology, INRS
 * **2016**, B. Sc., Actuarial science, Laval University
 
 Work experience
 ---------------
 
-* **2022- : Doctoral fellow**
+* **2022-** : Doctoral fellow
   * Climate change and health, Quebec National Institute of Public Health (INSPQ)
 
 * **2019-2022** : Research analyst in climate risk modelling
