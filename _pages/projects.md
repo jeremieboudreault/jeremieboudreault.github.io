@@ -26,7 +26,7 @@ Related research : [Report #1](https://jeremieboudreault.github.io/research/)
 - Projection of climate change impacts for convective storms, hurricane and flooding
 - Tools for spatial concentration and natural disaster risk management
 
-Related research : *Publication to be submitted*
+Related research : *Publication(s) to be submitted.*
 
 
 🌊 Functional regression models in ecohydrology [2016-2021] 
