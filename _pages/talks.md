@@ -8,7 +8,7 @@ author_profile: true
 Upcoming talks
 -------------------
 
-
+12. **J Boudreault**, C Campagna, F Chebana (2022) L’importance de la météo et de la pollution dans les relations chaleur-santé revisitée grâce à l’apprentissage automatique. [Symposium Ouranos](https://www.ouranos.ca/wp-content/uploads/symposium-tous-les-resumes-7.pdf). 01-02/12/2022. Québec (QC) Canada [Poster]
 
 Past talks
 -------------------
