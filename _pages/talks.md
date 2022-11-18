@@ -8,7 +8,7 @@ author_profile: true
 Upcoming talks
 -------------------
 
-12. **J Boudreault**, C Campagna, F Chebana (2022) Les relations chaleur-pollution-santé revisitées grâce à l'apprentissage automatique. [Symposium Ouranos](https://www.ouranos.ca/sites/default/files/2022-11/cc-symposium-2022-resumes-affiches_0.pdf). 01/12/2022. Québec (QC) Canada [Poster]
+12. **J Boudreault**, C Campagna, F Chebana (2022) Les relations chaleur-pollution-santé revisitées grâce à l'apprentissage automatique. [Symposium Ouranos](https://www.ouranos.ca/sites/default/files/2022-11/cc-symposium-2022-resumes-affiches_2.pdf). 01/12/2022. Québec (QC) Canada [Poster]
 
 Past talks
 -------------------
