@@ -15,6 +15,7 @@ My research interests are related to the applications of statistics and data sci
 News
 ----------
 
+* [Two Vanier scholars committed to the environment](https://inrs.ca/actualites/linrs-fait-bonne-figure-a-la-remise-des-bourses-vanier2022/), 2022/12/07
 * [Extreme heat and artificial intelligence: a research scholarship for Jérémie Boudreault](https://www.inspq.qc.ca/nouvelles/chaleur-extreme-intelligence-artificielle-bourse-recherche-jeremie-boudreault), 2022/11/22, INSPQ.
 * [Doctoral student Jérémie Boudreault receives the Health System Impact Fellowship (HSIF) from CIHR](https://inrs.ca/actualites/le-doctorant-jeremie-boudreault-recoit-la-bourse-dimpact-sur-le-systeme-de-sante-des-irsc/), 2022/11/22, INRS.
 * [The 490 Green Committee is awarded 15 000$ to reduce waste at INRS](https://inrs.ca/actualites/un-avenir-vert-ancre-dans-sa-communaute/), 2022/07/18, INRS.
