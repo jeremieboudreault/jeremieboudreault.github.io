@@ -28,8 +28,8 @@ Work experience
 Awards and scholarships
 ---------------
 
-* **2022 : Health System Impact Fellowship - AI stream**, CIHR (50 000$)
 * **2022 : Vanier Canada Graduate scholarship**, NSERC (150 000$)
+* **2022 : Health System Impact Fellowship - AI stream**, CIHR (50 000$)
 * **2022 : Real-Decoste Excellence scholarship**, Ouranos (60 000$)
 * **2022** : Canada Graduate scholarship - Doctoral, NSERC (105 000$) [Declined]
 * **2022** : Doctoral Research scholarship, FRQNT (84 000$) [Declined]
