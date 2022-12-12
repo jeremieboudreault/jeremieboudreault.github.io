@@ -8,10 +8,13 @@ author_profile: true
 Upcoming talks
 -------------------
 
-12. **J Boudreault**, C Campagna, F Chebana (2022) Les relations chaleur-pollution-santé revisitées grâce à l'apprentissage automatique. [Symposium Ouranos](https://www.ouranos.ca/sites/default/files/2022-11/cc-symposium-2022-resumes-affiches_2.pdf). 01/12/2022. Québec (QC) Canada [Poster]
+13. **J Boudreault**, C Campagna, F Chebana (2023) L’apprentissage automatique et profond pour analyser les relations entre la chaleur extrême, la pollution et la santé. *Plus d'informations à venir.*
 
 Past talks
 -------------------
+
+12. **J Boudreault**, C Campagna, F Chebana (2022) Les relations chaleur-pollution-santé revisitées grâce à l'apprentissage automatique. [Symposium Ouranos](https://www.ouranos.ca/sites/default/files/2022-11/cc-symposium-2022-resumes-affiches_2.pdf). 01/12/2022. Québec (QC) Canada [Poster]
+
 
 11. **J Boudreault**, NE Bergeron, A St-Hilaire, F Chebana (2022). Functional regression models and their applications in ecohydrology. 10th Candian Statistics Student Conference (SCCS). 28/05/2022. Online.
 
