@@ -8,7 +8,7 @@ author_profile: true
 Upcoming talks
 -------------------
 
-13. **J Boudreault**, C Campagna, F Chebana (2023) L’apprentissage automatique et profond pour analyser les relations entre la chaleur extrême, la pollution et la santé. *Plus d'informations à venir.*
+13. **J Boudreault**, C Campagna, F Chebana (2023) L’apprentissage automatique et profond pour analyser les relations entre la chaleur extrême, la pollution et la santé. *Plus d'information à venir.*
 
 Past talks
 -------------------
@@ -16,9 +16,9 @@ Past talks
 12. **J Boudreault**, C Campagna, F Chebana (2022) Les relations chaleur-pollution-santé revisitées grâce à l'apprentissage automatique. [Symposium Ouranos](https://www.ouranos.ca/sites/default/files/2022-11/cc-symposium-2022-resumes-affiches_2.pdf). 01/12/2022. Québec (QC) Canada [Poster]
 
 
-11. **J Boudreault**, NE Bergeron, A St-Hilaire, F Chebana (2022). Functional regression models and their applications in ecohydrology. 10th Candian Statistics Student Conference (SCCS). 28/05/2022. Online.
+11. **J Boudreault**, NE Bergeron, A St-Hilaire, F Chebana (2022). Functional regression models and their applications in ecohydrology. [10th Candian Statistics Student Conference (SCCS)](https://ssc.ca/en/meetings/annual/2022-annual-meeting/student-conference). 28/05/2022. Online.
 
-10. **J Boudreault**, NE Bergeron, A St-Hilaire, F Chebana (2022). L'intérêt des modèles de régression fonctionnelle en écohydrologie: trois applications concrètes. Congrès sur la recherche hydrologique au Québec. 05/05/2022. Québec (QC) Canada.
+10. **J Boudreault**, NE Bergeron, A St-Hilaire, F Chebana (2022). L'intérêt des modèles de régression fonctionnelle en écohydrologie: trois applications concrètes. [Congrès sur la recherche hydrologique au Québec](https://event.fourwaves.com/fr/rhq22/horaire?date=2022-05-05). 05/05/2022. Québec (QC) Canada.
 
 9. **J Boudreault**, C Campagna, F Chebana (2022). Estimations des impacts économiques de la chaleur extrême au Québec en contexte de changements climatiques. Journée scientifique de l’INRS. 18/02/2022. Online.
 
