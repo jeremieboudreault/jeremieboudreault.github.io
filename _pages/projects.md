@@ -17,7 +17,7 @@ author_profile: true
 Related research : [Report #1](https://jeremieboudreault.github.io/research/)
 
 
-⛈ Climate-related risks in insurance contexts [2019-] 
+⛈ Climate-related risks in insurance contexts [2019-2022] 
 -------------------
 
 *As part of my employment in the climatic hazards team at The Co-operators.*
