@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "PhD candidate at INRS<br />Data science and hydrometeorology"
   location         : "Quebec City, Canada"
-  employer         :
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.fr/citations?user=ychJPQIAAAAJ&hl=fr"
   email            : jeremie [dot] boudreault [at] inrs [dot] ca
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jeremieboudreault/"
   orcid            :
   pinterest        :
   soundcloud       :
