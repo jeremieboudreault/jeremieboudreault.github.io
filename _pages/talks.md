@@ -8,10 +8,11 @@ author_profile: true
 Upcoming talks
 -------------------
 
-13. **J Boudreault**, C Campagna, F Chebana (2023) L’apprentissage automatique et profond pour analyser les relations entre la chaleur extrême, la pollution et la santé. [Conférence santé et qualité de l'air de l'APCAS](https://www.apcas.qc.ca/conference/sante-et-qualite-de-lair-enjeu-de-societe-majeur-21-fevrier-2023/). 21/02/2023. Québec (QC) Canda. [Conférencier invité]
 
 Past talks
 -------------------
+
+13. **J Boudreault**, C Campagna, F Chebana (2023) L’apprentissage automatique et profond pour analyser les relations entre la chaleur extrême, la pollution et la santé. [Conférence santé et qualité de l'air de l'APCAS](https://www.apcas.qc.ca/conference/sante-et-qualite-de-lair-enjeu-de-societe-majeur-21-fevrier-2023/). 21/02/2023. Québec (QC) Canda. [Conférencier invité]
 
 12. **J Boudreault**, C Campagna, F Chebana (2022) Les relations chaleur-pollution-santé revisitées grâce à l'apprentissage automatique. [Symposium Ouranos](https://www.ouranos.ca/sites/default/files/2022-11/cc-symposium-2022-resumes-affiches_2.pdf). 01/12/2022. Québec (QC) Canada [Poster]
 
