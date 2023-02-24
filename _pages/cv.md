@@ -57,7 +57,7 @@ Social involvement
 
 * **2022-** : Responsible for environmental projects, INRS student association
 * **2021-** : Treasurer and project manager, 490 Green Comittee
-* *Past social involvements coming soon...*
+* *See CV for past social involvments...*
 
 Teaching experience
 ---------------
@@ -77,4 +77,4 @@ Talks
 
 <br />
 
-PDF version of the CV available [here](../files/cv_jeremie_boudreault_2022_08.pdf). [In French only]
+PDF version of the CV available [here](../files/cv_jeremie_boudreault_2023.pdf). [In French only]
