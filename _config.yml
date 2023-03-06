@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jérémie Boudreault"
 title_separator          : "-"
 name                     : &name "Jérémie Boudreault"
-description              : &description "PhD candidate, Data science and hydrometeorology"
+description              : &description "PhD candidate, Data science and climate change"
 url                      : https://jeremieboudreault.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jeremieboudreault.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jérémie Boudreault"
   avatar           : "profile.png"
-  bio              : "PhD candidate at INRS<br />Data science and hydrometeorology"
+  bio              : "PhD candidate at INRS<br />Data science | Climate change 🔥"
   location         : "Quebec City, Canada"
   employer         : 
   pubmed           : 
