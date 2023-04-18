@@ -55,6 +55,7 @@ Certifications
 Social involvement
 -------------------
 
+* **2023-** : Member, Institutional committee for sustainable development of INRS
 * **2022-** : Responsible for environmental projects, INRS student association
 * **2021-** : Treasurer and project manager, 490 Green Comittee
 * *See CV for past social involvments...*
