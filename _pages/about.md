@@ -15,6 +15,7 @@ My research interests are related to modelling climate change impacts, such as e
 News
 ----------
 
+* [Translating climate change impacts into dollars](https://www.lequotidien.com/actualites/actualites-locales/2023/04/22/traduire-les-impacts-des-changements-climatiques-en-dollars-QCJ3ALYXO5A5RF7AR3L57NFAMU/), 2023/04/22, Le Quotidien newspaper 
 * [MT180 and 3MT : the institutional finals of INRS](https://inrs.ca/actualites/mt180-et-3mt-les-finales-institutionnelles-de-linrs/), 2023/03/23, INRS.
 * [Two Vanier scholars committed to the environment](https://inrs.ca/actualites/linrs-fait-bonne-figure-a-la-remise-des-bourses-vanier2022/), 2022/12/07, INRS.
 * [Extreme heat and artificial intelligence: a research scholarship for Jérémie Boudreault](https://www.inspq.qc.ca/nouvelles/chaleur-extreme-intelligence-artificielle-bourse-recherche-jeremie-boudreault), 2022/11/22, INSPQ.
