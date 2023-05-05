@@ -8,9 +8,9 @@ author_profile: true
 Upcoming talks
 -------------------
 
-2. **J Boudreault**, C Campagna, F Chebana (2023) Does machine and deep learning outperform statistical models in predicting the health effects of extreme heat? [2023 Statistical Society of Canada Annual Meeting](https://ssc.ca/en/meetings/annual/2023-ssc-annual-meeting-ottawa). 29/05/2023. Ottawa (ON) Canda. [Conférencier invité]
+15. **J Boudreault**, C Campagna, F Chebana (2023) Does machine and deep learning outperform statistical models in predicting the health effects of extreme heat? [2023 Statistical Society of Canada Annual Meeting](https://ssc.ca/en/meetings/annual/2023-ssc-annual-meeting-ottawa). 29/05/2023. Ottawa (ON) Canda. [Conférencier invité]
 
-1. **J Boudreault**, C Campagna, F Chebana (2023) The importance of weather and air pollution variables in heat-health relationships revisited by statistical and machine learning models [11th Candian Statistics Student Conference (SCCS)](https://ssc.ca/en/meetings/annual/2023-ssc-annual-meeting-ottawa/eleventh-annual-canadian-statistics-student-0). 27/05/2023. Ottawa (ON) Canda. [Poster]
+14. **J Boudreault**, C Campagna, F Chebana (2023) The importance of weather and air pollution variables in heat-health relationships revisited by statistical and machine learning models [11th Candian Statistics Student Conference (SCCS)](https://ssc.ca/en/meetings/annual/2023-ssc-annual-meeting-ottawa/eleventh-annual-canadian-statistics-student-0). 27/05/2023. Ottawa (ON) Canda. [Poster]
 {: reversed="reversed"}
 
 
@@ -22,7 +22,7 @@ Past talks
 12. **J Boudreault**, C Campagna, F Chebana (2022) Les relations chaleur-pollution-santé revisitées grâce à l'apprentissage automatique. [Symposium Ouranos](https://www.ouranos.ca/sites/default/files/2022-11/cc-symposium-2022-resumes-affiches_2.pdf). 01/12/2022. Québec (QC) Canada [Poster]
 
 
-11. **J Boudreault**, NE Bergeron, A St-Hilaire, F Chebana (2022). Functional regression models and their applications in ecohydrology. [10th Candian Statistics Student Conference (SCCS)](https://ssc.ca/en/meetings/annual/2022-annual-meeting/student-conference). 28/05/2022. Online.
+11. **J Boudreault**, NE Bergeron, A St-Hilaire, F Chebana (2022). Functional regression models and their applications in ecohydrology. [10th Canadian Statistics Student Conference (SCCS)](https://ssc.ca/en/meetings/annual/2022-annual-meeting/student-conference). 28/05/2022. Online.
 
 10. **J Boudreault**, NE Bergeron, A St-Hilaire, F Chebana (2022). L'intérêt des modèles de régression fonctionnelle en écohydrologie: trois applications concrètes. [Congrès sur la recherche hydrologique au Québec](https://event.fourwaves.com/fr/rhq22/horaire?date=2022-05-05). 05/05/2022. Québec (QC) Canada.
 
