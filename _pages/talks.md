@@ -8,7 +8,7 @@ author_profile: true
 Upcoming talks
 -------------------
 
-15. **J Boudreault**, C Campagna, F Chebana (2023) Does machine and deep learning outperform statistical models in predicting the health effects of extreme heat? [2023 Statistical Society of Canada Annual Meeting](https://ssc.ca/en/meetings/annual/2023-ssc-annual-meeting-ottawa). 29/05/2023. Ottawa (ON) Canda. [Conférencier invité]
+15. **J Boudreault**, C Campagna, F Chebana (2023) Does machine and deep learning outperform statistical models in predicting the health effects of extreme heat? [Statistical Society of Canada (SSC) 2023 annual meeting](https://ssc.ca/en/meetings/annual/2023-ssc-annual-meeting-ottawa). 29/05/2023. Ottawa (ON) Canda.
 
 14. **J Boudreault**, C Campagna, F Chebana (2023) The importance of weather and air pollution variables in heat-health relationships revisited by statistical and machine learning models [11th Candian Statistics Student Conference (SCCS)](https://ssc.ca/en/meetings/annual/2023-ssc-annual-meeting-ottawa/eleventh-annual-canadian-statistics-student-0). 27/05/2023. Ottawa (ON) Canda. [Poster]
 {: reversed="reversed"}
