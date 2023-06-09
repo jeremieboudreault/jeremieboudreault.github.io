@@ -8,6 +8,8 @@ author_profile: true
 Publications
 ---------------
 
+4. **J Boudreault**, C Campagna, F Chebana (2023).[Machine and deep learning for modelling heat-health relationships](https://doi.org/10.1016/j.scitotenv.2023.164660). Science of the Total Environment, 164660.
+
 4. **J Boudreault**, NE Bergeron, A St-Hilaire, F Chebana (2022). [A new look at habitat suitability curves through functional data analysis](https://www.sciencedirect.com/science/article/abs/pii/S030438002200031X?via%3Dihub). Ecological Modelling, 467(109905): 1-11. 
 
 3. **J Boudreault**, A St-Hilaire, F Chebana, NE Bergeron (2021). [Modelling fish physico-thermal habitat selection using functional regression](https://www.tandfonline.com/doi/full/10.1080/24705357.2020.1840313). Journal of Ecohydraulics, 6(2): 105-120.
