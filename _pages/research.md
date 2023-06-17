@@ -16,7 +16,7 @@ Published papers
 
 2. J Beaupré*, **J Boudreault**, NE Bergeron, A St-Hilaire (2020). [Inclusion of water temperature in a fuzzy logic Atlantic salmon (Salmo salar) parr habitat model](https://www.sciencedirect.com/science/article/abs/pii/S0306456519304012?via%3Dihub). Journal of Thermal Biology, 87(102471): 1-13.
 
-1. **J Boudreault**, NE Bergeron, A St-Hilaire, F Chebana (2019). [Stream Temperature Modeling Using Functional Regression Models](https://onlinelibrary.wiley.com/doi/abs/10.1111/1752-1688.12778). Journal of the American Water Resources Association, 55(6): 1382-1400.
+1. **J Boudreault***, NE Bergeron, A St-Hilaire, F Chebana (2019). [Stream Temperature Modeling Using Functional Regression Models](https://onlinelibrary.wiley.com/doi/abs/10.1111/1752-1688.12778). Journal of the American Water Resources Association, 55(6): 1382-1400.
 {: reversed="reversed"}
 
 Submitted papers
@@ -24,7 +24,7 @@ Submitted papers
 
 3. M Bourget*, M Boudreault, DA Carozza, **J Boudreault**, S Raymond (2023). Future insurance losses for pluvial flooding in Canada and the United States.
 
-2. M Grenier*, **J Boudreault***, S Raymond, M Boudreault (2023). Projected seasonal flooding in Canada under climate change using statistical and machine learning models. 
+2. M Grenier\*, **J Boudreault***, S Raymond, M Boudreault (2023). Projected seasonal flooding in Canada under climate change using statistical and machine learning models. 
 
 1. M Grenier*, M Boudreault, DA Carozza, **J Boudreault**, S Raymond (2023). [Flood occurrence and impact models for socioeconomic applications over Canada and the United States](https://www.authorea.com/users/587578/articles/625182-flood-occurrence-and-impact-models-for-socioeconomic-applications-over-canada-and-the-united-states) [Preprint].
 {: reversed="reversed"}
