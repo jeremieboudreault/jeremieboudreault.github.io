@@ -19,7 +19,7 @@ Work experience
 * **2022-** : Doctoral fellow
   * Climate change and health, Quebec National Institute of Public Health (INSPQ)
 
-* **2019-2022** : Research analyst in climate risk modelling
+* **2019-2022** : Research scientist in climate risk modelling
   * Climatic Hazards and Advanced Risk Modelling, The Co-operators
 
 * **2014-2015**: Actuarial intern
@@ -29,7 +29,7 @@ Awards and scholarships
 ---------------
 
 * **2022- : Vanier Canada Graduate scholarship**, NSERC (150 000$)
-* **2022- : Health System Impact Fellowship - AI stream**, CIHR (50 000$)
+* **2022- : Health System Impact Fellowship - Equitable AI stream**, CIHR (50 000$)
 * **2022- : Real-Decoste Excellence scholarship**, Ouranos (60 000$)
 * **2022** : Canada Graduate scholarship - Doctoral, NSERC (105 000$) [Declined]
 * **2022** : Doctoral Research scholarship, FRQNT (84 000$) [Declined]
