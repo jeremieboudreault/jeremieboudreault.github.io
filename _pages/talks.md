@@ -8,7 +8,7 @@ author_profile: true
 Upcoming talks
 -------------------
 
-1.  **J Boudreault** *et al.* (2023) L'intelligence artificielle pour mieux comprendre et prévoir les impacts des événements météorologiques extrêmes. Meetup Machine Learning Québec. 11/08/2023. Québec (QC) Canada.
+1.  **J Boudreault** *et al.* (2023) L'intelligence artificielle pour mieux comprendre et prévoir les impacts des événements météorologiques extrêmes. Meetup Machine Learning Québec. 11/08/2023. Québec (QC) Canada. **[Invited speaker]**
 
 
 Past talks
@@ -18,7 +18,7 @@ Past talks
 
 14. **J Boudreault**, C Campagna, F Chebana (2023) The importance of weather and air pollution variables in heat-health relationships revisited by statistical and machine learning models [11th Canadian Statistics Student Conference (SCCS)](https://ssc.ca/en/meetings/annual/2023-ssc-annual-meeting-ottawa/eleventh-annual-canadian-statistics-student-0). 27/05/2023. Ottawa (ON) Canda. [Poster]
 
-13. **J Boudreault**, C Campagna, F Chebana (2023) L’apprentissage automatique et profond pour analyser les relations entre la chaleur extrême, la pollution et la santé. [Conférence santé et qualité de l'air de l'APCAS](https://www.apcas.qc.ca/conference/sante-et-qualite-de-lair-enjeu-de-societe-majeur-21-fevrier-2023/). 21/02/2023. Québec (QC) Canda. **[Invited speaker]**
+13. **J Boudreault**, C Campagna, F Chebana (2023) L’apprentissage automatique et profond pour analyser les relations entre la chaleur extrême, la pollution et la santé. [Conférence santé et qualité de l'air de l'APCAS](https://www.apcas.qc.ca/conference/sante-et-qualite-de-lair-enjeu-de-societe-majeur-21-fevrier-2023/). 21/02/2023. Québec (QC) Canada. **[Invited speaker]**
 
 12. **J Boudreault**, C Campagna, F Chebana (2022) Les relations chaleur-pollution-santé revisitées grâce à l'apprentissage automatique. [Symposium Ouranos](https://www.ouranos.ca/sites/default/files/2022-11/cc-symposium-2022-resumes-affiches_2.pdf). 01/12/2022. Québec (QC) Canada [Poster]
 
