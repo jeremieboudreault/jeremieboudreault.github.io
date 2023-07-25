@@ -8,7 +8,7 @@ author_profile: true
 Upcoming talks
 -------------------
 
-1.  **J Boudreault** *et al.* (2023) L'intelligence artificielle pour mieux comprendre et prévoir les impacts des événements météorologiques extrêmes, Machine learning meet-ups. 11/08/2023. Québec (QC) Canda.
+1.  **J Boudreault** *et al.* (2023) L'intelligence artificielle pour mieux comprendre et prévoir les impacts des événements météorologiques extrêmes. Meetup Machine Learning Québec. 11/08/2023. Québec (QC) Canada.
 
 
 Past talks
