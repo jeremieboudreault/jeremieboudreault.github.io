@@ -13,7 +13,7 @@ Upcoming talks
 Past talks
 -------------------
 
-16.  **J Boudreault** *et al.* (2023) L'intelligence artificielle pour mieux comprendre et prévoir les impacts des événements météorologiques extrêmes. Meetup Machine Learning Québec. 11/08/2023. Québec (QC) Canada. **[Invited speaker]**
+16.  **J Boudreault** *et al.* (2023) L'intelligence artificielle pour mieux comprendre et prévoir les impacts des événements météorologiques extrêmes. [.Layer & WAI Machine Learning meetup](https://iid.ulaval.ca/evenements/reseautage-wai-layer-meetup-quebec/). 11/08/2023. Québec (QC) Canada. **[Invited speaker]**
 
 15. **J Boudreault**, C Campagna, F Chebana (2023) Does machine and deep learning outperform statistical models in predicting the health effects of extreme heat? [Statistical Society of Canada (SSC) 2023 annual meeting](https://ssc.ca/en/meetings/annual/2023-ssc-annual-meeting-ottawa). 29/05/2023. Ottawa (ON) Canda.
 
