@@ -22,9 +22,11 @@ Published papers
 Submitted papers
 ---------------
 
-3. M Bourget*, M Boudreault, DA Carozza, **J Boudreault**, S Raymond (2023). Future insurance losses for pluvial flooding in Canada and the United States.
+4. **J Boudreault***, C Campagna, F Chebana (2023). Revisiting the importance of temperature, weather and pollution variables in heat-mortality relationships with machine learning. 
 
-2. M Grenier\*, **J Boudreault***, S Raymond, M Boudreault (2023). Projected seasonal flooding in Canada under climate change using statistical and machine learning models. 
+3. F Tupinier-Martin*, **J Boudreault**, C Campagna, E Lavigne, P Gamache, M Tandonnet, M Genereux, S Trottier, I Goupil-Sormany (2023). The Relationship Between Hot Temperatures and Hospital Admissions for Psychosis in Adults Diagnosed with Schizophrenia: A Case-Crossover Study in Quebec, Canada.
+
+2. M Bourget*, M Boudreault, DA Carozza, **J Boudreault**, S Raymond (2023). Future insurance losses for pluvial flooding in Canada and the United States.
 
 1. M Grenier*, M Boudreault, DA Carozza, **J Boudreault**, S Raymond (2023). [Flood occurrence and impact models for socioeconomic applications over Canada and the United States](https://www.authorea.com/users/587578/articles/625182-flood-occurrence-and-impact-models-for-socioeconomic-applications-over-canada-and-the-united-states) [Preprint].
 {: reversed="reversed"}
