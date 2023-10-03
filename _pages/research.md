@@ -26,7 +26,7 @@ Submitted papers
 
 4. F Tupinier-Martin*, **J Boudreault**, C Campagna, E Lavigne, P Gamache, M Tandonnet, M Genereux, S Trottier, I Goupil-Sormany (2023). The Relationship Between Hot Temperatures and Hospital Admissions for Psychosis in Adults Diagnosed with Schizophrenia: A Case-Crossover Study in Quebec, Canada.
 
-3. M Grenier*, **J Boudreault***, S Raymond (2023). Projected seasonal flooding in Canada under climate change with machine and statistical learning.
+3. M Grenier\*, **J Boudreault**\*, S Raymond (2023). Projected seasonal flooding in Canada under climate change with machine and statistical learning.
 
 2. M Bourget*, M Boudreault, DA Carozza, **J Boudreault**, S Raymond (2023). Future insurance losses for pluvial flooding in Canada and the United States.
 
