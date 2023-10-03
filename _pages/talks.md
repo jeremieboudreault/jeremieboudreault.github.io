@@ -10,7 +10,7 @@ Upcoming talks
 
 2. **J Boudreault** *et al.* (2023) [Modèles de prédiction des impacts sanitaires de la chaleur avec apprentissage automatique](hhttps://espum.umontreal.ca/fileadmin/espum/documents/ESPUM/Nouvelles/2023/Calendrier_surveillance_epidemiologique_2023-2024.pdf). Séminaire en surveillance épidémiologique de l'EPSUM. 16/11/2023. En ligne. **[Invited speaker]**
 
-1. **J Boudreault** et F Lamothe (2024) [L'intelligence artificielle comme outil de santé publique pour prévenir les impacts des chaleurs](https://www.inspq.qc.ca/formation/evenements/avril-2024-ia-comme-outil-de-sante-publique-prevenir-impacts-chaleurs-extremes). Changements climatiques et santé : Webinaire 2023-2024. 11/04/2024. En ligne. **[Invited speaker]**
+1. **J Boudreault** et F Lamothe (2024) [L'intelligence artificielle comme outil de santé publique pour prévenir les impacts des chaleurs extrêmes](https://www.inspq.qc.ca/formation/evenements/avril-2024-ia-comme-outil-de-sante-publique-prevenir-impacts-chaleurs-extremes). Webinaires en changements climatiques de l'INSPQ. 11/04/2024. En ligne. **[Invited speaker]**
 {: reversed="reversed"}
 
 Past talks
@@ -22,14 +22,14 @@ Past talks
 
 14. **J Boudreault**, C Campagna, F Chebana (2023) [The importance of weather and air pollution variables in heat-health relationships revisited by statistical and machine learning models](https://ssc.ca/en/meetings/annual/2023-ssc-annual-meeting-ottawa/eleventh-annual-canadian-statistics-student-0). 11th Canadian Statistics Student Conference (SCCS). 27/05/2023. Ottawa (ON) Canda. [Poster]
 
-13. **J Boudreault**, C Campagna, F Chebana (2023) [L’apprentissage automatique et profond pour analyser les relations entre la chaleur extrême, la pollution et la santé]](https://www.apcas.qc.ca/conference/sante-et-qualite-de-lair-enjeu-de-societe-majeur-21-fevrier-2023/). Conférence santé et qualité de l'air de l'APCAS. 21/02/2023. Québec (QC) Canada. **[Invited speaker]**
+13. **J Boudreault**, C Campagna, F Chebana (2023) [L’apprentissage automatique et profond pour analyser les relations entre la chaleur extrême, la pollution et la santé](https://www.apcas.qc.ca/conference/sante-et-qualite-de-lair-enjeu-de-societe-majeur-21-fevrier-2023/). Conférence santé et qualité de l'air de l'APCAS. 21/02/2023. Québec (QC) Canada. **[Invited speaker]**
 
-12. **J Boudreault**, C Campagna, F Chebana (2022) [Les relations chaleur-pollution-santé revisitées grâce à l'apprentissage automatique]](https://www.ouranos.ca/sites/default/files/2022-11/cc-symposium-2022-resumes-affiches_2.pdf). Symposium Ouranos. 01/12/2022. Québec (QC) Canada [Poster]
+12. **J Boudreault**, C Campagna, F Chebana (2022) [Les relations chaleur-pollution-santé revisitées grâce à l'apprentissage automatique](https://www.ouranos.ca/sites/default/files/2022-11/cc-symposium-2022-resumes-affiches_2.pdf). Symposium Ouranos. 01/12/2022. Québec (QC) Canada [Poster]
 
 
 11. **J Boudreault**, NE Bergeron, A St-Hilaire, F Chebana (2022). [Functional regression models and their applications in ecohydrology. 10th Canadian Statistics Student Conference (SCCS)](https://ssc.ca/en/meetings/annual/2022-annual-meeting/student-conference). 28/05/2022. Online.
 
-10. **J Boudreault**, NE Bergeron, A St-Hilaire, F Chebana (2022). [L'intérêt des modèles de régression fonctionnelle en écohydrologie: trois applications concrètes]](https://event.fourwaves.com/fr/rhq22/horaire?date=2022-05-05). Congrès sur la recherche hydrologique au Québec. 05/05/2022. Québec (QC) Canada.
+10. **J Boudreault**, NE Bergeron, A St-Hilaire, F Chebana (2022). [L'intérêt des modèles de régression fonctionnelle en écohydrologie: trois applications concrètes](https://event.fourwaves.com/fr/rhq22/horaire?date=2022-05-05). Congrès sur la recherche hydrologique au Québec. 05/05/2022. Québec (QC) Canada.
 
 9. **J Boudreault**, C Campagna, F Chebana (2022). Estimations des impacts économiques de la chaleur extrême au Québec en contexte de changements climatiques. Journée scientifique de l’INRS. 18/02/2022. Online.
 
