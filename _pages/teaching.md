@@ -5,10 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Lecturer
+Co-lecturer
 ----------
 
-* **Fall 2022** : ETE414 - Data science and environmental applications (three sessions on machine learning and neural networks), INRS
+* **Fall 2023** : ETE414 - Data science and environmental applications (sessions on machine and deep learning), INRS
+
+* **Fall 2022** : ETE414 - Data science and environmental applications (sessions on machine learning and neural networks), INRS
 
 * **Fall 2021** : ETE414 - Multivariate data analysis (one session on neural networks), INRS
 
