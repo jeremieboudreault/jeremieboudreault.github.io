@@ -8,7 +8,7 @@ author_profile: true
 Published papers
 ---------------
 
-4. **J Boudreault***, C Campagna, F Chebana (2023). [Machine and deep learning for modelling heat-health relationships](https://doi.org/10.1016/j.scitotenv.2023.164660). Science of the Total Environment, 682(164660): 1-12.
+5. **J Boudreault***, C Campagna, F Chebana (2023). [Machine and deep learning for modelling heat-health relationships](https://doi.org/10.1016/j.scitotenv.2023.164660). Science of the Total Environment, 682(164660): 1-12.
 
 4. **J Boudreault***, NE Bergeron, A St-Hilaire, F Chebana (2022). [A new look at habitat suitability curves through functional data analysis](https://www.sciencedirect.com/science/article/abs/pii/S030438002200031X?via%3Dihub). Ecological Modelling, 467(109905): 1-11. 
 
@@ -22,9 +22,11 @@ Published papers
 Submitted papers
 ---------------
 
-4. **J Boudreault***, C Campagna, F Chebana (2023). Revisiting the importance of temperature, weather and pollution variables in heat-mortality relationships with machine learning. 
+5. **J Boudreault***, C Campagna, F Chebana (2023). Revisiting the importance of temperature, weather and pollution variables in heat-mortality relationships with machine learning. 
 
-3. F Tupinier-Martin*, **J Boudreault**, C Campagna, E Lavigne, P Gamache, M Tandonnet, M Genereux, S Trottier, I Goupil-Sormany (2023). The Relationship Between Hot Temperatures and Hospital Admissions for Psychosis in Adults Diagnosed with Schizophrenia: A Case-Crossover Study in Quebec, Canada.
+4. F Tupinier-Martin*, **J Boudreault**, C Campagna, E Lavigne, P Gamache, M Tandonnet, M Genereux, S Trottier, I Goupil-Sormany (2023). The Relationship Between Hot Temperatures and Hospital Admissions for Psychosis in Adults Diagnosed with Schizophrenia: A Case-Crossover Study in Quebec, Canada.
+
+3. M Grenier*, **J Boudreault***, S Raymond (2023). Projected seasonal flooding in Canada under climate change with machine and statistical learning.
 
 2. M Bourget*, M Boudreault, DA Carozza, **J Boudreault**, S Raymond (2023). Future insurance losses for pluvial flooding in Canada and the United States.
 
