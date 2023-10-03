@@ -27,7 +27,7 @@ Past talks
 12. **J Boudreault**, C Campagna, F Chebana (2022) [Les relations chaleur-pollution-santé revisitées grâce à l'apprentissage automatique](https://www.ouranos.ca/sites/default/files/2022-11/cc-symposium-2022-resumes-affiches_2.pdf). Symposium Ouranos. 01/12/2022. Québec (QC) Canada [Poster]
 
 
-11. **J Boudreault**, NE Bergeron, A St-Hilaire, F Chebana (2022). [Functional regression models and their applications in ecohydrology. 10th Canadian Statistics Student Conference (SCCS)](https://ssc.ca/en/meetings/annual/2022-annual-meeting/student-conference). 28/05/2022. Online.
+11. **J Boudreault**, NE Bergeron, A St-Hilaire, F Chebana (2022). [Functional regression models and their applications in ecohydrology](https://ssc.ca/en/meetings/annual/2022-annual-meeting/student-conference). 10th Canadian Statistics Student Conference (SCCS). 28/05/2022. Online.
 
 10. **J Boudreault**, NE Bergeron, A St-Hilaire, F Chebana (2022). [L'intérêt des modèles de régression fonctionnelle en écohydrologie: trois applications concrètes](https://event.fourwaves.com/fr/rhq22/horaire?date=2022-05-05). Congrès sur la recherche hydrologique au Québec. 05/05/2022. Québec (QC) Canada.
 
