@@ -8,6 +8,11 @@ author_profile: true
 Upcoming talks
 -------------------
 
+- **J Boudreault** *et al.* (2023) Modèles de prédiction des impacts sanitaires de la chaleur avec apprentissage automatique. [Séminaire en surveillance épidémiologique de l'EPSUM](hhttps://espum.umontreal.ca/fileadmin/espum/documents/ESPUM/Nouvelles/2023/Calendrier_surveillance_epidemiologique_2023-2024.pdf). 16/11/2023. En ligne. **[Invited speaker]**
+
+-  **J Boudreault** *et al.* (2024) L'intelligence artificielle comme outil de santé publique pour prévenir les impacts des chaleurs. [Changements climatiques et santé : Webinaire 2023-2024](https://www.inspq.qc.ca/formation/evenements/avril-2024-ia-comme-outil-de-sante-publique-prevenir-impacts-chaleurs-extremes). 11/08/2023. En ligne. **[Invited speaker]**
+
+Ajouter Webinaire INSPQ
 
 
 Past talks
