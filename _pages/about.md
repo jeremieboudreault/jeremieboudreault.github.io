@@ -47,3 +47,4 @@ fbclid=IwAR3RnzZaGAJ6dpHQw4YDKKyxn9wqVtviFJphlqIKjWB8S76jWbW0nJhrA38), 2022/04/2
 * [The pathway of Jeremie Boudreault in environmental science](https://inrs.ca/actualites/ma-recherche-en-serie-la-passion-pour-lenvironnement-de-jeremie-boudreault-de-la-maitrise-au-doctorat/), 2022/04/22, INRS.
 * [Graduates stand out at the 2018-2019 convocation](https://inrs.ca/actualites/des-diplomees-se-distinguent-a-la-collation-des-grades-2018-2019/), 2019/05/07, INRS
 * [Jeremie Boudreault is the recipient of the Ken Thompson Scholarship from CWRA](https://inrs.ca/actualites/jeremie-boudreault-est-recipiendaire-de-la-bourse-ken-thompson-de-lacrh/), 2018/05/25, INRS
+* [Big success for the Earth and Environmental Science Day](https://inrs.ca/actualites/franc-succes-pour-la-journee-des-sciences-de-la-terre-et-de-lenvironnement/), 2018/03/22, INRS.
