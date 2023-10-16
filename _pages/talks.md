@@ -8,10 +8,12 @@ author_profile: true
 Upcoming talks
 -------------------
 
-2. **J Boudreault** *et al.* (2023) [Modèles de prédiction des impacts sanitaires de la chaleur avec apprentissage automatique](hhttps://espum.umontreal.ca/fileadmin/espum/documents/ESPUM/Nouvelles/2023/Calendrier_surveillance_epidemiologique_2023-2024.pdf). Séminaire en surveillance épidémiologique de l'EPSUM. 16/11/2023. En ligne. **[Invited speaker]**
+1. **J Boudreault**, C Campagna, F Chebana (2023) [Modèles de prédiction des impacts sanitaires de la chaleur avec apprentissage automatique](hhttps://espum.umontreal.ca/fileadmin/espum/documents/ESPUM/Nouvelles/2023/Calendrier_surveillance_epidemiologique_2023-2024.pdf). Séminaire en surveillance épidémiologique de l'EPSUM. 16/11/2023. En ligne. **[Invited speaker]**
 
-1. **J Boudreault** et F Lamothe (2024) [L'intelligence artificielle comme outil de santé publique pour prévenir les impacts des chaleurs extrêmes](https://www.inspq.qc.ca/formation/evenements/avril-2024-ia-comme-outil-de-sante-publique-prevenir-impacts-chaleurs-extremes). Webinaires en changements climatiques de l'INSPQ. 11/04/2024. En ligne. **[Invited speaker]**
-{: reversed="reversed"}
+2. **J Boudreault**, C Campagna, F Chebana (2023) [Modèles d’apprentissage automatique pour la vigie sanitaire des effets de la chaleur extrême sur la santé](https://www.inspq.qc.ca/jasp/accueil). 26e journées annuelles de la santé publique (JASP). Québec, Quebec, Canada. 27/11/2023.
+
+3. **J Boudreault** et F Lamothe (2024) [L'intelligence artificielle comme outil de santé publique pour prévenir les impacts des chaleurs extrêmes](https://www.inspq.qc.ca/formation/evenements/avril-2024-ia-comme-outil-de-sante-publique-prevenir-impacts-chaleurs-extremes). Webinaires en changements climatiques de l'INSPQ. 11/04/2024. En ligne. **[Invited speaker]**
+
 
 Past talks
 -------------------
