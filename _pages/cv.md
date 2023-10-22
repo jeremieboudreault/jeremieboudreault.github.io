@@ -25,12 +25,12 @@ Work experience
 * **2014-2015**: Actuarial intern
   * Actuarial pricing (2014), BI & Special projects (2015), SSQ General Insurance
   
-Awards and scholarships
+Main awards and scholarships
 ---------------
 
 * **2022- : Vanier Canada Graduate scholarship**, NSERC (150 000$)
-* **2022- : Health System Impact Fellowship - Equitable AI stream**, CIHR (50 000$)
 * **2022- : Real-Decoste Excellence scholarship**, Ouranos (60 000$)
+* **2022** : Health System Impact Fellowship - Equitable AI stream, CIHR (50 000$)
 * **2022** : Canada Graduate scholarship - Doctoral, NSERC (105 000$) [Declined]
 * **2022** : Doctoral Research scholarship, FRQNT (84 000$) [Declined]
 * **2021** : Student Research scholarship, INSPQ (14 000$)
@@ -40,23 +40,15 @@ Awards and scholarships
 * **2016** : Claude-Dussault award, Laval University (3 000$)
 * **2016** : André Darveau award, Laval University (2 000$)
 * **2013** : Medal of the general board, Cegep de Chicoutimi (500$)
+* *See CV for all awatds and scholarships...*
 
-Certifications
+
+Curreny social involvement
 -------------------
 
-* **2022** : Summer institute in artificial intelligence, public health and equity, McGill University
-* **2022** : Spring school in high performance computing, Calcul Québec
-* **2021** : Winter school in machine learning, Laval University
-* **2017-2018** : Microprogram in climate change, Laval University
-* **2018** : Professional working a river environment, Expertise Nautique Québec
-* **2017** : Backpack Electrofishing Certificate Course, University of New Brunswick
-* **2016-2017** : Intensive summer and winter field course in water science
-
-Social involvement
--------------------
-
+* **2023-** : Responsible for scientific activites, INRS student association
 * **2023-** : Member, Institutional committee for sustainable development of INRS
-* **2022-** : Responsible for environmental projects, INRS student association
+* **2023-** : Reviewer for scientific papers, *Nature Scientific Reports*, *Environmental and Ecological Statistics*
 * **2021-** : Treasurer and project manager, 490 Green Comittee
 * *See CV for past social involvments...*
 
