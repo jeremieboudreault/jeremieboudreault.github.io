@@ -40,7 +40,7 @@ Main awards and scholarships
 * **2016** : Claude-Dussault award, Laval University (3 000$)
 * **2016** : André Darveau award, Laval University (2 000$)
 * **2013** : Medal of the general board, Cegep de Chicoutimi (500$)
-* *See CV for all awatds and scholarships...*
+*See CV for all awards and scholarships.*
 
 
 Curreny social involvement
@@ -50,7 +50,7 @@ Curreny social involvement
 * **2023-** : Member, Institutional committee for sustainable development of INRS
 * **2023-** : Reviewer for scientific papers, *Nature Scientific Reports*, *Environmental and Ecological Statistics*
 * **2021-** : Treasurer and project manager, 490 Green Comittee
-* *See CV for past social involvments...*
+*See CV for past social involvments.*
 
 Teaching experience
 ---------------
