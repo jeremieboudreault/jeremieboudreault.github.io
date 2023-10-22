@@ -8,11 +8,9 @@ author_profile: true
 Co-lecturer
 ----------
 
-* **Fall 2023** : ETE414 - Data science and environmental applications (sessions on machine and deep learning), INRS
-
-* **Fall 2022** : ETE414 - Data science and environmental applications (sessions on machine and deep learning), INRS
-
-* **Fall 2021** : ETE414 - Multivariate data analysis (one session on neural networks), INRS
+* **Fall 2023** : ETE414 - Data science and environmental applications, INRS
+* **Fall 2022** : ETE414 - Data science and environmental applications, INRS
+* **Fall 2021** : ETE414 - Multivariate data analysis, INRS
 
 Teaching assistant
 -----------
