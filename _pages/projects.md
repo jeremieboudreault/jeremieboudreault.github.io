@@ -14,10 +14,10 @@ Health and economic impacts of extreme heat 🌇 [2021-]
 - Estimating the health costs of extreme heat in the province of Quebec
 - Projecting the impacts of extreme heat with climate and socioeconomic change
 
-Related research : [Published paper #5, Report #1, Submitted papers #4, #5, ](https://jeremieboudreault.github.io/research/)
+Related research : [Published paper #5, Report #1, Submitted papers #4, #5](https://jeremieboudreault.github.io/research/)
 
 
-Climate-related risks in insurance contexts ⛈ [2019-2023] 
+Climate-related risks in insurance contexts ⛈ [2019-2022] 
 -------------------
 
 *As part of my employment in the climatic hazards team at The Co-operators.*
