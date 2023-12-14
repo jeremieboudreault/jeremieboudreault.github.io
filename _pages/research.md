@@ -22,6 +22,8 @@ Published papers
 Submitted papers
 ---------------
 
+6. **J Boudreault***, A Ruf, C Campagna, F Chebana (2023). Multi-region models built with machine and deep learning for predicting several heat-related health outcomes.
+
 5. **J Boudreault***, C Campagna, F Chebana (2023). Revisiting the importance of temperature, weather and pollution variables in heat-mortality relationships with machine learning. 
 
 4. F Tupinier-Martin*, **J Boudreault**, C Campagna, E Lavigne, P Gamache, M Tandonnet, M Genereux, S Trottier, I Goupil-Sormany (2023). The Relationship Between Hot Temperatures and Hospital Admissions for Psychosis in Adults Diagnosed with Schizophrenia: A Case-Crossover Study in Quebec, Canada.
