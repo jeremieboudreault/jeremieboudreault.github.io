@@ -16,7 +16,7 @@ Published papers
 
 2. J Beaupré*, **J Boudreault**, NE Bergeron, A St-Hilaire (2020). [Inclusion of water temperature in a fuzzy logic Atlantic salmon (Salmo salar) parr habitat model](https://www.sciencedirect.com/science/article/abs/pii/S0306456519304012?via%3Dihub). Journal of Thermal Biology, 87(102471): 1-13.
 
-1. **J Boudreault***, NE Bergeron, A St-Hilaire, F Chebana (2019). [Stream Temperature Modeling Using Functional Regression Models](https://onlinelibrary.wiley.com/doi/abs/10.1111/1752-1688.12778). Journal of the American Water Resources Association, 55(6): 1382-1400.
+1. **J Boudreault***, NE Bergeron, A St-Hilaire, F Chebana (2019). [Stream temperature modeling using functional regression models](https://onlinelibrary.wiley.com/doi/abs/10.1111/1752-1688.12778). Journal of the American Water Resources Association, 55(6): 1382-1400.
 {: reversed="reversed"}
 
 Submitted papers
@@ -26,7 +26,7 @@ Submitted papers
 
 5. **J Boudreault***, C Campagna, F Chebana (2023). Revisiting the importance of temperature, weather and pollution variables in heat-mortality relationships with machine learning. 
 
-4. F Tupinier-Martin*, **J Boudreault**, C Campagna, E Lavigne, P Gamache, M Tandonnet, M Genereux, S Trottier, I Goupil-Sormany (2023). The Relationship Between Hot Temperatures and Hospital Admissions for Psychosis in Adults Diagnosed with Schizophrenia: A Case-Crossover Study in Quebec, Canada.
+4. F Tupinier-Martin*, **J Boudreault**, C Campagna, E Lavigne, P Gamache, M Tandonnet, M Genereux, S Trottier, I Goupil-Sormany (2023). The relationship between hot temperatures and hospital admissions for psychosis in adults diagnosed with schizophrenia: a case-crossover study in Quebec, Canada.
 
 3. M Grenier\*, **J Boudreault**\*, S Raymond, M Boudreault (2023). Projected seasonal flooding in Canada under climate change with statistical and machine learning.
 
