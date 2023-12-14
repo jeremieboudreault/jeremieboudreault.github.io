@@ -8,7 +8,7 @@ author_profile: true
 Upcoming talks
 -------------------
 
-2. **J Boudreault** *et al.* (2024) [Prédiction des impacts sanitaires de la chaleur avec apprentissage automatique](https://jeremieboudreault.github.io/talks/). Séminaire conjoint Quantact et CIMMUL de l'Université Laval. 19/11/2024. Québec (QC) Canada. **[Invited speaker]**
+2. **J Boudreault** *et al.* (2024) [Prédiction de la mortalité et morbidité liées à la chaleur extrême avec apprentissage automatique et profond](https://jeremieboudreault.github.io/talks/). Séminaire conjoint Quantact et CIMMUL de l'Université Laval. 19/11/2024. Québec (QC) Canada. **[Invited speaker]**
 
 2. **J Boudreault** et F Lamothe (2024) [L'intelligence artificielle comme outil de santé publique pour prévenir les impacts des chaleurs extrêmes](https://www.inspq.qc.ca/formation/evenements/avril-2024-ia-comme-outil-de-sante-publique-prevenir-impacts-chaleurs-extremes). Webinaires en changements climatiques de l'INSPQ. 11/04/2024. En ligne. **[Invited speaker]**
 
