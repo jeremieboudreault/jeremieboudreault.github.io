@@ -49,7 +49,7 @@ Curreny social involvement
 
 * **2023-** : Responsible for scientific activites, INRS student association
 * **2023-** : Member, Institutional committee for sustainable development of INRS
-* **2023-** : Reviewer of scientific papers, *Nature Scientific Reports*, *Environmental and Ecological Statistics*
+* **2023-** : Reviewer of scientific papers, *Nature Scientific Reports*, *EHP* and *Environmental and Ecological Statistics*
 * **2021-** : Treasurer and project manager, 490 Green Comittee
 
 *See CV for past social involvments.*

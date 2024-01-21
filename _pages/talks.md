@@ -8,13 +8,15 @@ author_profile: true
 Upcoming talks
 -------------------
 
-2. **J Boudreault** *et al.* (2024) [Prédiction de la mortalité et morbidité liées à la chaleur extrême avec apprentissage automatique et profond](https://jeremieboudreault.github.io/talks/). Séminaire conjoint Quantact et CIMMUL de l'Université Laval. 19/11/2024. Québec (QC) Canada. **[Invited speaker]**
 
-2. **J Boudreault** et F Lamothe (2024) [L'intelligence artificielle comme outil de santé publique pour prévenir les impacts des chaleurs extrêmes](https://www.inspq.qc.ca/formation/evenements/avril-2024-ia-comme-outil-de-sante-publique-prevenir-impacts-chaleurs-extremes). Webinaires en changements climatiques de l'INSPQ. 11/04/2024. En ligne. **[Invited speaker]**
+. **J Boudreault** et F Lamothe (2024) [L'intelligence artificielle comme outil de santé publique pour prévenir les impacts des chaleurs extrêmes](https://www.inspq.qc.ca/formation/evenements/avril-2024-ia-comme-outil-de-sante-publique-prevenir-impacts-chaleurs-extremes). Webinaires en changements climatiques de l'INSPQ. 11/04/2024. En ligne. **[Invited speaker]**
 
 
 Past talks
 -------------------
+
+19. **J Boudreault**, C Campagna, F Chebana (2024) [Prédiction de la mortalité et morbidité liées à la chaleur extrême avec apprentissage automatique et profond](https://cimmul.fsg.ulaval.ca/event/seminaire-du-cimmul-quantact-jeremie-boudreault/). Séminaire conjoint Quantact et CIMMUL de l'Université Laval. 19/11/2024. Québec (QC) Canada. **[Invited speaker]**
+
 
 18. **J Boudreault**, C Campagna, F Chebana (2023) [Modèles d’apprentissage automatique pour la vigie sanitaire des effets de la chaleur extrême sur la santé](https://www.inspq.qc.ca/jasp/communications-affichees). 26es Journées annuelles de santé publique (JASP) du Québec. Québec (QC) Canada. 27/11/2023. [Poster]
 
