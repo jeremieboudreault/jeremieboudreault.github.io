@@ -9,7 +9,7 @@ Upcoming talks
 -------------------
 
 
-. **J Boudreault** et F Lamothe (2024) [L'intelligence artificielle comme outil de santé publique pour prévenir les impacts des chaleurs extrêmes](https://www.inspq.qc.ca/formation/evenements/avril-2024-ia-comme-outil-de-sante-publique-prevenir-impacts-chaleurs-extremes). Webinaires en changements climatiques de l'INSPQ. 11/04/2024. En ligne. **[Invited speaker]**
+1. **J Boudreault** et F Lamothe (2024) [L'intelligence artificielle comme outil de santé publique pour prévenir les impacts des chaleurs extrêmes](https://www.inspq.qc.ca/formation/evenements/avril-2024-ia-comme-outil-de-sante-publique-prevenir-impacts-chaleurs-extremes). Webinaires en changements climatiques de l'INSPQ. 11/04/2024. En ligne. **[Invited speaker]**
 
 
 Past talks
