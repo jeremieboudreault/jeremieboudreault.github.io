@@ -26,6 +26,8 @@ Published papers
 Submitted papers
 ---------------
 
+5. **J Boudreault***, E Lavigne, C Campagna, F Chebana (2024). Estimating the heat-related mortality and morbidity burden in the province of Quebec, Canada.
+
 4. **J Boudreault***, A Ruf, C Campagna, F Chebana (2024). Multi-region models built with machine and deep learning for predicting several heat-related health outcomes.
 
 3. M Bourget*, M Boudreault, DA Carozza, **J Boudreault**, S Raymond (2024). Future insurance losses for pluvial flooding in Canada and the United States.
