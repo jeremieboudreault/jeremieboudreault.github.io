@@ -8,9 +8,9 @@ author_profile: true
 Published papers
 ---------------
 
-7. **J Boudreault***, C Campagna, F Chebana (2024). [Revisiting the importance of temperature, weather and pollution variables in heat-mortality relationships with machine learning](https://doi.org/10.1007/s11356-024-31969-z). Environmental Science and Pollution Research.
+7. **J Boudreault***, C Campagna, F Chebana (2024). [Revisiting the importance of temperature, weather and pollution variables in heat-mortality relationships with machine learning](https://doi.org/10.1007/s11356-024-31969-z). Environmental Science and Pollution Research. 31 (9): 14059-14070.
 
-6. F Tupinier-Martin*, **J Boudreault**, C Campagna, E Lavigne, P Gamache, M Tandonnet, M Genereux, S Trottier, I Goupil-Sormany (2024). [The relationship between hot temperatures and hospital admissions for psychosis in adults diagnosed with schizophrenia: a case-crossover study in Quebec, Canada](https://doi.org/10.1016/j.envres.2024.118225). Environmental Research.
+6. F Tupinier-Martin*, **J Boudreault**, C Campagna, E Lavigne, P Gamache, M Tandonnet, M Genereux, S Trottier, I Goupil-Sormany (2024). [The relationship between hot temperatures and hospital admissions for psychosis in adults diagnosed with schizophrenia: a case-crossover study in Quebec, Canada](https://doi.org/10.1016/j.envres.2024.118225). Environmental Research. 467(109905): 1-12.
 
 5. **J Boudreault***, C Campagna, F Chebana (2023). [Machine and deep learning for modelling heat-health relationships](https://doi.org/10.1016/j.scitotenv.2023.164660). Science of the Total Environment, 682(164660): 1-12.
 
