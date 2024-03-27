@@ -8,10 +8,6 @@ author_profile: true
 Upcoming talks
 -------------------
 
-
-1. **J Boudreault**, C Campagna & F Chebana (2024) Impacts sanitaires et économiques des chaleurs extrêmes grâce à la science des données. Symposium des programmes sur mesure de l'INRS. 25/03/2024. Québec, QC, Canada.
-
-
 2. **J Boudreault** et F Lamothe (2024) [L'intelligence artificielle comme outil de santé publique pour prévenir les impacts des chaleurs extrêmes](https://www.inspq.qc.ca/formation/evenements/avril-2024-ia-comme-outil-de-sante-publique-prevenir-impacts-chaleurs-extremes). Webinaires en changements climatiques de l'INSPQ. 11/04/2024. En ligne. **[Invited speaker]**
 
 3. **J Boudreault**, E Lavigne, C Campagna & F Chebana (2024) [Modélisation des impacts sur la santé de la chaleur extrême au Québec, Canada](https://inrs.ca/linrs/salle-de-nouvelles/evenements/journees-scientifiques-de-linrs-2024/#:~:text=La%204e%20%C3%A9dition%20de%20la,au%20Centre%20Eau%20Terre%20Environnement.). Journée scientifique 2024 de l'INRS. 19/04/2024. Québec, QC, Canada.
@@ -19,6 +15,8 @@ Upcoming talks
 
 Past talks
 -------------------
+
+20. **J Boudreault**, C Campagna & F Chebana (2024) Impacts sanitaires et économiques des chaleurs extrêmes grâce à la science des données. Symposium des programmes sur mesure de l'INRS. 25/03/2024. Québec, QC, Canada.
 
 19. **J Boudreault**, C Campagna, F Chebana (2024) [Prédiction de la mortalité et morbidité liées à la chaleur extrême avec apprentissage automatique et profond](https://cimmul.fsg.ulaval.ca/event/seminaire-du-cimmul-quantact-jeremie-boudreault/). Séminaire conjoint Quantact et CIMMUL de l'Université Laval. 19/11/2024. Québec (QC) Canada. **[Invited speaker]**
 
