@@ -10,7 +10,6 @@ Published papers
 
 8. M Grenier\*, **J Boudreault**\*, S Raymond, M Boudreault (2024). [Projected seasonal flooding in Canada under climate change with statistical and machine learning](https://doi.org/10.1016/j.ejrh.2024.101754). Journal of Hydrology: Regional Studies. 52(101754): 1-16. 
 
-
 7. **J Boudreault***, C Campagna, F Chebana (2024). [Revisiting the importance of temperature, weather and pollution variables in heat-mortality relationships with machine learning](https://doi.org/10.1007/s11356-024-31969-z). Environmental Science and Pollution Research. 31 (9): 14059-14070.
 
 6. F Tupinier-Martin*, **J Boudreault**, C Campagna, E Lavigne, P Gamache, M Tandonnet, M Genereux, S Trottier, I Goupil-Sormany (2024). [The relationship between hot temperatures and hospital admissions for psychosis in adults diagnosed with schizophrenia: a case-crossover study in Quebec, Canada](https://doi.org/10.1016/j.envres.2024.118225). Environmental Research. 246(118225): 1-12.
@@ -33,7 +32,7 @@ Submitted papers
 
 3. **J Boudreault***, A Ruf, C Campagna, F Chebana (2024). Multi-region models built with machine and deep learning for predicting several heat-related health outcomes.
 
-2. M Bourget*, M Boudreault, DA Carozza, **J Boudreault**, S Raymond (2024). Future insurance losses for pluvial flooding in Canada and the United States.
+2. M Bourget*, M Boudreault, DA Carozza, **J Boudreault**, S Raymond (2024). A data science approach to climate change risk assessment applied to pluvial flood occurrences for the United States and Canada. [**Accepted in ASTIN Bulletin**]
 
 1. M Grenier*, M Boudreault, DA Carozza, **J Boudreault**, S Raymond (2024). Flood occurrence and impact models for socioeconomic applications over Canada and the United States.
 {: reversed="reversed"}
