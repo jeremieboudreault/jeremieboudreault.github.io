@@ -16,7 +16,7 @@ News
 ----------
 
 * 🆕 [Heatwave heroes: crafting health safeguards for all in an era of turbulent temperatures](https://cihr-irsc.gc.ca/e/53886.html), 2024/04/19, Canadian Institutes of Health Research.
-* 🆕 [Announcement of the winners of of 3-minutes thesis competition at INRS](https://inrs.ca/actualites/ma-these-en-180-secondes-et-three-minute-thesis-devoilement-des-laureats-de-linrs/), 2024/04/09, INRS website.
+* 🆕 [Winners of the 3-minutes thesis competition at INRS](https://inrs.ca/actualites/ma-these-en-180-secondes-et-three-minute-thesis-devoilement-des-laureats-de-linrs/), 2024/04/09, INRS.
 * [The financial  and health impact of a heatwave](https://ici.radio-canada.ca/ohdio/premiere/emissions/cest-jamais-pareil/episodes/750162/rattrapage-vendredi-8-septembre-2023/4), 2023/09/08, ICI Radio-Canada.
 * [Heatwaves generate costs. Here's why it's important to quantify them](https://theconversation.com/les-canicules-engendrent-des-couts-voici-pourquoi-il-est-important-de-les-quantifier-207749), 2023/09/05, The Conversation.
 * [What's hidden in INRS waste?](https://www.lasyntheseinrs.com/post/hors-s%C3%A9rie-qu-est-ce-qui-se-cache-dans-les-poubelles-de-l-inrs), 2023/05/29, La Synthèse.
