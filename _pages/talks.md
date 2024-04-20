@@ -13,7 +13,7 @@ Past talks
 -------------------
 
 
-22. **J Boudreault**, E Lavigne, C Campagna & F Chebana (2024) [Modélisation des impacts sur la santé de la chaleur extrême au Québec, Canada](https://inrs.ca/linrs/salle-de-nouvelles/evenements/journees-scientifiques-de-linrs-2024/#:~:text=La%204e%20%C3%A9dition%20de%20la,au%20Centre%20Eau%20Terre%20Environnement.). Journée scientifique 2024 de l'INRS. 19/04/2024. Québec, QC, Canada.
+22. **J Boudreault**, E Lavigne, C Campagna & F Chebana (2024) [Modélisation des impacts sur la santé de la chaleur extrême au Québec, Canada](https://inrs.ca/linrs/salle-de-nouvelles/evenements/journees-scientifiques-de-linrs-2024/#:~:text=La%204e%20%C3%A9dition%20de%20la,au%20Centre%20Eau%20Terre%20Environnement.). Journée scientifique de l'INRS. 19/04/2024. Québec, QC, Canada.
 
 21. **J Boudreault** & F Lamothe (2024) [L'intelligence artificielle comme outil de santé publique pour prévenir les impacts des chaleurs extrêmes](https://campusvirtuel.inspq.qc.ca/course/view.php?id=175). Webinaires en changements climatiques de l'INSPQ. 11/04/2024. En ligne. **[Invited speaker]**
 
