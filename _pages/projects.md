@@ -14,7 +14,7 @@ Health and economic impacts of extreme heat 🌇 [2021-]
 - Estimating the health costs of extreme heat in the province of Quebec
 - Projecting the impacts of extreme heat with climate and socioeconomic change
 
-Related research : [Report #1, Published paper #5, #6 #7, Submitted paper #3, #4](https://jeremieboudreault.github.io/research/)
+Related research : [Report #1, Published paper #5, #6 #7, Submitted paper #2, #3](https://jeremieboudreault.github.io/research/)
 
 
 Climate-related risks in insurance contexts ⛈ [2019-2023] 
@@ -26,7 +26,7 @@ Climate-related risks in insurance contexts ⛈ [2019-2023]
 - Projection of climate change impacts for convective storms, hurricane and flooding
 - Tools for spatial concentration and natural disaster risk management
 
-Related research : [Published paper #8, Submitted papers #1, #2](https://jeremieboudreault.github.io/research/)
+Related research : [Published paper #8, #9 Submitted papers #1](https://jeremieboudreault.github.io/research/)
 
 
 Functional regression models in ecohydrology 🏞 [2016-2019] 
