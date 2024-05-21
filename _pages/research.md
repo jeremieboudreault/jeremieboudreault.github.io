@@ -8,6 +8,8 @@ author_profile: true
 Published papers
 ---------------
 
+9. M Bourget*, M Boudreault, DA Carozza, **J Boudreault**, S Raymond (2024). [A data science approach to climate change risk assessment applied to pluvial flood occurrences for the United States and Canada](https://doi.org/10.1017/asb.2024.19). ASTIN Bulletin: The Journal of the International Actuarial Association. 1-23.
+
 8. M Grenier\*, **J Boudreault**\*, S Raymond, M Boudreault (2024). [Projected seasonal flooding in Canada under climate change with statistical and machine learning](https://doi.org/10.1016/j.ejrh.2024.101754). Journal of Hydrology: Regional Studies. 52(101754): 1-16. 
 
 7. **J Boudreault***, C Campagna, F Chebana (2024). [Revisiting the importance of temperature, weather and pollution variables in heat-mortality relationships with machine learning](https://doi.org/10.1007/s11356-024-31969-z). Environmental Science and Pollution Research. 31 (9): 14059-14070.
@@ -28,11 +30,9 @@ Published papers
 Submitted papers
 ---------------
 
-4. **J Boudreault***, E Lavigne, C Campagna, F Chebana (2024). Estimating the heat-related mortality and morbidity burden in the province of Quebec, Canada.
+3. **J Boudreault***, E Lavigne, C Campagna, F Chebana (2024). Estimating the heat-related mortality and morbidity burden in the province of Quebec, Canada.
 
-3. **J Boudreault***, A Ruf, C Campagna, F Chebana (2024). Multi-region models built with machine and deep learning for predicting several heat-related health outcomes.
-
-2. M Bourget*, M Boudreault, DA Carozza, **J Boudreault**, S Raymond (2024). A data science approach to climate change risk assessment applied to pluvial flood occurrences for the United States and Canada. [**Accepted in ASTIN Bulletin**]
+2. **J Boudreault***, A Ruf, C Campagna, F Chebana (2024). Multi-region models built with machine and deep learning for predicting several heat-related health outcomes.
 
 1. M Grenier*, M Boudreault, DA Carozza, **J Boudreault**, S Raymond (2024). Flood occurrence and impact models for socioeconomic applications over Canada and the United States.
 {: reversed="reversed"}
