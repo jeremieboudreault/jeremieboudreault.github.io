@@ -8,6 +8,8 @@ author_profile: true
 Published papers
 ---------------
 
+10. **J Boudreault***, E Lavigne, C Campagna, F Chebana (2024). [Estimating the heat-related mortality and morbidity burden in the province of Quebec, Canada](https://doi.org/10.1016/j.envres.2024.119347). Environemntal Research. 257(119347): 1-11.
+
 9. M Bourget*, M Boudreault, DA Carozza, **J Boudreault**, S Raymond (2024). [A data science approach to climate change risk assessment applied to pluvial flood occurrences for the United States and Canada](https://doi.org/10.1017/asb.2024.19). ASTIN Bulletin: The Journal of the International Actuarial Association. 1-23.
 
 8. M Grenier\*, **J Boudreault**\*, S Raymond, M Boudreault (2024). [Projected seasonal flooding in Canada under climate change with statistical and machine learning](https://doi.org/10.1016/j.ejrh.2024.101754). Journal of Hydrology: Regional Studies. 52(101754): 1-16. 
@@ -29,8 +31,6 @@ Published papers
 
 Submitted papers
 ---------------
-
-3. **J Boudreault***, E Lavigne, C Campagna, F Chebana (2024). Estimating the heat-related mortality and morbidity burden in the province of Quebec, Canada.
 
 2. **J Boudreault***, A Ruf, C Campagna, F Chebana (2024). Multi-region models built with machine and deep learning for predicting several heat-related health outcomes.
 
