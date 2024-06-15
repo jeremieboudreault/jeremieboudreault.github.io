@@ -1,9 +1,10 @@
-2. **J Boudreault***, A Ruf, C Campagna, F Chebana (2024). Multi-region models built with machine and deep learning for predicting several heat-related health outcomes.---
+---
 #layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
 ---
+
 
 Published papers
 ---------------
