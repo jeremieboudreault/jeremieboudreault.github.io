@@ -1,4 +1,4 @@
----
+2. **J Boudreault***, A Ruf, C Campagna, F Chebana (2024). Multi-region models built with machine and deep learning for predicting several heat-related health outcomes.---
 #layout: archive
 title: "Research"
 permalink: /research/
@@ -32,7 +32,9 @@ Published papers
 Submitted papers
 ---------------
 
-2. **J Boudreault***, A Ruf, C Campagna, F Chebana (2024). Multi-region models built with machine and deep learning for predicting several heat-related health outcomes.
+3. **J Boudreault**\*, C Campagna, F Chebana, E Lavigne (2024). Assessing the historical and projected heat-related health costs, applied to a Canadian province
+
+2. **J Boudreault**\*, A Ruf, C Campagna, F Chebana (2024). Multi-region models built with machine and deep learning for predicting several heat-related health outcomes.
 
 1. M Grenier\*, M Boudreault, DA Carozza, **J Boudreault**, S Raymond (2024). Flood occurrence and impact models for socioeconomic applications over Canada and the United States. [***Accepté dans Natural Hazards and Earth System Sciences***]
 {: reversed="reversed"}
