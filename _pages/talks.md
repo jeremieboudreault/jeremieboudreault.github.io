@@ -8,6 +8,8 @@ author_profile: true
 Upcoming talks
 -------------------
 
+1. **J Boudreault**, E Lavigne, C Campagna & F Chebana (2024) [Modelling health and economic impacts of extreme heat using data science approaches](https://www.climate.columbia.edu/extreme-heat-workshop). 10-12 July 2024. New York, NY, United States, 
+
 
 Past talks
 -------------------
