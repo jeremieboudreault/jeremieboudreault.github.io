@@ -16,7 +16,7 @@ Education
 Work experience
 ---------------
 
-* **2022- : Doctoral fellow**
+* **2022-2023** : Research internschip
   * Climate change and health, Quebec National Institute of Public Health (INSPQ)
 
 * **2019-2022** : Research scientist in climate risk modelling
