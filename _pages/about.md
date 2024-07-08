@@ -8,18 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph. D. candidate in data science and environmental health at the Water Earth and Environment Research Center of the [National institute of scientific research](https://inrs.ca/en/) (INRS) in Quebec City, Canada. Prior to my doctoral studies, I worked for several years as a research scientist in climate risk modeling.
+I am currently a Ph. D. candidate in data science and environmental health at the *Water Earth and Environment Research Center* of the National institute of scientific research (INRS) in Quebec City, Canada. Prior to my doctoral studies, I worked for several years as a research scientist in climate risk modelling in the industry. 
 
-My research interests are related to modelling climate change impacts, such as extreme heat and flooding, on people and ecosystems using advanced data science. My current and past research projects are available [here](https://jeremieboudreault.github.io/projects/). 
+My research interests are related to modelling climate change impacts, such as extreme heat and flooding, on people and ecosystems using advanced data science methods. My current and past research projects are available [here](https://jeremieboudreault.github.io/projects/). 
 
 News
 ----------
 
-* 🆕[New study found that heat is linked to 470 deaths and 225 hospital admissions yearly in Quebec](https://www.ledevoir.com/societe/815114/chaleur-cause-470-deces-225-hospitalisations-chaque-ete-quebec), 2024/06/19, Le Devoir.
-* 🆕[Unexpected effects of heat of the healthcare system in Quebec](https://ici.radio-canada.ca/ohdio/premiere/emissions/le-15-18/segments/rattrapage/1787107/effets-insoupconnes-chaleur-extreme-sur-systeme-sante-au-quebec), 2024/06/19, ICI Radio-Canada.
+* 🆕 [Heat linked to 470 deaths and 225 hospitalizations each year in Quebec](https://www.ledevoir.com/societe/815114/chaleur-cause-470-deces-225-hospitalisations-chaque-ete-quebec), 2024/06/19, Le Devoir.
+* 🆕 [Unexpected heat effects on the healthcare system in Quebec](https://ici.radio-canada.ca/ohdio/premiere/emissions/le-15-18/segments/rattrapage/1787107/effets-insoupconnes-chaleur-extreme-sur-systeme-sante-au-quebec), 2024/06/19, ICI Radio-Canada.
 * [Heatwave heroes: crafting health safeguards for all in an era of turbulent temperatures](https://cihr-irsc.gc.ca/e/53886.html), 2024/04/19, Canadian Institutes of Health Research.
-* [Winners of the 3-minutes thesis competition at INRS](https://inrs.ca/actualites/ma-these-en-180-secondes-et-three-minute-thesis-devoilement-des-laureats-de-linrs/), 2024/04/09, INRS.
-* [The financial  and health impact of a heatwave](https://ici.radio-canada.ca/ohdio/premiere/emissions/cest-jamais-pareil/episodes/750162/rattrapage-vendredi-8-septembre-2023/4), 2023/09/08, ICI Radio-Canada.
 * [Heatwaves generate costs. Here's why it's important to quantify them](https://theconversation.com/les-canicules-engendrent-des-couts-voici-pourquoi-il-est-important-de-les-quantifier-207749), 2023/09/05, The Conversation.
 * [Translating climate change impacts into dollars](https://www.lequotidien.com/actualites/actualites-locales/2023/04/22/traduire-les-impacts-des-changements-climatiques-en-dollars-QCJ3ALYXO5A5RF7AR3L57NFAMU/), 2023/04/22, Le Quotidien. 
 * [Two Vanier scholars committed to the environment](https://inrs.ca/actualites/linrs-fait-bonne-figure-a-la-remise-des-bourses-vanier2022/), 2022/12/07, INRS.
@@ -30,8 +28,8 @@ About me
 ----------
 
 * **2021- : Ph. D., Data science and environmental health**, INRS
-* 2022-2023 : Research internship in climate change and health, INSPQ
-* 2019-2022 : Research scientist in climate risk modelling, The Co-operators
+* 2022-2023 : Research internship, Climate change and health, INSPQ
+* 2019-2022 : Research scientist, Climate risk modelling, The Co-operators
 * 2016-2018 : M. Sc., Statistical hydrology, INRS
 * 2013-2016 : B. Sc., Actuarial science, Laval University
 
@@ -41,6 +39,8 @@ Full CV available [here](https://jeremieboudreault.github.io/cv/).
 Archives
 ----------
 
+* [Winners of the 3-minutes thesis competition at INRS](https://inrs.ca/actualites/ma-these-en-180-secondes-et-three-minute-thesis-devoilement-des-laureats-de-linrs/), 2024/04/09, INRS.
+* [The financial  and health impact of a heatwave](https://ici.radio-canada.ca/ohdio/premiere/emissions/cest-jamais-pareil/episodes/750162/rattrapage-vendredi-8-septembre-2023/4), 2023/09/08, ICI Radio-Canada.
 * [What's hidden in INRS waste?](https://www.lasyntheseinrs.com/post/hors-s%C3%A9rie-qu-est-ce-qui-se-cache-dans-les-poubelles-de-l-inrs), 2023/05/29, La Synthèse.
 * [MT180 and 3MT : the institutional finals of INRS](https://inrs.ca/actualites/mt180-et-3mt-les-finales-institutionnelles-de-linrs/), 2023/03/23, INRS.
 * [Jeremie Boudreault is recipient of the Réal-Décoste award for its research project in climate change impacts](https://www.ouranos.ca/felicitations-au-recipiendaire-du-prix-real-decoste-2022/), 2022/05/09, Ouranos.
