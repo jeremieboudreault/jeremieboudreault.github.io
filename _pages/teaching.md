@@ -8,6 +8,7 @@ author_profile: true
 Co-lecturer
 ----------
 
+* **Fall 2024** : ETE414 - Data science and environmental applications, INRS
 * **Fall 2023** : ETE414 - Data science and environmental applications, INRS
 * **Fall 2022** : ETE414 - Data science and environmental applications, INRS
 * **Fall 2021** : ETE414 - Multivariate data analysis, INRS
