@@ -8,12 +8,13 @@ author_profile: true
 Upcoming talks
 -------------------
 
-1. **J Boudreault**, E Lavigne, C Campagna & F Chebana (2024) [Modelling health and economic impacts of extreme heat using data science approaches](https://www.climate.columbia.edu/extreme-heat-workshop). 10-12 July 2024. New York, NY, United States, 
+1. **J Boudreault**, E Lavigne, C Campagna & F Chebana (2024) [Modelling health and economic impacts of extreme heat using data science approaches](https://www.climate.columbia.edu/extreme-heat-workshop). 10-12 July 2024. Extreme Heat Workshop. University of Columbia. New York, NY, United States, 
+
+2. **J Boudreault**, C Campagna & F Chebana (2024) [L'IA en santé environnementale : cas d'étude avec la chaleur extrême](https://www.santepubliquefrance.fr/a-propos/evenements/l-intelligence-artificielle-en-sante-environnement-au-dela-de-la-boite-noire-applications-perspectives-et-enjeux), Séminaire IA et santé environnementale de Santé Publique France, 21/11/2024. Paris, France. 
 
 
 Past talks
 -------------------
-
 
 22. **J Boudreault**, E Lavigne, C Campagna & F Chebana (2024) [Modélisation des impacts sur la santé de la chaleur extrême au Québec, Canada](https://inrs.ca/linrs/salle-de-nouvelles/evenements/journees-scientifiques-de-linrs-2024/#:~:text=La%204e%20%C3%A9dition%20de%20la,au%20Centre%20Eau%20Terre%20Environnement.). Journée scientifique de l'INRS. 19/04/2024. Québec, QC, Canada.
 
