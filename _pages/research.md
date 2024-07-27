@@ -9,6 +9,8 @@ author_profile: true
 Published papers
 ---------------
 
+11. M Grenier\*, M Boudreault, DA Carozza, **J Boudreault**, S Raymond (2024). [Flood occurrence and impact models for socioeconomic applications over Canada and the United States](https://doi.org/10.5194/nhess-24-2577-2024). *Natural Hazards and Earth System Sciences.* 24: 2577–2595, 
+
 10. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2024). [Estimating the heat-related mortality and morbidity burden in the province of Quebec, Canada](https://doi.org/10.1016/j.envres.2024.119347). *Environmental Research*. 257(119347): 1-11.
 
 9. M Bourget\*, M Boudreault, DA Carozza, **J Boudreault**, S Raymond (2024). [A data science approach to climate change risk assessment applied to pluvial flood occurrences for the United States and Canada](https://doi.org/10.1017/asb.2024.19). *ASTIN Bulletin: The Journal of the International Actuarial Association*. 1-23.
@@ -33,11 +35,9 @@ Published papers
 Submitted papers
 ---------------
 
-3. **J Boudreault\***, C Campagna, F Chebana, E Lavigne (2024). Assessing the historical and projected heat-related health costs, applied to a Canadian province
+2. **J Boudreault\***, C Campagna, F Chebana, E Lavigne (2024). Assessing the historical and projected heat-related health costs, applied to a Canadian province
 
-2. **J Boudreault\***, A Ruf, C Campagna, F Chebana (2024). Multi-region models built with machine and deep learning for predicting several heat-related health outcomes.
-
-1. M Grenier\*, M Boudreault, DA Carozza, **J Boudreault**, S Raymond (2024). Flood occurrence and impact models for socioeconomic applications over Canada and the United States. [***Accepté dans Natural Hazards and Earth System Sciences***]
+1. **J Boudreault\***, A Ruf, C Campagna, F Chebana (2024). Multi-region models built with machine and deep learning for predicting several heat-related health outcomes.
 {: reversed="reversed"}
 
 
