@@ -8,7 +8,7 @@ author_profile: true
 Upcoming talks
 -------------------
 
-1. **J Boudreault**, C Campagna & F Chebana (2024) [L'IA en santé environnementale : cas d'étude avec la chaleur extrême (*titre préliminaire*)](https://www.santepubliquefrance.fr/a-propos/evenements/l-intelligence-artificielle-en-sante-environnement-au-dela-de-la-boite-noire-applications-perspectives-et-enjeux), Séminaire IA et santé environnementale de Santé Publique France, 21/11/2024. Paris, France. **[Invited speaker]**
+1. **J Boudreault**, C Campagna & F Chebana (2024) [L'IA en santé environnementale : cas d'étude avec la chaleur extrême](https://www.santepubliquefrance.fr/a-propos/evenements/l-intelligence-artificielle-en-sante-environnement-au-dela-de-la-boite-noire-applications-perspectives-et-enjeux), Séminaire IA et santé environnementale de Santé Publique France, 21/11/2024. Paris, France. **[Invited speaker]**
 
 
 Past talks
