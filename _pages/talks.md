@@ -8,6 +8,8 @@ author_profile: true
 Upcoming talks
 -------------------
 
+2. **J Boudreault**, C Campagna, F Chebana (2024) [Predicting heat-related mortality and morbidity using machine and deep learning methods.](https://spph.ubc.ca/programs/msc-oeh/oeh-seminars/) UBC Occupational and Environmental Hygiene Seminars. 5/11/2024. Vancouver (BC) Canada. **[Invited speaker]**
+
 1. **J Boudreault**, C Campagna & F Chebana (2024) [L'IA en santé environnementale : cas d'étude avec la chaleur extrême](https://www.santepubliquefrance.fr/a-propos/evenements/l-intelligence-artificielle-en-sante-environnement-au-dela-de-la-boite-noire-applications-perspectives-et-enjeux), Séminaire IA et santé environnementale de Santé Publique France, 21/11/2024. Paris, France. **[Invited speaker]**
 
 
@@ -22,8 +24,7 @@ Past talks
 
 20. **J Boudreault**, C Campagna & F Chebana (2024) Impacts sanitaires et économiques des chaleurs extrêmes grâce à la science des données. Symposium des programmes sur mesure de l'INRS. 25/03/2024. Québec, QC, Canada.
 
-19. **J Boudreault**, C Campagna, F Chebana (2024) [Prédiction de la mortalité et morbidité liées à la chaleur extrême avec apprentissage automatique et profond](https://cimmul.fsg.ulaval.ca/event/seminaire-du-cimmul-quantact-jeremie-boudreault/). Séminaire conjoint Quantact et CIMMUL de l'Université Laval. 19/11/2024. Québec (QC) Canada. **[Invited speaker]**
-
+19. **J Boudreault**, C Campagna, F Chebana (2024) [Prédiction de la mortalité et morbidité liées à la chaleur extrême avec apprentissage automatique et profond](https://cimmul.fsg.ulaval.ca/event/seminaire-du-cimmul-quantact-jeremie-boudreault/). Séminaire conjoint Quantact et CIMMUL de l'Université Laval. 19/01/2024. Québec (QC) Canada. **[Invited speaker]**
 
 18. **J Boudreault**, C Campagna, F Chebana (2023) [Modèles d’apprentissage automatique pour la vigie sanitaire des effets de la chaleur extrême sur la santé](https://www.inspq.qc.ca/jasp/communications-affichees). 26es Journées annuelles de santé publique (JASP) du Québec. Québec (QC) Canada. 27/11/2023. [Poster]
 
