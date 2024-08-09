@@ -9,7 +9,7 @@ author_profile: true
 Published papers
 ---------------
 
-11. M Grenier\*, M Boudreault, DA Carozza, **J Boudreault**, S Raymond (2024). [Flood occurrence and impact models for socioeconomic applications over Canada and the United States](https://doi.org/10.5194/nhess-24-2577-2024). *Natural Hazards and Earth System Sciences.* 24: 2577–2595. 
+11. M Grenier\*, M Boudreault, DA Carozza, **J Boudreault**, S Raymond (2024). [Flood occurrence and impact models for socioeconomic applications over Canada and the United States](https://doi.org/10.5194/nhess-24-2577-2024). *Natural Hazards and Earth System Sciences.* 24(7): 2577–2595. 
 
 10. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2024). [Estimating the heat-related mortality and morbidity burden in the province of Quebec, Canada](https://doi.org/10.1016/j.envres.2024.119347). *Environmental Research*. 257(119347): 1-11.
 
