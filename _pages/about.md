@@ -17,6 +17,7 @@ News
 
 * 🆕 [Heat linked to 470 deaths and 225 hospitalizations each year in Quebec](https://www.ledevoir.com/societe/815114/chaleur-cause-470-deces-225-hospitalisations-chaque-ete-quebec), 2024/06/19, Le Devoir.
 * 🆕 [Unexpected effects of heat on the healthcare system](https://ici.radio-canada.ca/ohdio/premiere/emissions/le-15-18/segments/rattrapage/1787107/effets-insoupconnes-chaleur-extreme-sur-systeme-sante-au-quebec), 2024/06/19, ICI Radio-Canada.
+* [3-minute thesis at UOttawa: Health costs of extreme heat](https://www.youtube.com/watch?v=yQVabpSwwXc&list=PL9zimENn6GXcVy4IVrhc-_uFSxBOzQ1gH&index=16), ACFAS.
 * [Heatwave heroes: crafting health safeguards for all in an era of turbulent temperatures](https://cihr-irsc.gc.ca/e/53886.html), 2024/04/19, Canadian Institutes of Health Research (CIHR).
 * [Why it's important to quantify heatwaves costs](https://theconversation.com/les-canicules-engendrent-des-couts-voici-pourquoi-il-est-important-de-les-quantifier-207749), 2023/09/05, The Conversation.
 * [Translating climate change impacts into dollars](https://www.lequotidien.com/actualites/actualites-locales/2023/04/22/traduire-les-impacts-des-changements-climatiques-en-dollars-QCJ3ALYXO5A5RF7AR3L57NFAMU/), 2023/04/22, Le Quotidien. 
