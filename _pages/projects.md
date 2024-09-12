@@ -8,7 +8,7 @@ author_profile: true
 Health and economic impacts of extreme heat 🌇 [2021-]
 -------------------
 
-*As part of my PhD in data science and environmental health at INRS and my research internships INSPQ and BCCDC/UBC.*
+*As part of my PhD in data science and environmental health at INRS and my research internships at INSPQ and BCCDC/UBC.*
 
 - Modelling health impacts of extreme heat with machine and statistical learning
 - Estimating the health burden and associated economic costs of extreme heat
