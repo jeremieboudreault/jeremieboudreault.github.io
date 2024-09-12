@@ -6,8 +6,10 @@ author_profile: true
 ---
 
 
-Published papers
+Papers
 ---------------
+
+12. 1. **J Boudreault\***, A Ruf, C Campagna, F Chebana (2024). [Multi-region models built with machine and deep learning for predicting several heat-related health outcomes(https://doi.org/10.1016/j.scs.2024.105785). *Sustainable Cities and Society*. 105785.
 
 11. M Grenier\*, M Boudreault, DA Carozza, **J Boudreault**, S Raymond (2024). [Flood occurrence and impact models for socioeconomic applications over Canada and the United States](https://doi.org/10.5194/nhess-24-2577-2024). *Natural Hazards and Earth System Sciences.* 24(7): 2577–2595. 
 
@@ -30,14 +32,6 @@ Published papers
 2. J Beaupré\*, **J Boudreault**, NE Bergeron, A St-Hilaire (2020). [Inclusion of water temperature in a fuzzy logic Atlantic salmon (Salmo salar) parr habitat model](https://www.sciencedirect.com/science/article/abs/pii/S0306456519304012?via%3Dihub). *Journal of Thermal Biology*, 87(102471): 1-13.
 
 1. **J Boudreault\***, NE Bergeron, A St-Hilaire, F Chebana (2019). [Stream temperature modeling using functional regression models](https://onlinelibrary.wiley.com/doi/abs/10.1111/1752-1688.12778). *Journal of the American Water Resources Association*, 55(6): 1382-1400.
-{: reversed="reversed"}
-
-Submitted papers
----------------
-
-2. **J Boudreault\***, C Campagna, F Chebana, E Lavigne (2024). Assessing the historical and projected heat-related health costs, applied to a Canadian province.
-
-1. **J Boudreault\***, A Ruf, C Campagna, F Chebana (2024). Multi-region models built with machine and deep learning for predicting several heat-related health outcomes.
 {: reversed="reversed"}
 
 
