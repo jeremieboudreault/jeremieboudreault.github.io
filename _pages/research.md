@@ -9,7 +9,7 @@ author_profile: true
 Papers
 ---------------
 
-12. 1. **J Boudreault\***, A Ruf, C Campagna, F Chebana (2024). [Multi-region models built with machine and deep learning for predicting several heat-related health outcomes(https://doi.org/10.1016/j.scs.2024.105785). *Sustainable Cities and Society*. 105785.
+12. **J Boudreault\***, A Ruf, C Campagna, F Chebana (2024). [Multi-region models built with machine and deep learning for predicting several heat-related health outcomes](https://doi.org/10.1016/j.scs.2024.105785). *Sustainable Cities and Society*. 105785.
 
 11. M Grenier\*, M Boudreault, DA Carozza, **J Boudreault**, S Raymond (2024). [Flood occurrence and impact models for socioeconomic applications over Canada and the United States](https://doi.org/10.5194/nhess-24-2577-2024). *Natural Hazards and Earth System Sciences.* 24(7): 2577–2595. 
 
