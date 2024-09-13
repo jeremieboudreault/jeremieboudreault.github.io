@@ -8,9 +8,9 @@ author_profile: true
 Upcoming talks
 -------------------
 
-2. **J Boudreault**, C Campagna, F Chebana (2024) [Predicting heat-related mortality and morbidity using machine and deep learning methods.](https://spph.ubc.ca/programs/msc-oeh/oeh-seminars/) UBC Occupational and Environmental Hygiene Seminars. 5/11/2024. Vancouver (BC) Canada. **[Invited speaker]**
-
 1. **J Boudreault**, C Campagna & F Chebana (2024) [L'IA en santé environnementale : cas d'étude avec la chaleur extrême](https://www.santepubliquefrance.fr/a-propos/evenements/l-intelligence-artificielle-en-sante-environnement-au-dela-de-la-boite-noire-applications-perspectives-et-enjeux), Séminaire de Santé publique France : l’intelligence artificielle en santé-environnement, 21/11/2024. Paris, France. **[Invited speaker]**
+
+2. **J Boudreault**, C Campagna, F Chebana (2024) [Predicting heat-related mortality and morbidity using machine and deep learning methods.](https://spph.ubc.ca/programs/msc-oeh/oeh-seminars/) UBC Occupational and Environmental Hygiene Seminars. 8/11/2024. Vancouver (BC) Canada. **[Invited speaker]**
 
 
 Past talks
