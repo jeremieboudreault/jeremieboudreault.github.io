@@ -8,20 +8,20 @@ author_profile: true
 Upcoming talks
 -------------------
 
-1. **J Boudreault**, KE McLean & SB Henderson (2024) [Unpacking the relationship between medications and mortality risk during extreme heat: a machine learning approach](http://www.bccdc.ca/our-research), BCCDC 2024 research week. 2024/10/30. Vancouver, BC, Canada. 
+1. **J Boudreault\***, KE McLean & SB Henderson (2024) [Unpacking the relationship between medications and mortality risk during extreme heat: a machine learning approach](http://www.bccdc.ca/our-research), BCCDC research week. 2024/10/30. Vancouver, BC, Canada. 
 
-2. **J Boudreault**, C Campagna, F Chebana (2024) [Predicting heat-related mortality and morbidity using machine and deep learning methods](https://spph.ubc.ca/programs/msc-oeh/oeh-seminars/), UBC Occupational and Environmental Hygiene Seminars. 2024/11/8. Vancouver, BC, Canada. **[Invited speaker]**
+2. **J Boudreault\***, C Campagna, F Chebana (2024) [Predicting heat-related mortality and morbidity using machine and deep learning methods](https://spph.ubc.ca/programs/msc-oeh/oeh-seminars/), UBC Occupational and Environmental Hygiene Seminars. 2024/11/8. Vancouver, BC, Canada. **[Invited speaker]**
 
-3. **J Boudreault**, C Campagna & F Chebana (2024) [L'IA en santé environnementale : cas d'étude avec la chaleur extrême](https://www.santepubliquefrance.fr/a-propos/evenements/l-intelligence-artificielle-en-sante-environnement-au-dela-de-la-boite-noire-applications-perspectives-et-enjeux), Séminaire de Santé publique France, 2024/11/21. Paris, France. **[Invited speaker]**
+3. **J Boudreault\***, C Campagna & F Chebana (2024) [L'IA en santé environnementale : cas d'étude avec la chaleur extrême](https://www.santepubliquefrance.fr/a-propos/evenements/l-intelligence-artificielle-en-sante-environnement-au-dela-de-la-boite-noire-applications-perspectives-et-enjeux), Séminaire de Santé publique France, 2024/11/21. Paris, France. **[Invited speaker]**
 
-4. **J Boudreault**, E Lavigne, C Campagna, F Chebana (2024) [Assessing historical and projected heat-related health burden and associated costs with climate and demographic data](https://www.agu.org/annual-meeting), 2024/12/11, AGU annual meeting, Washington (DC), USA. [Poster]
+4. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2024) [Assessing historical and projected heat-related health burden and associated costs with climate and demographic data](https://www.agu.org/annual-meeting), 2024/12/11, AGU annual meeting, Washington, DC, USA. [Poster]
 
-5. **J Boudreault**, E Lavigne, C Campagna, F Chebana (2025), [Estimation des coûts futurs de santé liés à la chaleur extrême au Québec à l’aide des projections climatiques](https://www.ouranos.ca/fr/symposium/programmation-symposium), 2025/01/28, Symposium Ouranos 2024, Montréal, QC, Canada. 
+5. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2025), [Estimation des coûts futurs de santé liés à la chaleur extrême au Québec à l’aide des projections climatiques](https://www.ouranos.ca/fr/symposium/programmation-symposium), 2025/01/28, Symposium Ouranos 2024, Montréal, QC, Canada. 
 
 Past talks
 -------------------
 
-23. **J Boudreault**, E Lavigne, C Campagna & F Chebana (2024) [Modelling health and economic impacts of extreme heat using data science approaches](https://www.climate.columbia.edu/extreme-heat-workshop). 2024/07/12/07. Extreme Heat Workshop. University of Columbia. New York, NY, United States.
+23. **J Boudreault\***, E Lavigne, C Campagna & F Chebana (2024) [Modelling health and economic impacts of extreme heat using data science approaches](https://www.climate.columbia.edu/extreme-heat-workshop). 2024/07/12. Extreme Heat Workshop. University of Columbia. New York, NY, United States.
 
 22. **J Boudreault**, E Lavigne, C Campagna & F Chebana (2024) [Modélisation des impacts sur la santé de la chaleur extrême au Québec, Canada](https://inrs.ca/linrs/salle-de-nouvelles/evenements/journees-scientifiques-de-linrs-2024/#:~:text=La%204e%20%C3%A9dition%20de%20la,au%20Centre%20Eau%20Terre%20Environnement.). Journée scientifique de l'INRS. 2024/04/19. Québec, QC, Canada.
 
