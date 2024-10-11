@@ -16,10 +16,10 @@ Education
 Work experience
 ---------------
 
-* **2024** : Visiting PhD student
+* **2024** : Research internship abroad
   * BC Centre for Disease Control & University of British Columbia (UBC)
 
-* **2022-2023** : Research internship
+* **2022-2023** : Research internship - Health system impact fellowship (HSIF)
   * Climate change and health, Quebec National Institute of Public Health (INSPQ)
 
 * **2019-2022** : Research scientist in climate risk modelling
