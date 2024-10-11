@@ -48,9 +48,9 @@ Archives
 * [Two Vanier scholars committed to the environment](https://inrs.ca/actualites/linrs-fait-bonne-figure-a-la-remise-des-bourses-vanier2022/), 2022/12/07, INRS.
 * [Jeremie Boudreault is recipient of the Réal-Décoste award](https://www.ouranos.ca/felicitations-au-recipiendaire-du-prix-real-decoste-2022/), 2022/05/09, Ouranos.
 * [Extreme heat and AI: a research scholarship for Jérémie Boudreault](https://www.inspq.qc.ca/nouvelles/chaleur-extreme-intelligence-artificielle-bourse-recherche-jeremie-boudreault), 2022/11/22, INSPQ.
-* [Doctoral student Jérémie Boudreault receives the Health System Impact Fellowship (HSIF) from CIHR](https://inrs.ca/actualites/le-doctorant-jeremie-boudreault-recoit-la-bourse-dimpact-sur-le-systeme-de-sante-des-irsc/), 2022/11/22, INRS.
+* [Jérémie Boudreault receives the Health System Impact Fellowship (HSIF)](https://inrs.ca/actualites/le-doctorant-jeremie-boudreault-recoit-la-bourse-dimpact-sur-le-systeme-de-sante-des-irsc/), 2022/11/22, INRS.
 * [The 490 Green Committee is awarded 15 000$ to reduce waste ](https://inrs.ca/actualites/un-avenir-vert-ancre-dans-sa-communaute/), 2022/07/18, INRS.
-* [Interview with Jeremie Boudreault, a Ph. D. student in climate change](https://ici.radio-canada.ca/ohdio/premiere/emissions/place-publique/episodes/622784/rattrapage-du-vendredi-22-avril-2022/8?
+* [Interview with the Ph. D. student Jeremie Boudreault](https://ici.radio-canada.ca/ohdio/premiere/emissions/place-publique/episodes/622784/rattrapage-du-vendredi-22-avril-2022/8?
 fbclid=IwAR3RnzZaGAJ6dpHQw4YDKKyxn9wqVtviFJphlqIKjWB8S76jWbW0nJhrA38), 2022/04/22, Radio-Canada.
 * [The pathway of Jeremie Boudreault in environmental science](https://inrs.ca/actualites/ma-recherche-en-serie-la-passion-pour-lenvironnement-de-jeremie-boudreault-de-la-maitrise-au-doctorat/), 2022/04/22, INRS.
 * [Graduates stand out at the 2018-2019 convocation](https://inrs.ca/actualites/des-diplomees-se-distinguent-a-la-collation-des-grades-2018-2019/), 2019/05/07, INRS
