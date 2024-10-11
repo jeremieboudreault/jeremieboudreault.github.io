@@ -15,7 +15,7 @@ My research interests are related to modelling climate change impacts, such as e
 News
 ----------
 
-* 🆕 [The impact of extreme heat on the health system](https://ici.radio-canada.ca/tele/decouverte/site/segments/reportage/1872309/changements-climatiques-chaleur-sante-soins), 2024/10/06, Émission Découverte, Radio-Canada.
+
 * [Heat linked to 470 deaths and 225 hospitalizations in Quebec](https://www.ledevoir.com/societe/815114/chaleur-cause-470-deces-225-hospitalisations-chaque-ete-quebec), 2024/06/19, Le Devoir.
 * [Unexpected effects of heat on the healthcare system](https://ici.radio-canada.ca/ohdio/premiere/emissions/le-15-18/segments/rattrapage/1787107/effets-insoupconnes-chaleur-extreme-sur-systeme-sante-au-quebec), 2024/06/19, ICI Radio-Canada.
 * [3-minute thesis national competition: Health costs of extreme heat](https://www.youtube.com/watch?v=yQVabpSwwXc&list=PL9zimENn6GXcVy4IVrhc-_uFSxBOzQ1gH&index=16), 2024/05/15. ACFAS.
@@ -27,7 +27,7 @@ News
 About me
 ----------
 
-* **2024- : Visiting PhD studen**, BCCDC and UBC
+* **2024- : Visiting PhD student**, BCCDC and UBC
 * **2021- : Ph. D., Data science and environmental health**, INRS
 * 2022-2023 : Research internship, Climate change and health, INSPQ
 * 2019-2022 : Research scientist, Climate risk modelling, The Co-operators
