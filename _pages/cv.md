@@ -16,6 +16,9 @@ Education
 Work experience
 ---------------
 
+* **2024** : Visiting PhD student
+  * BC Centre for Disease Control & University of British Columbia (UBC)
+
 * **2022-2023** : Research internship
   * Climate change and health, Quebec National Institute of Public Health (INSPQ)
 
