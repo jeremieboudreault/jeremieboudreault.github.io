@@ -8,7 +8,7 @@ author_profile: true
 Upcoming talks
 -------------------
 
-1. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2024) [Estimating the health impacts of extreme heat and associated economic costs using data science approaches](https://www.sfu.ca/stat-actsci/research/seminars/24-25Seminars/jeremie-boudreault.html), SFU Statistics and Actuarial Science Seminars 2024/11/15. Burnaby, BC, Canada. **[Invited speaker]**
+1. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2024) [Estimating the health impacts of extreme heat and associated economic costs using data science approaches](https://www.sfu.ca/stat-actsci/research/seminars/24-25Seminars/jeremie-boudreault.html), SFU statistics and actuarial science seminars, 2024/11/15. Burnaby, BC, Canada. **[Invited speaker]**
 
 2. **J Boudreault\***, C Campagna, F Chebana (2024) [L'IA en santé environnementale : cas d'étude avec la chaleur extrême](https://www.santepubliquefrance.fr/a-propos/evenements/l-intelligence-artificielle-en-sante-environnement-au-dela-de-la-boite-noire-applications-perspectives-et-enjeux), Séminaire de Santé publique France, 2024/11/21. Paris, France. **[Invited speaker]**
 
