@@ -12,9 +12,9 @@ Upcoming talks
 
 2. **J Boudreault\***, C Campagna, F Chebana (2024) [L'IA en santé environnementale : cas d'étude avec la chaleur extrême](https://www.santepubliquefrance.fr/a-propos/evenements/l-intelligence-artificielle-en-sante-environnement-au-dela-de-la-boite-noire-applications-perspectives-et-enjeux), Séminaire de Santé publique France, 2024/11/21. Paris, France. **[Invited speaker]**
 
-3. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2024) [Assessing historical and projected heat-related health burden and associated costs with climate and demographic data](https://www.agu.org/annual-meeting), 2024/12/11, AGU annual meeting, Washington, DC, USA. [Poster]
+3. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2024) [Assessing historical and projected heat-related health burden and associated costs with climate and demographic data](https://www.agu.org/annual-meeting), AGU annual meeting, 2024/12/11. Washington, DC, USA. [Poster]
 
-5. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2025), [Estimation des coûts futurs de santé liés à la chaleur extrême au Québec à l’aide des projections climatiques](https://www.ouranos.ca/fr/symposium/programmation-symposium), 2025/01/28, Symposium Ouranos 2024, Montréal, QC, Canada. 
+4. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2025), [Estimation des coûts futurs de santé liés à la chaleur extrême au Québec à l’aide des projections climatiques](https://www.ouranos.ca/fr/symposium/programmation-symposium), Symposium Ouranos, 2025/01/28,  Montréal, QC, Canada. 
 
 Past talks
 -------------------
