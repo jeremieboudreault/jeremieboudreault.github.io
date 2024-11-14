@@ -9,9 +9,9 @@ author_profile: true
 Papers
 ---------------
 
-13. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2024). Projecting the overall heat-related health burden and associated economic costs in a climate change context in Quebec, Canada. *Article in revision*.
+13. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2024). Projecting the overall heat-related health burden and associated economic costs in a climate change context in Quebec, Canada. *Paper in revision*.
 
-12. **J Boudreault\***, A Ruf, C Campagna, F Chebana (2024). [Multi-region models built with machine and deep learning for predicting several heat-related health outcomes](https://doi.org/10.1016/j.scs.2024.105785). *Sustainable Cities and Society*. 105785.
+12. **J Boudreault\***, A Ruf, C Campagna, F Chebana (2024). [Multi-region models built with machine and deep learning for predicting several heat-related health outcomes](https://doi.org/10.1016/j.scs.2024.105785). *Sustainable Cities and Society*. 115(105785): 1-12.
 
 11. M Grenier\*, M Boudreault, DA Carozza, **J Boudreault**, S Raymond (2024). [Flood occurrence and impact models for socioeconomic applications over Canada and the United States](https://doi.org/10.5194/nhess-24-2577-2024). *Natural Hazards and Earth System Sciences.* 24(7): 2577–2595. 
 
