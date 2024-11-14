@@ -16,12 +16,12 @@ News
 ----------
 
 
-* 🆕 [Computing the health and economic costs of extreme heat](https://ici.radio-canada.ca/ohdio/premiere/emissions/moteur-de-recherche/segments/rattrapage/1910988/comment-calculer-couts-sanitaires-et-economiques-vagues-chaleur), 2024/11/12, ICI Radio-Canada.
-* 🆕 [The impact of extreme heat on the health system](https://ici.radio-canada.ca/tele/decouverte/site/segments/reportage/1872309/changements-climatiques-chaleur-sante-soins), 2024/10/06, Découverte, Radio-Canada.
+* 🆕 [Health and economic costs of extreme heat](https://ici.radio-canada.ca/ohdio/premiere/emissions/moteur-de-recherche/segments/rattrapage/1910988/comment-calculer-couts-sanitaires-et-economiques-vagues-chaleur), 2024/11/12, Moteur de recherche, ICI Radio-Canada.
+* 🆕 [Impact of extreme heat on the healthcare system](https://ici.radio-canada.ca/tele/decouverte/site/segments/reportage/1872309/changements-climatiques-chaleur-sante-soins), 2024/10/06, Émission Découverte, Radio-Canada.
 * [Heat linked to 470 deaths and 225 hospitalizations in Quebec](https://www.ledevoir.com/societe/815114/chaleur-cause-470-deces-225-hospitalisations-chaque-ete-quebec), 2024/06/19, Le Devoir.
 * [Unexpected effects of heat on the healthcare system](https://ici.radio-canada.ca/ohdio/premiere/emissions/le-15-18/segments/rattrapage/1787107/effets-insoupconnes-chaleur-extreme-sur-systeme-sante-au-quebec), 2024/06/19, ICI Radio-Canada.
 * [3-minute thesis national competition: Health costs of extreme heat](https://www.youtube.com/watch?v=yQVabpSwwXc&list=PL9zimENn6GXcVy4IVrhc-_uFSxBOzQ1gH&index=16), 2024/05/15. ACFAS.
-* [Heatwave heroes](https://cihr-irsc.gc.ca/e/53886.html), 2024/04/19, Canadian Institutes of Health Research (CIHR).
+* [Heatwave heroes](https://cihr-irsc.gc.ca/e/53886.html), 2024/04/19, Canadian Institutes of Health Research.
 * [Why it's important to quantify heatwaves costs](https://theconversation.com/les-canicules-engendrent-des-couts-voici-pourquoi-il-est-important-de-les-quantifier-207749), 2023/09/05, The Conversation.
 
 
