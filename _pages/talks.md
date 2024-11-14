@@ -16,9 +16,9 @@ Upcoming talks
 
 4. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2025), [Estimation des coûts futurs de santé liés à la chaleur extrême au Québec à l’aide des projections climatiques](https://www.ouranos.ca/fr/symposium/programmation-jour1/session4-couts-climat-changeant), Symposium Ouranos, 2025/01/28.  Montréal, QC, Canada. 
 
-4. M Grenier\*, **J Boudreault**, S Raymond, M Boudreault (2025), [Projection des inondations saisonnières au Canada en climat futur à l'aide de modèles statistiques et d’apprentissage automatique](https://www.ouranos.ca/fr/symposium/programmation-jour2/session19-intelligence-artificielle-changements-climatiques), Symposium Ouranos, 2025/01/29.  Montréal, QC, Canada. 
+5. M Grenier\*, **J Boudreault**, S Raymond, M Boudreault (2025), [Projection des inondations saisonnières au Canada en climat futur à l'aide de modèles statistiques et d’apprentissage automatique](https://www.ouranos.ca/fr/symposium/programmation-jour2/session19-intelligence-artificielle-changements-climatiques), Symposium Ouranos, 2025/01/29.  Montréal, QC, Canada. 
 
-Projection des inondations saisonnières au Canada en climat futur à l'aide de modèles statistiques et d’apprentissages automatiques.
+
 Past talks
 -------------------
 
