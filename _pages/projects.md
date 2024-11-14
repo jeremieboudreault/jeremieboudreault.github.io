@@ -5,14 +5,14 @@ permalink: /projects/
 author_profile: true
 ---
 
-Health and economic impacts of extreme heat 🌇 [2021-]
+Health and economic effects of extreme heat 🌇 [2022-]
 -------------------
 
 *As part of my PhD in data science and environmental health at INRS and my research internships at INSPQ and BCCDC/UBC.*
 
-- Modelling health impacts of extreme heat with machine and statistical learning
-- Estimating the health burden and associated economic costs of extreme heat
-- Projecting the impacts of extreme heat with climate and socioeconomic change
+- Modelling heat-related health impacts using machine and deep learning models
+- Estimating the heat burden and associated economic costs with projected climate change
+- Assessing vulnerability factors to extreme heat such as medication use
 
 Related research : [Report #1, Published paper #5–#7, #10; #12](https://jeremieboudreault.github.io/research/)
 
