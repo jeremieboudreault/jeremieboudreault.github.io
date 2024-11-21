@@ -50,9 +50,9 @@ Main awards and scholarships
 Curreny social involvement
 -------------------
 
-* **2023-** : Responsible for scientific activites, INRS student association
+* **2024-** : Chairman of data science seminars at the Water, Earth and Environment Research Center, INRS
 * **2023-** : Member, Institutional committee for sustainable development of INRS
-* **2023-** : Reviewer of scientific papers, Various journals including *Nature Scientific Reports*, *EHP* and *BMJ*
+* **2023-** : Reviewer of scientific papers for *Nature Scientific Reports*, *Environmental Health Perspectives*, *Epidemiology*, *Sustainable Cities and Society*, *Environmental Research Letters*, *Environmental Research: Health*, *BMJ Open*, etc.
 * **2021-** : Treasurer and project manager, 490 Green Comittee
 
 *See CV for past social involvments.*
@@ -71,8 +71,3 @@ Talks
 ---------------
 
 * [Click here](https://jeremieboudreault.github.io/talks/)
-
-
-<br />
-
-PDF version of the CV available [here](../files/cv_jeremie_boudreault_2024.pdf). [In French only]
