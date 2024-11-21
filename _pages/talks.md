@@ -8,19 +8,19 @@ author_profile: true
 Upcoming talks
 -------------------
 
-1. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2024) [Estimating the health impacts of extreme heat and associated economic costs using data science approaches](https://www.sfu.ca/stat-actsci/research/seminars/24-25Seminars/jeremie-boudreault.html), SFU statistics and actuarial science seminars, 2024/11/15. Burnaby, BC, Canada. **[Invited speaker]**
+1. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2024) [Assessing historical and projected heat-related health burden and associated costs with climate and demographic data](https://www.agu.org/annual-meeting), AGU annual meeting, 2024/12/11. Washington, DC, USA. [Poster]
 
-2. **J Boudreault\***, C Campagna, F Chebana (2024) [L'IA en santé environnementale : cas d'étude avec la chaleur extrême](https://www.santepubliquefrance.fr/a-propos/evenements/l-intelligence-artificielle-en-sante-environnement-au-dela-de-la-boite-noire-applications-perspectives-et-enjeux), Séminaire de Santé publique France, 2024/11/21. Paris, France. **[Invited speaker]**
+2. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2025), [Estimation des coûts futurs de santé liés à la chaleur extrême au Québec à l’aide des projections climatiques](https://www.ouranos.ca/fr/symposium/programmation-jour1/session4-couts-climat-changeant), Symposium Ouranos, 2025/01/28.  Montréal, QC, Canada. 
 
-3. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2024) [Assessing historical and projected heat-related health burden and associated costs with climate and demographic data](https://www.agu.org/annual-meeting), AGU annual meeting, 2024/12/11. Washington, DC, USA. [Poster]
-
-4. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2025), [Estimation des coûts futurs de santé liés à la chaleur extrême au Québec à l’aide des projections climatiques](https://www.ouranos.ca/fr/symposium/programmation-jour1/session4-couts-climat-changeant), Symposium Ouranos, 2025/01/28.  Montréal, QC, Canada. 
-
-5. M Grenier\*, **J Boudreault**, S Raymond, M Boudreault (2025), [Projection des inondations saisonnières au Canada en climat futur à l'aide de modèles statistiques et d’apprentissage automatique](https://www.ouranos.ca/fr/symposium/programmation-jour2/session19-intelligence-artificielle-changements-climatiques), Symposium Ouranos, 2025/01/29.  Montréal, QC, Canada. 
+3. M Grenier\*, **J Boudreault**, S Raymond, M Boudreault (2025), [Projection des inondations saisonnières au Canada en climat futur à l'aide de modèles statistiques et d’apprentissage automatique](https://www.ouranos.ca/fr/symposium/programmation-jour2/session19-intelligence-artificielle-changements-climatiques), Symposium Ouranos, 2025/01/29.  Montréal, QC, Canada. 
 
 
 Past talks
 -------------------
+
+27. **J Boudreault\***, C Campagna, F Chebana (2024) [L'IA en santé environnementale: cas d'étude avec la chaleur extrême](https://www.santepubliquefrance.fr/a-propos/evenements/l-intelligence-artificielle-en-sante-environnement-au-dela-de-la-boite-noire-applications-perspectives-et-enjeux), Séminaire IA et SE de Santé publique France, 2024/11/21. Paris, France. **[Invited speaker]**
+
+26. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2024) [Estimating the health impacts of extreme heat and associated economic costs using data science approaches](https://www.sfu.ca/stat-actsci/research/seminars/24-25Seminars/jeremie-boudreault.html), SFU statistics and actuarial science seminars, 2024/11/15. Burnaby, BC, Canada. **[Invited speaker]**
 
 25. **J Boudreault\***, C Campagna, F Chebana (2024) [Predicting heat-related mortality and morbidity using machine and deep learning methods](https://spph.ubc.ca/programs/msc-oeh/oeh-seminars/), UBC Occupational and Environmental Hygiene Seminars, 2024/11/8. Vancouver, BC, Canada. **[Invited speaker]**
 
