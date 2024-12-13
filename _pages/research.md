@@ -9,7 +9,7 @@ author_profile: true
 Papers
 ---------------
 
-13. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2024). Projecting the overall heat-related health burden and associated economic costs in a climate change context in Quebec, Canada. *Paper in revision*.
+13. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2025). [Projecting the overall heat-related health burden and associated economic costs in a climate change context in Quebec, Canada](https://doi.org/10.1016/j.scitotenv.2024.178022). Science of the Total Environment. 958(178022): 1-10.
 
 12. **J Boudreault\***, A Ruf, C Campagna, F Chebana (2024). [Multi-region models built with machine and deep learning for predicting several heat-related health outcomes](https://doi.org/10.1016/j.scs.2024.105785). *Sustainable Cities and Society*. 115(105785): 1-12.
 
