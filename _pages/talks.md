@@ -8,7 +8,7 @@ author_profile: true
 Upcoming talks
 -------------------
 
-24. **J Boudreault**, KE McLean, SB Henderson\* (2025) [Which medications influence the risk of mortality during extreme heat events? A novel approach using machine learning](https://oshce.uw.edu/pages/cascadia-2025-annual-symposium-environmental-occupational-and-population-health), Cascadia Annual Symposium on Environmental, Occupational, and Population Health, 2025/01/09. Blaine, Washington, US. 
+24. **J Boudreault**, KE McLean, SB Henderson\* (2025) [Which medications influence the risk of mortality during extreme heat events? A novel approach using machine learning](https://oshce.uw.edu/pages/cascadia-2025-annual-symposium-environmental-occupational-and-population-health), Cascadia Annual Symposium on Environmental, Occupational, and Population Health, 2025/01/09. Blaine, WA, US. 
 
 
 2. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2025), [Estimation des coûts futurs de santé liés à la chaleur extrême au Québec à l’aide des projections climatiques](https://www.ouranos.ca/fr/symposium/programmation-jour1/session4-couts-climat-changeant), Symposium Ouranos, 2025/01/28.  Montréal, QC, Canada. 
