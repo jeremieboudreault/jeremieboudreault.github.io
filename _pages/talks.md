@@ -8,7 +8,8 @@ author_profile: true
 Upcoming talks
 -------------------
 
-1. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2024) [Assessing historical and projected heat-related health burden and associated costs with climate and demographic data](https://www.agu.org/annual-meeting), AGU annual meeting, 2024/12/11. Washington, DC, USA. [Poster]
+24. **J Boudreault**, KE McLean, SB Henderson\* (2025) [Which medications influence the risk of mortality during extreme heat events? A novel approach using machine learning](https://oshce.uw.edu/pages/cascadia-2025-annual-symposium-environmental-occupational-and-population-health), Cascadia Annual Symposium on Environmental, Occupational, and Population Health, 2025/01/09. Blaine, Washington, US. 
+
 
 2. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2025), [Estimation des coûts futurs de santé liés à la chaleur extrême au Québec à l’aide des projections climatiques](https://www.ouranos.ca/fr/symposium/programmation-jour1/session4-couts-climat-changeant), Symposium Ouranos, 2025/01/28.  Montréal, QC, Canada. 
 
@@ -17,6 +18,8 @@ Upcoming talks
 
 Past talks
 -------------------
+
+28. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2024) [Assessing historical and projected heat-related health burden and associated costs with climate and demographic data](https://www.agu.org/annual-meeting), AGU annual meeting, 2024/12/11. Washington, DC, USA. [Poster]
 
 27. **J Boudreault\***, C Campagna, F Chebana (2024) [L'IA en santé environnementale: cas d'étude avec la chaleur extrême](https://www.santepubliquefrance.fr/a-propos/evenements/l-intelligence-artificielle-en-sante-environnement-au-dela-de-la-boite-noire-applications-perspectives-et-enjeux), Séminaire IA et SE de Santé publique France, 2024/11/21. Paris, France. **[Invited speaker]**
 
