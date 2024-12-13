@@ -5,6 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
+Lecturer
+----------
+
+* **Winter 2025** : ACT4114/6114 - Statistical learning in actuarial science, Laval Unviersity
+
 Co-lecturer
 ----------
 
