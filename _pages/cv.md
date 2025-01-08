@@ -49,7 +49,7 @@ Curreny social involvement
 
 * **2024-** : Chairman of data science seminars at the Water, Earth and Environment Research Center, INRS
 * **2023-** : Member, Institutional committee for sustainable development of INRS
-* **2023-** : Reviewer of scientific papers for *Environmental Health Perspectives*, *Epidemiology*, *Sustainable Cities and Society*, *Nature Scientific Reports*, *Environmental Research Letters*, *Environmental Research: Health*, *BMJ Open*, etc.
+* **2023-** : Reviewer of scientific papers for *Environmental Health Perspectives*, *Environment International*, *Epidemiology*, *Sustainable Cities and Society*, *Nature Scientific Reports*, *Environmental Research Letters*, *BMJ Open*, etc.
 * **2021-** : Treasurer and project manager, 490 Green Comittee
 
 Teaching experience
