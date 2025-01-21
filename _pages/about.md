@@ -14,8 +14,8 @@ My research interests are related to modelling climate change impacts, such as e
 
 > 🔥 **Hiring:**  I am currently looking for students to join our team for a summer internship or pursue a master degree in climate, health and data science. More informations available in the links below :
 
-- [Summer internships for undergraduate student on health and economic impacts of climate hazards](https://inrs.ca/les-etudes/stages-et-postdoctorats/repertoire-des-stages-en-recherche/stage-sur-les-impacts-sanitaires-et-economiques-des-aleas-climatiques-au-quebec/)
-- [Master (M. Sc.) projects on modelling health and economomic impacts of climate change](https://inrs.ca/les-etudes/projets-de-maitrise-et-de-doctorat/repertoire-des-projets-etudes/impacts-sanitaires-et-economiques-des-aleas-climatiques-au-quebec/)
+> - [Summer internships for undergraduate student on health and economic impacts of climate hazards](https://inrs.ca/les-etudes/stages-et-postdoctorats/repertoire-des-stages-en-recherche/stage-sur-les-impacts-sanitaires-et-economiques-des-aleas-climatiques-au-quebec/)
+> - [Master (M. Sc.) projects on modelling health and economomic impacts of climate change](https://inrs.ca/les-etudes/projets-de-maitrise-et-de-doctorat/repertoire-des-projets-etudes/impacts-sanitaires-et-economiques-des-aleas-climatiques-au-quebec/)
  
 News
 ----------
