@@ -13,7 +13,6 @@ Hi! I am Jérémie Boudreault, a Ph. D. candidate in data science and environmen
 My research interests are related to modelling climate change impacts, such as extreme heat and flooding, on people and ecosystems using advanced data science methods. My current and past research projects are available [here](https://jeremieboudreault.github.io/projects/). 
 
 > 🔥 **Hiring:**  I am currently looking for students to join our team for a summer internship or to pursue a master degree in climate, health and data science. More informations available in the links below :
-
 > - [Summer internships for undergraduate student](https://inrs.ca/les-etudes/stages-et-postdoctorats/repertoire-des-stages-en-recherche/stage-sur-les-impacts-sanitaires-et-economiques-des-aleas-climatiques-au-quebec/)
 > - [Master (M. Sc.) projects](https://inrs.ca/les-etudes/projets-de-maitrise-et-de-doctorat/repertoire-des-projets-etudes/impacts-sanitaires-et-economiques-des-aleas-climatiques-au-quebec/)
  
