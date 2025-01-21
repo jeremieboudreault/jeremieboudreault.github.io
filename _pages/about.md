@@ -12,11 +12,18 @@ Hi! I am Jérémie Boudreault, a Ph. D. candidate in data science and environmen
 
 My research interests are related to modelling climate change impacts, such as extreme heat and flooding, on people and ecosystems using advanced data science methods. My current and past research projects are available [here](https://jeremieboudreault.github.io/projects/). 
 
+🔥 **Hiring** 🔥 
+
+I am currently looking for students to join our team for a summer internship or pursue a master degree in climate, health and data science. More informations available in the links below :
+
+- [Summer internships for undergraduate student on health and economic impacts of climate hazards](https://inrs.ca/les-etudes/stages-et-postdoctorats/repertoire-des-stages-en-recherche/stage-sur-les-impacts-sanitaires-et-economiques-des-aleas-climatiques-au-quebec/)
+- [Master (M. Sc.) projects on modelling health and economomic impacts of climate change](https://inrs.ca/les-etudes/projets-de-maitrise-et-de-doctorat/repertoire-des-projets-etudes/impacts-sanitaires-et-economiques-des-aleas-climatiques-au-quebec/)
+
 News
 ----------
 
 
-* 🔥 [2.7M$ to support research on economic impacts of climate change](https://frq.gouv.qc.ca/plus-de-27-m-pour-soutenir-la-recherche-portant-sur-les-impacts-economiques-des-changements-climatiques/), 2024/12/18, FRQ.
+*  [2.7M$ to support research on economic impacts of climate change](https://frq.gouv.qc.ca/plus-de-27-m-pour-soutenir-la-recherche-portant-sur-les-impacts-economiques-des-changements-climatiques/), 2024/12/18, FRQ.
 * [The health and economic costs of extreme heat](https://ici.radio-canada.ca/ohdio/premiere/emissions/moteur-de-recherche/segments/rattrapage/1910988/comment-calculer-couts-sanitaires-et-economiques-vagues-chaleur), 2024/11/12, Moteur de recherche.
 * [The impacts of extreme heat on the healthcare system](https://ici.radio-canada.ca/tele/decouverte/site/segments/reportage/1872309/changements-climatiques-chaleur-sante-soins), 2024/10/06, Découverte.
 * [Heat linked to 470 deaths and 225 hospitalizations in Quebec](https://www.ledevoir.com/societe/815114/chaleur-cause-470-deces-225-hospitalisations-chaque-ete-quebec), 2024/06/19, Le Devoir.
