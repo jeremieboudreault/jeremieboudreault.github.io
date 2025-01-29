@@ -17,7 +17,7 @@ Health and economic effects of extreme heat 🌇 [2021-]
 Related research : [Report #1, Papers #5–#7, #10; #12-#13](https://jeremieboudreault.github.io/research/)
 
 
-Climate-related risks in insurance contexts ⛈ [2019-2023] 
+Climate-related risks in insurance contexts ⛈ [2019-2022] 
 -------------------
 
 *As part of my research scientist position at The Co-operators.*
