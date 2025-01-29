@@ -34,9 +34,8 @@ About me
 ----------
 
 * **2021- : Ph. D., Data science and environmental health**, INRS
-* 2025: Lecturer, Laval University
+* **2025-: Lecturer**, Laval University
 * 2024: Research intership abroad, BCCDC and University of British Columbia
-* 2022-2023 : Research internship, Climate change and health, INSPQ
 * 2019-2022 : Research scientist, Climate risk modelling, The Co-operators
 * 2016-2018 : M. Sc., Statistical hydrology, INRS
 * 2013-2016 : B. Sc., Actuarial science, Laval University
