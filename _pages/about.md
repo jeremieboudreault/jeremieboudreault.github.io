@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Jérémie Boudreault, a Ph. D. candidate in data science and environmental health at the *Water Earth and Environment Research Center* of the National institute of scientific research (INRS) in Quebec City, Canada. Prior to my doctoral studies, I worked for several years as a research scientist in climate risk modelling in the industry. 
+Hello! I'm Jérémie Boudreault, a PhD student-researcher at the National institute of scientific research of Quebec (INRS), Canada. My research focuses on modelling the health, economic and environmental impacts of various climate hazards such as extreme heat and flooding. To that end, I leverage both novel statistical models and AI/machine learning approaches. Prior to starting my PhD, I worked for several years as a research scientist in climate risk.
 
-My research interests are related to modelling climate change impacts, such as extreme heat and flooding, on people and ecosystems using advanced data science methods. My current and past research projects are available [here](https://jeremieboudreault.github.io/projects/). 
+My current and past research projects are available [here](https://jeremieboudreault.github.io/projects/). 
 
 > 🔥 **Hiring:**  I am currently looking for students to join our team for a summer internship or to pursue a master degree in climate, health and data science. More informations available in the links below :
 > - [Summer internships for undergraduate student](https://inrs.ca/les-etudes/stages-et-postdoctorats/repertoire-des-stages-en-recherche/stage-sur-les-impacts-sanitaires-et-economiques-des-aleas-climatiques-au-quebec/)
@@ -20,6 +20,7 @@ News
 ----------
 
 
+* 🆕 [Extreme heat: a hefty bill according to an INRS study](https://www.lapresse.ca/actualites/sante/2025-01-28/chaleur-extreme/une-facture-salee-a-venir-pour-le-reseau-de-la-sante-previent-une-etude-de-l-inrs.php), 2025/01/28, La Presse.
 * 🆕 [2.7M$ to support research on economic impacts of climate change](https://frq.gouv.qc.ca/plus-de-27-m-pour-soutenir-la-recherche-portant-sur-les-impacts-economiques-des-changements-climatiques/), 2024/12/18, FRQ.
 * [The health and economic costs of extreme heat](https://ici.radio-canada.ca/ohdio/premiere/emissions/moteur-de-recherche/segments/rattrapage/1910988/comment-calculer-couts-sanitaires-et-economiques-vagues-chaleur), 2024/11/12, Moteur de recherche.
 * [The impacts of extreme heat on the healthcare system](https://ici.radio-canada.ca/tele/decouverte/site/segments/reportage/1872309/changements-climatiques-chaleur-sante-soins), 2024/10/06, Découverte.
