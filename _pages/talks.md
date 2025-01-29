@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-Talks
+Past talks
 -------------------
 
 31. M Grenier\*, **J Boudreault**, S Raymond, M Boudreault (2025), [Projection des inondations saisonnières au Canada en climat futur à l'aide de modèles statistiques et d’apprentissage automatique](https://www.ouranos.ca/fr/symposium/programmation-jour2/session19-intelligence-artificielle-changements-climatiques), Symposium Ouranos, 2025/01/29.  Montréal, QC, Canada. 
