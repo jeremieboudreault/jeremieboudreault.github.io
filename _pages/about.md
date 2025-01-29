@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Jérémie Boudreault, a PhD student-researcher at the National institute of scientific research of Quebec (INRS), Canada. 
+Hello! I am Jérémie Boudreault, a PhD student-researcher at the National institute of scientific research of Quebec (INRS), and a lecturer at Laval University.
 
 My research focuses on modelling the health, economic and environmental impacts of climate hazards such as extreme heat and flooding. To that end, I leverage both novel statistical models and AI/machine learning approaches. Prior to my PhD, I worked for several years as a research scientist in climate risk modelling. My current and past projects are available [here](https://jeremieboudreault.github.io/projects/). 
 
