@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! I am Jérémie Boudreault, a PhD student-researcher at the National institute of scientific research of Quebec (INRS), Canada. 
 
-My research focuses on modelling the health, economic and environmental impacts of various climate hazards such as extreme heat and flooding. To that end, I leverage both novel statistical models and AI/machine learning approaches. Prior to starting my PhD, I worked for several years as a research scientist in climate risk. My current and past research projects are available [here](https://jeremieboudreault.github.io/projects/). 
+My research focuses on modelling the health, economic and environmental impacts of climate hazards such as extreme heat and flooding. To that end, I leverage both novel statistical models and AI/machine learning approaches. Prior to my PhD, I worked for several years as a research scientist in climate risk modelling. My current and past projects are available [here](https://jeremieboudreault.github.io/projects/). 
 
 > 🔥 **Hiring:**  I am currently looking for students to join our team for a summer internship or to pursue a master degree in climate, health and data science. More informations available in the links below :
 > - [Summer internships for undergraduate student](https://inrs.ca/les-etudes/stages-et-postdoctorats/repertoire-des-stages-en-recherche/stage-sur-les-impacts-sanitaires-et-economiques-des-aleas-climatiques-au-quebec/)
