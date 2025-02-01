@@ -35,16 +35,16 @@ Scholarships and grants
 * **2025-: [Research grant on the economic impacts of climate change](https://frq.gouv.qc.ca/projet/impacts-economiques-actuels-et-projetes-des-aleas-climatiques-sur-le-secteur-de-la-sante-au-quebec/)**, FRQ (300 000$) [Co-researcher]
 * **2022- : Vanier Canada Graduate scholarship**, NSERC (150 000$)
 * **2022- : Real-Decoste Excellence scholarship**, Ouranos (60 000$)
-* **2022** : Health System Impact Fellowship - Equitable AI stream, CIHR (50 000$)
+* **2022-2023** : Health System Impact Fellowship - Equitable AI stream, CIHR (50 000$)
 * **2022** : Canada Graduate scholarship - Doctoral, NSERC (105 000$) [Declined]
 * **2022** : Doctoral Research scholarship, FRQNT (84 000$) [Declined]
-* **2021** : Student Research scholarship, INSPQ (14 000$)
+* **2021-2022** : Student Research scholarship, INSPQ (14 000$)
+* **2017-2018** : Canada Graduate scholarship - Master, NSERC (17 500$)
 
 Awards
 ---------------
 * **2019** : Honor Roll of the Director of Research and Academic Affairs, INRS (0$)
 * **2018** : Ken Thompson award, CWRA (2000$)
-* **2017** : Canada Graduate scholarship - Master, NSERC (17 500$)
 * **2016** : Claude-Dussault award, Laval University (3 000$)
 * **2016** : André Darveau award, Laval University (2 000$)
 * **2013** : Medal of the general board, Cegep de Chicoutimi (500$)
