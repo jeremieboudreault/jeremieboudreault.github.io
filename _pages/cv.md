@@ -32,7 +32,7 @@ Work experience
 Scholarships and grants
 ---------------
 
-* **2025-: [Research grant on the economic impacts of climate change](https://frq.gouv.qc.ca/projet/impacts-economiques-actuels-et-projetes-des-aleas-climatiques-sur-le-secteur-de-la-sante-au-quebec/)**, FRQ (300 000$) [Co-researcher]
+* **2025-: Research grant on the economic impacts of climate change**, FRQ (300 000$) [Co-researcher]
 * **2022- : Vanier Canada Graduate scholarship**, NSERC (150 000$)
 * **2022- : Real-Decoste Excellence scholarship**, Ouranos (60 000$)
 * **2022-2023** : Health System Impact Fellowship - Equitable AI stream, CIHR (50 000$)
@@ -41,7 +41,7 @@ Scholarships and grants
 * **2021-2022** : Student Research scholarship, INSPQ (14 000$)
 * **2017-2018** : Canada Graduate scholarship - Master, NSERC (17 500$)
 
-Awards
+Main awards
 ---------------
 * **2019** : Honor Roll of the Director of Research and Academic Affairs, INRS (0$)
 * **2018** : Ken Thompson award, CWRA (2000$)
@@ -50,13 +50,21 @@ Awards
 * **2013** : Medal of the general board, Cegep de Chicoutimi (500$)
 
 
-Curreny social involvement
+Current social involvement
 -------------------
 
 * **2024-** : Chairman of data science seminars at the Water, Earth and Environment Research Center, INRS
 * **2023-** : Member, Institutional committee for sustainable development of INRS
-* **2023-** : Reviewer of scientific papers for *Environmental Health Perspectives*, *Environment International*, *Epidemiology*, *Sustainable Cities and Society*, *Nature Scientific Reports*, *Environmental Research Letters*, *BMJ Open*, etc.
+* **2023-** : Reviewer of scientific papers for *EHP*, *Environment International*, *Epidemiology*, *Sustainable Cities and Society*, *Scientific Reports*, *Environmental Research Letters*, *BMJ Open*, etc.
 * **2021-** : Treasurer and project manager, 490 Green Comittee
+
+Supervision
+---------------
+
+* **2023-** : 5 interns and 2 master's student, Doctoral projet, INRS & INSPQ
+* **2020-2022** : 3 data scientist and 2 Mitacs master's student, The Co-operators
+* **2017-2018** : 7 interns et 3 research assistant, Master's project, INRS
+
 
 Teaching experience
 ---------------
