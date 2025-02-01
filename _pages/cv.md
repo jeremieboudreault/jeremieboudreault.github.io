@@ -43,6 +43,7 @@ Scholarships and grants
 
 Main awards
 ---------------
+* **2024** : Candian finalist of 3-minute thesis contest (500$)
 * **2019** : Honor Roll of the Director of Research and Academic Affairs, INRS (0$)
 * **2018** : Ken Thompson award, CWRA (2000$)
 * **2016** : Claude-Dussault award, Laval University (3 000$)
