@@ -14,7 +14,7 @@ My research focuses on modelling the health, economic and environmental impacts 
 
 > 🚨 **Hiring:**  I am currently looking for students to join our team to pursue a master's degree (M. Sc.) in climate-health or data science. More information available below:
 > - [Master's projects on the health and economic impacts of climate change](https://inrs.ca/les-etudes/projets-de-maitrise-et-de-doctorat/repertoire-des-projets-etudes/impacts-sanitaires-et-economiques-des-aleas-climatiques-au-quebec/)
-> ⠀
+
  
 News
 ----------
