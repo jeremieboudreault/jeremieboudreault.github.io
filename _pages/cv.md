@@ -43,7 +43,7 @@ Scholarships and grants
 
 Main awards
 ---------------
-* **2024** : Candian finalist of 3-minute thesis contest (500$)
+* **2024** : Canadian finalist of the 3-minute thesis contest (500$)
 * **2019** : Honor Roll of the Director of Research and Academic Affairs, INRS (0$)
 * **2018** : Ken Thompson award, CWRA (2000$)
 * **2016** : Claude-Dussault award, Laval University (3 000$)
@@ -62,9 +62,9 @@ Current social involvement
 Supervision
 ---------------
 
-* **2023-** : 5 interns and 2 master's student, Doctoral projet, INRS & INSPQ
-* **2020-2022** : 3 data scientist and 2 Mitacs master's student, The Co-operators
-* **2017-2018** : 7 interns et 3 research assistant, Master's project, INRS
+* **2023-** : 5 trainees and 2 master's students, Doctoral project, INRS & INSPQ
+* **2020-2022** : 3 data analysts and 2 Mitacs master's students, The Co-operators
+* **2017-2018** : 7 trainees et 3 research assistants, Master's project, INRS
 
 
 Teaching experience
