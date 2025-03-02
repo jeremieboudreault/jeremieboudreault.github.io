@@ -8,9 +8,9 @@ author_profile: true
 Upcoming talks
 -------------------
 
-1. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2025),[Le fardeau sanitaire et économique, actuel et futur, lié à la chaleur extrême au Québec](https://www.ouranos.ca/fr/webinaires), Webinaire Ouranos, 2025/05/14. En ligne.
+1. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2025),[Le fardeau sanitaire et économique, actuel et futur, lié à la chaleur extrême au Québec](https://www.ouranos.ca/fr/webinaires), Webinaire Ouranos, 2025/05/14. En ligne. **[Invited speaker]**
 
-2. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2025) [Health and economic impacts of extreme heat with data science](https://icm-mhi.org/centre-de-recherche/global-school-on-heat-adaptation/), Global School on Heat Adaptation, 2025/07/21. Montréal, AC, Canada.
+2. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2025) [Health and economic impacts of extreme heat with data science](https://icm-mhi.org/centre-de-recherche/global-school-on-heat-adaptation/), Global School on Heat Adaptation, 2025/07/21. Montréal, QC, Canada.
 
 
 Past talks
