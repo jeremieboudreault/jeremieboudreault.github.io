@@ -10,7 +10,7 @@ Upcoming talks
 
 1. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2025) [Chaleur extrême au Québec :Fardeau sanitaire et économique, actuel et futur](https://www.ouranos.ca/fr/webinaires), Webinaire Ouranos, 2025/05/14. En ligne. **[Invited speaker]**
 
-1. **J Boudreault\***, KE McLean, SB Henderson (2025) [Quels médicaments augmentent le risque de mortalité lors des canicules ? Cas d’étude pendant le dôme de chaleur de 2021 en Colombie-Britannique](https://www.rqrm.ca/2025/01/31/14e-edition-du-colloque-annuel-du-rqrm/). Colloque du réseau québécois de recherche sur les médicaments. 2025/06/10. Montréal, QC, Canada.  **[Invited speaker]**
+1. **J Boudreault\***, KE McLean, SB Henderson (2025) [Quels médicaments augmentent le risque de mortalité lors des canicules ? Cas d’étude pendant le dôme de chaleur de 2021 en Colombie-Britannique](https://www.rqrm.ca/2025/01/31/14e-edition-du-colloque-annuel-du-rqrm/), Réseau québécois de recherche sur les médicaments, 2025/06/10. Montréal, QC, Canada.  **[Invited speaker]**
 
 2. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2025) [Health and economic impacts of extreme heat with data science](https://icm-mhi.org/centre-de-recherche/global-school-on-heat-adaptation/), Global School on Heat Adaptation, 2025/07/21. Montréal, QC, Canada.
 
@@ -20,7 +20,7 @@ Past talks
 
 31. M Grenier\*, **J Boudreault**, S Raymond, M Boudreault (2025) [Projection des inondations saisonnières au Canada en climat futur à l'aide de modèles statistiques et d’apprentissage automatique](https://www.ouranos.ca/fr/symposium/programmation-jour2/session19-intelligence-artificielle-changements-climatiques), Symposium Ouranos, 2025/01/29.  Montréal, QC, Canada. 
 
-30. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2025) [Estimation des coûts futurs de santé liés à la chaleur extrême au Québec à l’aide des projections climatiques](https://www.ouranos.ca/fr/symposium/programmation-jour1/session4-couts-climat-changeant), Symposium Ouranos, 2025/01/28.  Montréal, QC, Canada. 
+30. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2025) [Estimation des coûts futurs de santé liés à la chaleur extrême au Québec à l’aide des projections climatiques](https://www.ouranos.ca/fr/symposium/programmation-jour1/session4-couts-climat-changeant), Symposium Ouranos, 2025/01/28. Montréal, QC, Canada. 
 
 29. **J Boudreault**, KE McLean, SB Henderson\* (2025) [Which medications influence the risk of mortality during extreme heat events? A novel approach using machine learning](https://oshce.uw.edu/pages/cascadia-2025-annual-symposium-environmental-occupational-and-population-health), Cascadia Annual Symposium on Environmental, Occupational, and Population Health, 2025/01/09. Blaine, WA, US. 
 
