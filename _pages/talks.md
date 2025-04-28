@@ -14,7 +14,7 @@ Upcoming talks
 
 3. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2025) [Health and economic impacts of extreme heat with data science](https://icm-mhi.org/centre-de-recherche/global-school-on-heat-adaptation/), Global School on Heat Adaptation, 2025/07/21. Montréal, QC, Canada.
 
-4. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2025) [Modelling vulnerability to extreme heat at a small spatial scale using environmental epidemiology and machine learning modelse](https://cseb.ca/events/2025-conference/), Canadian Society of Biostatistics and Epidemiology, 2025/08/12. Montréal, QC, Canada.
+4. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2025) [Modelling vulnerability to extreme heat at a small spatial scale using environmental epidemiology and machine learning models](https://cseb.ca/events/2025-conference/), Canadian Society of Biostatistics and Epidemiology, 2025/08/12. Montréal, QC, Canada.
 
 
 Past talks
