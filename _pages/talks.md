@@ -10,13 +10,16 @@ Upcoming talks
 
 1. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2025) [Chaleur extrême au Québec: Fardeau sanitaire et économique, actuel et futur](https://www.ouranos.ca/fr/webinaires), Webinaire Ouranos, 2025/05/14. En ligne. **[Invited speaker]**
 
-1. **J Boudreault\***, KE McLean, SB Henderson (2025) [Quels médicaments augmentent le risque de mortalité lors des canicules? Cas d’étude pendant le dôme de chaleur de 2021 en Colombie-Britannique](https://www.rqrm.ca/2025/01/31/14e-edition-du-colloque-annuel-du-rqrm/), Réseau québécois de recherche sur les médicaments, 2025/06/10. Montréal, QC, Canada.  **[Invited speaker]**
+2. **J Boudreault\***, KE McLean, SB Henderson (2025) [Médicaments, mortalité et dôme de chaleur : qu’est-ce que l’IA peut apporter ?](https://www.rqrm.ca/2025/01/31/14e-edition-du-colloque-annuel-du-rqrm/), Réseau québécois de recherche sur les médicaments, 2025/06/10. Montréal, QC, Canada.  **[Invited speaker]**
 
-2. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2025) [Health and economic impacts of extreme heat with data science](https://icm-mhi.org/centre-de-recherche/global-school-on-heat-adaptation/), Global School on Heat Adaptation, 2025/07/21. Montréal, QC, Canada.
+3. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2025) [Health and economic impacts of extreme heat with data science](https://icm-mhi.org/centre-de-recherche/global-school-on-heat-adaptation/), Global School on Heat Adaptation, 2025/07/21. Montréal, QC, Canada.
+
+4. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2025) [Modelling vulnerability to extreme heat at a small spatial scale using environmental epidemiology and machine learning modelse](https://cseb.ca/events/2025-conference/), Canadian Society of Biostatistics and Epidemiology, 2025/08/12. Montréal, QC, Canada.
 
 
 Past talks
 -------------------
+
 
 31. M Grenier\*, **J Boudreault**, S Raymond, M Boudreault (2025) [Projection des inondations saisonnières au Canada en climat futur à l'aide de modèles statistiques et d’apprentissage automatique](https://www.ouranos.ca/fr/symposium/programmation-jour2/session19-intelligence-artificielle-changements-climatiques), Symposium Ouranos, 2025/01/29.  Montréal, QC, Canada. 
 
