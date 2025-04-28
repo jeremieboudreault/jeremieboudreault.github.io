@@ -39,7 +39,7 @@ Scholarships and grants
 * **2021-2022** : Student Research scholarship, INSPQ (14 000$)
 * **2017-2018** : Canada Graduate scholarship - Master, NSERC (17 500$)
 
-Main awards
+Main awards and prizes
 ---------------
 * **2024** : Canadian finalist of the 3-minute thesis contest (500$)
 * **2019** : Honor Roll of the Director of Research and Academic Affairs, INRS (0$)
@@ -49,7 +49,7 @@ Main awards
 * **2013** : Medal of the general board, Cegep de Chicoutimi (500$)
 
 
-Current social involvement
+Current social involvements
 -------------------
 * **2024-** : Chairman of the environmental data science seminars, INRS
 * **2023-** : Member, Institutional committee for sustainable development of INRS
@@ -63,7 +63,7 @@ Supervision
 * **2017-2018** : 7 trainees et 3 research assistants, Master's project, INRS
 
 
-Teaching experience
+Teaching
 ---------------
 * [Click here](https://jeremieboudreault.github.io/teaching/)
 
