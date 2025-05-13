@@ -12,9 +12,9 @@ Upcoming talks
 
 2. **J Boudreault\***, KE McLean, SB Henderson (2025) [Médicaments, mortalité et dôme de chaleur : qu’est-ce que l’IA peut apporter ?](https://www.rqrm.ca/2025/01/31/14e-edition-du-colloque-annuel-du-rqrm/), Réseau québécois de recherche sur les médicaments, 2025/06/10. Montréal, QC, Canada.  **[Invited speaker]**
 
-3. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2025) [Health and economic impacts of extreme heat with data science](https://icm-mhi.org/centre-de-recherche/global-school-on-heat-adaptation/), Global School on Heat Adaptation, 2025/07/21. Montréal, QC, Canada.
+3. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2025) [Health and economic impacts of extreme heat with data science](https://icm-mhi.org/centre-de-recherche/global-school-on-heat-adaptation/), Global School on Heat Adaptation, 2025/07/21. Montréal, QC, Canada. [Poster]
 
-4. **J Boudreault\***, C Campagna, F Chebana (2025) [Comparaison des approches statistique et d’apprentissage automatique pour modéliser les effets sanitaires de la chaleur extrême](https://cseb.ca/events/2025-conference/), Colloque Francophone Interfacultaire de Recherche en Biostatistique, 2025/08/10. Montréal, QC, Canada.
+4. **J Boudreault\***, C Campagna, F Chebana (2025) [Comparaison des approches statistique et d’apprentissage automatique pour modéliser les effets sanitaires de la chaleur extrême](https://cseb.ca/events/2025-conference/), Colloque interfacultaire de recherche en biostatistique, 2025/08/10. Montréal, QC, Canada.
 
 5. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2025) [Modelling vulnerability to extreme heat at a small spatial scale using environmental epidemiology and machine learning models](https://cseb.ca/events/2025-conference/), Canadian Society of Biostatistics and Epidemiology, 2025/08/12. Montréal, QC, Canada.
 
@@ -22,7 +22,7 @@ Upcoming talks
 Past talks
 -------------------
 
-32. **J Boudreault\**** (2025) [Changements climatiques : la recherche scientifique pour mieux comprendre et s’adapter], Association des retraités de l'éducation du Québec. 2025/04/25. Saguenay, QC, Canada. **[Invited speaker]**
+32. **J Boudreault\*** (2025) Changements climatiques : la recherche scientifique pour mieux comprendre et s’adapter, Association des retraités de l'éducation du Québec. 2025/04/25. Saguenay, QC, Canada. **[Invited speaker]**
 
 31. M Grenier\*, **J Boudreault**, S Raymond, M Boudreault (2025) [Projection des inondations saisonnières au Canada en climat futur à l'aide de modèles statistiques et d’apprentissage automatique](https://www.ouranos.ca/fr/symposium/programmation-jour2/session19-intelligence-artificielle-changements-climatiques), Symposium Ouranos, 2025/01/29.  Montréal, QC, Canada. 
 
