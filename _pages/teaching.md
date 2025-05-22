@@ -20,11 +20,13 @@ Invited lecturer
 
 * **Summer 2025** : SAP7025 - Climate action and health, Laval University
 
-    * One lecture on the health costs of climate change
+    * *One lecture on the health costs of climate change*
+
 
 * **Fall 2021** : ETE414 - Multivariate data analysis, INRS
 
-    * One lecture on neural networks models
+    * *One lecture on neural networks models*
+
 
 Teaching assistant
 -----------
