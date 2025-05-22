@@ -18,14 +18,9 @@ Co-lecturer
 Invited lecturer
 ----------
 
-* **Summer 2025** : SAP7025 - Climate action and health, Laval University
+* **Summer 2025** : SAP7025 - Climate action and health, One lecture on the health costs of climate change,  Laval University
 
-    * *One lecture on the health costs of climate change*
-
-
-* **Fall 2021** : ETE414 - Multivariate data analysis, INRS
-
-    * *One lecture on neural networks models*
+* **Fall 2021** : ETE414 - Multivariate data analysis, One lecture on neural networks models*, INRS
 
 
 Teaching assistant
