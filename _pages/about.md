@@ -20,7 +20,8 @@ News
 ----------
 
 
-* 🆕 [Extreme heat: a hefty bill according to an INRS study](https://www.lapresse.ca/actualites/sante/2025-01-28/chaleur-extreme/une-facture-salee-a-venir-pour-le-reseau-de-la-sante-previent-une-etude-de-l-inrs.php), 2025/01/28, La Presse.
+* 🆕[Extreme heat will cost Quebec more and more](https://www.quebecscience.qc.ca/environnement/chaleur-extreme-cout-cher-quebec/), 2025/05/21, Québec Science.
+* [Extreme heat: a hefty bill according to an INRS study](https://www.lapresse.ca/actualites/sante/2025-01-28/chaleur-extreme/une-facture-salee-a-venir-pour-le-reseau-de-la-sante-previent-une-etude-de-l-inrs.php), 2025/01/28, La Presse.
 * [2.7M$ to support research on economic impacts of climate change](https://frq.gouv.qc.ca/plus-de-27-m-pour-soutenir-la-recherche-portant-sur-les-impacts-economiques-des-changements-climatiques/), 2024/12/18, FRQ.
 * [The health and economic costs of extreme heat](https://ici.radio-canada.ca/ohdio/premiere/emissions/moteur-de-recherche/segments/rattrapage/1910988/comment-calculer-couts-sanitaires-et-economiques-vagues-chaleur), 2024/11/12, Moteur de recherche.
 * [The impacts of extreme heat on the healthcare system](https://ici.radio-canada.ca/tele/decouverte/site/segments/reportage/1872309/changements-climatiques-chaleur-sante-soins), 2024/10/06, Découverte.
