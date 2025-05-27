@@ -40,6 +40,8 @@ Papers
 Reports
 ---------------
 
+2. F Lamothe\*, M Dubé, **J Boudreault**, R Bustinza (2025). [Vagues de chaleur extrême et chaleur estivale au Québec : impacts sur la santé de 2010 à 2024](https://www.inspq.qc.ca/publications/3662). Institut national de santé publique du Québec. 52 p. 
+
 1. **J Boudreault***, C Campagna, F Chebana (2022). [Coûts de santé de la chaleur extrême en contexte de changements climatiques : état des connaissances et orientations futures](https://espace.inrs.ca/id/eprint/13052/). Rapport de recherche R2129, Institut national de la recherche scientifique, 92 p.
 
 
