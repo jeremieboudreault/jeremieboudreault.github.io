@@ -8,7 +8,7 @@ author_profile: true
 Health and economic effects of extreme heat 🌇 [2021-]
 -------------------
 
-Par of my Ph. D. at INRS and my research internships at INSPQ and BCCDC/UBC, this project involves :
+*As part of my Ph. D. at INRS and my research internships at INSPQ and BCCDC/UBC.*
 
 - Modelling the heat-related health impacts using machine and deep learning models
 - Estimating the heat burden and associated health costs with projected climate change
@@ -24,7 +24,7 @@ Other related publications : [Papers #5–#7, #10, #12-#13, Reports #1-#2](https
 Climate-related risks in insurance contexts ⛈ [2019-2022] 
 -------------------
 
-Part of my research scientist position at The Co-operators, this project aimed at :
+*As part of my research scientist position at The Co-operators.*
 
 - Modelling and simulating river and coastal flood risk at the Canadian level
 - Projection of climate change impacts for convective storms, hurricane and flooding
@@ -40,7 +40,7 @@ Other related publications : [Papers #8–#9, #11](https://jeremieboudreault.git
 Functional regression models in ecohydrology 🏞 [2016-2019] 
 ------------------ 
 
-Part of my M. Sc. in statistical hydrology at INRS, this prohject aimed at : 
+*As part of my M. Sc. in statistical hydrology at INRS.*
 
 - Statistical modelling of ecohydrological variables (temperature, flow, habitat, etc.)
 - Analysis of the physico-thermal fish habitat variability
