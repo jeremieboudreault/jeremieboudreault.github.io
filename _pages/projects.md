@@ -32,6 +32,9 @@ Climate-related risks in insurance contexts ⛈ [2019-2022]
 
 Related research : [Papers #8–#9, #11](https://jeremieboudreault.github.io/research/)
 
+Example of results : 
+
+<img src = "/../files/fig_proj_2.png" />
 
 Functional regression models in ecohydrology 🏞 [2016-2019] 
 ------------------ 
@@ -43,3 +46,7 @@ Functional regression models in ecohydrology 🏞 [2016-2019]
 - Team leader for river data sampling during two summers
 
 Related research : [Papers #1–#4, Master thesis](https://jeremieboudreault.github.io/research/)
+
+Example of results : 
+
+<img src = "/../files/fig_proj_1.png" />
