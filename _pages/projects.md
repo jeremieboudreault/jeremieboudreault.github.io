@@ -21,7 +21,6 @@ Example of results :
 ![](files/proj_3.png)
 
 
-
 Climate-related risks in insurance contexts ⛈ [2019-2022] 
 -------------------
 
