@@ -14,11 +14,11 @@ Health and economic effects of extreme heat 🌇 [2021-]
 - Estimating the heat burden and associated health costs with projected climate change
 - Analyzing vulnerability factors to extreme heat such as medication use and schizophrenia 
 
-An example of results for the health costs of extreme heat (from publication #13) : 
+An example of results for health costs : 
 
 <img src = "/../files/fig_proj_3.png" />
 
-Other related publications : [Papers #5–#7, #10, #12-#13, Reports #1-#2](https://jeremieboudreault.github.io/publications/)
+*Other related publications* : [Papers #5–#7, #10, #12-#13, Reports #1-#2](https://jeremieboudreault.github.io/publications/)
 
 
 Climate-related risks in insurance contexts ⛈ [2019-2022] 
@@ -30,11 +30,11 @@ Climate-related risks in insurance contexts ⛈ [2019-2022]
 - Projection of climate change impacts for convective storms, hurricane and flooding
 - Tools for spatial concentration and natural disaster risk management
 
-An example of results for projected flooding in Canada (from publication #)
+An example of results for summer flooding :
 
 <img src = "/../files/fig_proj_2.png" />
 
-Other related publications : [Papers #8–#9, #11](https://jeremieboudreault.github.io/publications/)
+*Other related publications* : [Papers #8–#9, #11](https://jeremieboudreault.github.io/publications/)
 
 
 Functional regression models in ecohydrology 🏞 [2016-2019] 
@@ -46,8 +46,8 @@ Functional regression models in ecohydrology 🏞 [2016-2019]
 - Analysis of the physico-thermal fish habitat variability
 - Team leader for river data sampling during two summers
 
-An example of results for simulated stream tempearture (from publication #1) : 
+An example of results for simulated stream tempearture : 
 
 <img src = "/../files/fig_proj_1.png" />
 
-Other related publications : [Papers #1–#4, Master thesis](https://jeremieboudreault.github.io/publications/)
+*Other related publications* : [Papers #1–#4, Master thesis](https://jeremieboudreault.github.io/publications/)
