@@ -69,7 +69,7 @@ Teaching
 
 Publications
 ---------------
-* [Click here](https://jeremieboudreault.github.io/research/)
+* [Click here](https://jeremieboudreault.github.io/publications/)
 
 Talks
 ---------------
