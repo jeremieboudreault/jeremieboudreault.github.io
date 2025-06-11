@@ -8,17 +8,19 @@ author_profile: true
 Upcoming talks
 -------------------
 
-1. **J Boudreault\***, KE McLean, SB Henderson (2025) [Médicaments, mortalité et dôme de chaleur : qu’est-ce que l’IA peut apporter ?](https://www.rqrm.ca/2025/01/31/14e-edition-du-colloque-annuel-du-rqrm/), Réseau québécois de recherche sur les médicaments, 2025/06/10. Montréal, QC, Canada.  **[Invited speaker]**
 
-2. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2025) [Health and economic impacts of extreme heat with data science](https://icm-mhi.org/centre-de-recherche/global-school-on-heat-adaptation/), Global School on Heat Adaptation, 2025/07/21. Montréal, QC, Canada. [Poster]
+1. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2025) [Health and economic impacts of extreme heat with data science](https://icm-mhi.org/centre-de-recherche/global-school-on-heat-adaptation/), Global School on Heat Adaptation, 2025/07/21. Montréal, QC, Canada. [Poster]
 
-3. **J Boudreault\***, C Campagna, F Chebana (2025) [Comparaison des approches statistique et d’apprentissage automatique pour modéliser les effets sanitaires de la chaleur extrême](https://www.crmath.ca/activites/#/type/activity/id/4028), Colloque interfacultaire de recherche en biostatistique, 2025/08/10. Montréal, QC, Canada.
+2. **J Boudreault\***, C Campagna, F Chebana (2025) [Comparaison des approches statistique et d’apprentissage automatique pour modéliser les effets sanitaires de la chaleur extrême](https://www.crmath.ca/activites/#/type/activity/id/4028), Colloque interfacultaire de recherche en biostatistique, 2025/08/10. Montréal, QC, Canada.
 
-4. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2025) [Modelling vulnerability to extreme heat at a small spatial scale using environmental epidemiology and machine learning models](https://cseb.ca/events/2025-conference/), Canadian Society of Biostatistics and Epidemiology, 2025/08/12. Montréal, QC, Canada.
+3. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2025) [Modelling vulnerability to extreme heat at a small spatial scale using environmental epidemiology and machine learning models](https://cseb.ca/events/2025-conference/), Canadian Society of Biostatistics and Epidemiology, 2025/08/12. Montréal, QC, Canada.
 
 
 Past talks
 -------------------
+
+34. **J Boudreault\***, KE McLean, SB Henderson (2025) [Médicaments, mortalité et dôme de chaleur : qu’est-ce que l’IA peut apporter ?](https://www.rqrm.ca/2025/01/31/14e-edition-du-colloque-annuel-du-rqrm/), Réseau québécois de recherche sur les médicaments, 2025/06/10. Montréal, QC, Canada.  **[Invited speaker]**
+
 
 33. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2025) [Chaleur extrême au Québec: Fardeau sanitaire et économique, actuel et futur](https://www.ouranos.ca/fr/webinaires/chaleur-extreme-quebec), Webinaire Ouranos, 2025/05/14. En ligne. **[Invited speaker]**
 
