@@ -9,6 +9,8 @@ author_profile: true
 Journal articles
 ---------------
 
+14. **J Boudreault\***, KE McLean, SB Henderson (2025). [Exploring the relationship between medications and heat-related community deaths during the 2021 heat dome: a hybrid approach using machine learning](https://doi.org/10.1016/j.ebiom.2025.105788). *eBioMedicine*. 117: 105788.
+
 13. **J Boudreault\***, C Campagna, E Lavigne, F Chebana (2025). [Projecting the overall heat-related health burden and associated economic costs in a climate change context in Quebec, Canada](https://doi.org/10.1016/j.scitotenv.2024.178022). *Science of the Total Environment*. 958(178022): 1-10.
 
 12. **J Boudreault\***, A Ruf, C Campagna, F Chebana (2024). [Multi-region models built with machine and deep learning for predicting several heat-related health outcomes](https://doi.org/10.1016/j.scs.2024.105785). *Sustainable Cities and Society*. 115(105785): 1-12.
