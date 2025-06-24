@@ -29,7 +29,7 @@ News
 * [Heat linked to 470 deaths and 225 hospitalizations in Quebec](https://www.ledevoir.com/societe/815114/chaleur-cause-470-deces-225-hospitalisations-chaque-ete-quebec), 2024/06/19, Le Devoir.
 
 About me
-----------
+---------- 
 
 * **2021- : Ph. D., Data science and environmental health**, INRS
 * **2025- : Lecturer**, Laval University
