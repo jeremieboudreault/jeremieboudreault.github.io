@@ -12,16 +12,16 @@ Hello! I am Jérémie Boudreault, a PhD student-researcher at the National insti
 
 My research focuses on modelling the health, economic and environmental impacts of climate hazards such as extreme heat and flooding. To that end, I leverage both novel statistical models and AI/machine learning approaches. Prior to my PhD, I worked for several years as a research scientist in climate risk modelling. My current and past projects are available [here](https://jeremieboudreault.github.io/projects/). 
 
-> 🚨 **Hiring:**  We are currently looking for students to join our team to pursue a M. Sc. or Ph. D. in climate-health or data science. More information available below:
-> - [Master's projects on the health and economic impacts of climate change](https://inrs.ca/les-etudes/projets-de-maitrise-et-de-doctorat/repertoire-des-projets-etudes/impacts-sanitaires-et-economiques-des-aleas-climatiques-au-quebec/)
+> 🚨 **Hiring:**  We are currently looking for students to join our team to pursue a Ph. D. in climate-health or data science. More information available below:
 > - [PhD on the health costs of climate change and evaluation of adaptation measures](https://inrs.ca/les-etudes/projets-de-maitrise-et-de-doctorat/repertoire-des-projets-etudes/analyse-des-couts-sanitaires-des-aleas-climatiques-au-quebec-et-evaluation-des-mesures-dadaptation/)
 
  
 News
 ----------
 
-* 🆕 [The heat-related healthcare costs in Quebec](https://ici.radio-canada.ca/ohdio/premiere/emissions/premiere-heure/segments/rattrapage/2104442/effets-episodes-chaleur-extreme-sur-systeme-sante), 2025/06/24, ICI Radio-Canada.
-* 🆕 [Extreme heat will cost Quebec more and more](https://www.quebecscience.qc.ca/environnement/chaleur-extreme-cout-cher-quebec/), 2025/05/21, Québec Science.
+* 🆕 [An international school on heat adaptation](https://www.youtube.com/watch?v=1AGNxft7-Dk), 2025/07/21, Téléjournal RDI.
+* [The heat-related healthcare costs in Quebec](https://ici.radio-canada.ca/ohdio/premiere/emissions/premiere-heure/segments/rattrapage/2104442/effets-episodes-chaleur-extreme-sur-systeme-sante), 2025/06/24, ICI Radio-Canada.
+* [Extreme heat will cost Quebec more and more](https://www.quebecscience.qc.ca/environnement/chaleur-extreme-cout-cher-quebec/), 2025/05/21, Québec Science.
 * [Extreme heat: a hefty bill according to an INRS study](https://www.lapresse.ca/actualites/sante/2025-01-28/chaleur-extreme/une-facture-salee-a-venir-pour-le-reseau-de-la-sante-previent-une-etude-de-l-inrs.php), 2025/01/28, La Presse.
 * [2.7M$ to support research on economic impacts of climate change](https://frq.gouv.qc.ca/plus-de-27-m-pour-soutenir-la-recherche-portant-sur-les-impacts-economiques-des-changements-climatiques/), 2024/12/18, FRQ.
 * [The health and economic costs of extreme heat](https://ici.radio-canada.ca/ohdio/premiere/emissions/moteur-de-recherche/segments/rattrapage/1910988/comment-calculer-couts-sanitaires-et-economiques-vagues-chaleur), 2024/11/12, Moteur de recherche.
