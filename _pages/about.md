@@ -19,6 +19,7 @@ My research focuses on modelling the health, economic and environmental impacts 
 News
 ----------
 
+* 🆕 [Medications associated with a higher risk of heat-related death](https://ici.radio-canada.ca/nouvelle/2182573/chaleur-medicaments-risque-deces-temperature), 2025/07/30, Radio-Canada.ca
 * 🆕 [An international school on heat adaptation](https://www.youtube.com/watch?v=1AGNxft7-Dk), 2025/07/21, Téléjournal RDI.
 * [The heat-related healthcare costs in Quebec](https://ici.radio-canada.ca/ohdio/premiere/emissions/premiere-heure/segments/rattrapage/2104442/effets-episodes-chaleur-extreme-sur-systeme-sante), 2025/06/24, ICI Radio-Canada.
 * [Extreme heat will cost Quebec more and more](https://www.quebecscience.qc.ca/environnement/chaleur-extreme-cout-cher-quebec/), 2025/05/21, Québec Science.
