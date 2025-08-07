@@ -12,7 +12,7 @@ Upcoming talks
 
 2. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2025) [Modelling vulnerability to extreme heat at a small spatial scale using environmental epidemiology and machine learning models](https://cseb.ca/events/2025-conference/), Canadian Society of Biostatistics and Epidemiology, 2025/08/12. Montréal, QC, Canada.
 
-3. KN Cowan\*, **J Boudreault**, K LeMasters, L Brinkley-Rubinstein (2025) [Temperatures extremes and mortality in federal prisons across the United States](https://www.isesisee2025.org/), International Society for Environmental Epidemiology (ISEE), 2025/08/17. Atlanta, GA, United States. [Posted]
+3. KN Cowan\*, **J Boudreault**, K LeMasters, L Brinkley-Rubinstein (2025) [Temperatures extremes and mortality in federal prisons across the United States](https://www.isesisee2025.org/), International Society for Environmental Epidemiology (ISEE), 2025/08/17. Atlanta, GA, United States. [Poster]
 
 
 Past talks
@@ -86,7 +86,7 @@ Past talks
 
 3. **J Boudreault\***, NE Bergeron, A St-Hilaire, F Chebana (2018). La régression fonctionnelle pour modéliser la température de l’eau et l’habitat du saumon atlantique juvénile. Séminaire de maîtrise. 27/04/2018. Québec, QC, Canada.
 
-2. **J Boudreault\***, NE Bergeron, A St-Hilaire, F Chebana (2018). Habitat selection by juvenile Atlantic Salmon (Salmo salar) using a functional regression model. Atlantic Salmon Ecosystem Forum (ASEF), 18/01/2018. Wells, ME, USA.
+2. **J Boudreault\***, NE Bergeron, A St-Hilaire, F Chebana (2018). Habitat selection by juvenile Atlantic Salmon (Salmo salar) using a functional regression model. Atlantic Salmon Ecosystem Forum (ASEF), 18/01/2018. Wells, ME, United States.
 
 1. **J Boudreault\***, NE Bergeron, A St-Hilaire, F Chebana (2017). Modélisation de la température de l’eau en rivière avec des approches de régression fonctionnelle. Congrès Eau Terre Environnement (CETE), 18/11/2017. Québec, QC, Canada.
 {: reversed="reversed"}
