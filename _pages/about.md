@@ -12,22 +12,23 @@ Hello! I am Jérémie Boudreault, a PhD student-researcher at the National insti
 
 My research focuses on modelling the health, economic and environmental impacts of climate hazards such as extreme heat and flooding. To that end, I leverage both novel statistical models and AI/machine learning approaches. Prior to my PhD, I worked for several years as a research scientist in climate risk modelling. My current and past projects are available [here](https://jeremieboudreault.github.io/projects/). 
 
-> 🚨 **Hiring:**  We are currently looking for students to join our team to pursue a Ph. D. in climate-health or data science. More information available below:
-> - [PhD on the health costs of climate change and evaluation of adaptation measures](https://inrs.ca/les-etudes/projets-de-maitrise-et-de-doctorat/repertoire-des-projets-etudes/analyse-des-couts-sanitaires-des-aleas-climatiques-au-quebec-et-evaluation-des-mesures-dadaptation/)
-
  
-Medias
+News 🔥
 ----------
 
-* 🆕 [Medications associated with risk of heat-related death](https://ici.radio-canada.ca/nouvelle/2182573/chaleur-medicaments-risque-deces-temperature), 2025/07/30, Radio-Canada.
-* 🆕 [An international school on heat adaptation](https://www.youtube.com/watch?v=1AGNxft7-Dk), 2025/07/21, Téléjournal RDI.
+* [Medications associated with risk of heat-related death](https://ici.radio-canada.ca/nouvelle/2182573/chaleur-medicaments-risque-deces-temperature), 2025/07/30, Radio-Canada.
+* [An international school on heat adaptation](https://www.youtube.com/watch?v=1AGNxft7-Dk), 2025/07/21, Téléjournal RDI.
 
+All medias ppearances available [here](/medias).
 
-All medias appearence available [here](/medias)
+Hiring 🚨
+----------
 
+We are currently looking for students to join our team to pursue a Ph. D. in climate-health or data science. More information available below:
+> - [PhD on the health costs of climate change and evaluation of adaptation measures](https://inrs.ca/les-etudes/projets-de-maitrise-et-de-doctorat/repertoire-des-projets-etudes/analyse-des-couts-sanitaires-des-aleas-climatiques-au-quebec-et-evaluation-des-mesures-dadaptation/)
 
-About me
----------- 
+About me 
+----------
 
 * **2021- : Ph. D., Data science and environmental health**, INRS
 * **2025- : Lecturer**, Laval University
