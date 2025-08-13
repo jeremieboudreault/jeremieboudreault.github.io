@@ -19,7 +19,7 @@ News 🔥
 * [Medications associated with risk of heat-related death](https://ici.radio-canada.ca/nouvelle/2182573/chaleur-medicaments-risque-deces-temperature), 2025/07/30, Radio-Canada.
 * [An international school on heat adaptation](https://www.youtube.com/watch?v=1AGNxft7-Dk), 2025/07/21, Téléjournal RDI.
 
-All medias ppearances available [here](/medias).
+All medias appearances available [here](/medias).
 
 Hiring 🚨
 ----------
