@@ -14,8 +14,9 @@ Evaluating climate-related health costs and adaptation measures ❄️☀️🌳
 - Projecting the associated health costs under various climate change scenarios
 - Analyse the cost and benefits of various adaptation measures
 
+---
 
-Health and economic effects of extreme heat using data science 🌇 [2021-2025]
+Health and economic effects of extreme heat using data science 🌇 [2021-]
 -------------------
 
 *As part of my Ph. D. at INRS and my research internships at INSPQ and BCCDC/UBC.*
@@ -30,6 +31,7 @@ Health and economic effects of extreme heat using data science 🌇 [2021-2025]
 
 *Related publications* : [Papers #5–#7, #10, #12-#13, Reports #1-#2](https://jeremieboudreault.github.io/publications/)
 
+---
 
 Climate-related risks in insurance contexts ⛈ [2019-2022] 
 -------------------
@@ -46,6 +48,7 @@ Climate-related risks in insurance contexts ⛈ [2019-2022]
 
 *Related publications* : [Papers #8–#9, #11](https://jeremieboudreault.github.io/publications/)
 
+---
 
 Functional regression models in ecohydrology 🏞 [2016-2019] 
 ------------------ 
