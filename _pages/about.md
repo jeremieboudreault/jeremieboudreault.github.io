@@ -25,7 +25,7 @@ Hiring 🚨
 ----------
 
 We are currently looking for students to join our team to pursue a Ph. D. in climate-health or data science. More information available below:
-> - [PhD on the health costs of climate change and evaluation of adaptation measures](https://inrs.ca/les-etudes/projets-de-maitrise-et-de-doctorat/repertoire-des-projets-etudes/analyse-des-couts-sanitaires-des-aleas-climatiques-au-quebec-et-evaluation-des-mesures-dadaptation/)
+* [PhD on the health costs of climate change and evaluation of adaptation measures](https://inrs.ca/les-etudes/projets-de-maitrise-et-de-doctorat/repertoire-des-projets-etudes/analyse-des-couts-sanitaires-des-aleas-climatiques-au-quebec-et-evaluation-des-mesures-dadaptation/)
 
 About me 
 ----------
