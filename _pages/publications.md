@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Journal articles
+Published journal articles
 ---------------
 
 14. **J Boudreault\***, KE McLean, SB Henderson (2025). [Exploring the relationship between medications and heat-related community deaths during the 2021 heat dome: a hybrid approach using machine learning](https://doi.org/10.1016/j.ebiom.2025.105788). *eBioMedicine*. 117: 105788.
@@ -38,6 +38,13 @@ Journal articles
 1. **J Boudreault\***, NE Bergeron, A St-Hilaire, F Chebana (2019). [Stream temperature modeling using functional regression models](https://onlinelibrary.wiley.com/doi/abs/10.1111/1752-1688.12778). *Journal of the American Water Resources Association*, 55(6): 1382-1400.
 {: reversed="reversed"}
 
+
+Submitted articles
+---------------
+
+1. **J Boudreault\***, F Lamothe, C Campagna, F Chebana (2025). Machine learning for modelling the health impacts of extreme heat: a comprehensive literature review.
+
+2. KN Cowan\*, **J Boudreault**, K LeMasters, L Brinkley-Rubinstein (2025). Lagged and non-linear effects of temperature extremes on mortality in US federal prisons: a case-crossover study, 2009-2021.
 
 Reports
 ---------------
