@@ -5,14 +5,14 @@ permalink: /projects/
 author_profile: true
 ---
 
-Projected health costs of climate hazards and adaptation measures ❄️☀️🌳 [2025-]
+Evaluating climate-related health costs and adaptation measures ❄️☀️🌳 [2025-]
 -------------------
 
 *As part of a multidisciplinary project funded by Actions concertées du FRQ-MELCCFP.*
 
-- Modelling the the mortality and morbidity burden of climate hazards
-- Projecting the associated costs under various climate change scenarios
-- Analyse the cost and benefits of different adaptation measure
+- Modelling the the mortality and morbidity burden of climate hazards in Quebec
+- Projecting the associated health costs under various climate change scenarios
+- Analyse the cost and benefits of various adaptation measures
 
 
 Health and economic effects of extreme heat using data science 🌇 [2021-2025]
