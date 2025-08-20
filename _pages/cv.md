@@ -30,7 +30,7 @@ Work experience
 
 Scholarships and grants
 ---------------
-* **2025- : Research grant on the economic impacts of climate change**, FRQ (300 000$) [Co-researcher]
+* **2025- : [Research grant on the economic impacts of climate change](https://frq.gouv.qc.ca/plus-de-27-m-pour-soutenir-la-recherche-portant-sur-les-impacts-economiques-des-changements-climatiques/)**, FRQ (300 000$) [Co-researcher]
 * **2022- : Vanier Canada Graduate scholarship**, NSERC (150 000$)
 * **2022- : Real-Decoste Excellence scholarship**, Ouranos (60 000$)
 * **2022-2023** : Health System Impact Fellowship - Equitable AI stream, CIHR (50 000$)
