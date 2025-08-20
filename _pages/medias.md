@@ -12,6 +12,7 @@ Featured text interviews
 * [Extreme heat will cost Quebec more and more](https://www.quebecscience.qc.ca/environnement/chaleur-extreme-cout-cher-quebec/), 2025/05/21, Québec Science.
 * [Extreme heat: a hefty bill according to an INRS study](https://www.lapresse.ca/actualites/sante/2025-01-28/chaleur-extreme/une-facture-salee-a-venir-pour-le-reseau-de-la-sante-previent-une-etude-de-l-inrs.php), 2025/01/28, La Presse.
 * [2.7M$ to support research on economic impacts of climate change](https://frq.gouv.qc.ca/plus-de-27-m-pour-soutenir-la-recherche-portant-sur-les-impacts-economiques-des-changements-climatiques/), 2024/12/18, FRQ.
+* [Study suggests hundreds of Quebec deaths each year are related to heat](https://www.cbc.ca/news/canada/montreal/heat-mortality-quebec-1.7239971?cmp=rss), 2024/06/19, CBC News.
 * [Heat linked to 470 deaths and 225 hospitalizations in Quebec](https://www.ledevoir.com/societe/815114/chaleur-cause-470-deces-225-hospitalisations-chaque-ete-quebec), 2024/06/19, Le Devoir.
 * [Heatwave heroes](https://cihr-irsc.gc.ca/e/53886.html), 2024/04/19, Canadian Institutes of Health Research.
 * [Winners of the 3-minutes thesis competition at INRS](https://inrs.ca/actualites/ma-these-en-180-secondes-et-three-minute-thesis-devoilement-des-laureats-de-linrs/), 2024/04/09, INRS.x
@@ -32,7 +33,10 @@ Radio interviews
 
 * [The heat-related healthcare costs in Quebec](https://ici.radio-canada.ca/ohdio/premiere/emissions/premiere-heure/segments/rattrapage/2104442/effets-episodes-chaleur-extreme-sur-systeme-sante), 2025/06/24, ICI Première.
 * [The health and economic costs of extreme heat](https://ici.radio-canada.ca/ohdio/premiere/emissions/moteur-de-recherche/segments/rattrapage/1910988/comment-calculer-couts-sanitaires-et-economiques-vagues-chaleur), 2024/11/12, Moteur de recherche.
-* [Unexpected effects of heat on the healthcare system](https://ici.radio-canada.ca/ohdio/premiere/emissions/le-15-18/segments/rattrapage/1787107/effets-insoupconnes-chaleur-extreme-sur-systeme-sante-au-quebec), 2024/06/19, ICI Radio-Canada.
+* [Les impacts de la chaleur sur le réseau de la santé](https://ici.radio-canada.ca/ohdio/premiere/emissions/des-matins-en-or/segments/rattrapage/1787912/impacts-chaleur-sur-reseau-sante), 2024/06/20, Des matins en or, ICI Première.
+* [Les effets insoupçonnés de la chaleur sur le système de santé](https://ici.radio-canada.ca/ohdio/premiere/emissions/le-15-18/segments/rattrapage/1787107/effets-insoupconnes-chaleur-extreme-sur-systeme-sante-au-quebec), 2024/06/19, Le 15-18, ICI Première.
+* [La chaleur extrême pourrait coûter cher au système de santé](https://ici.radio-canada.ca/ohdio/premiere/emissions/premiere-heure/segments/rattrapage/1786707/chaleur-un-reel-fardeau-sanitaire), 2024/06/19, Première Heure, ICI Première.
+* [Une étude pour mesurer l’impact de la chaleur sur le système de santé](https://ici.radio-canada.ca/ohdio/premiere/emissions/cest-jamais-pareil/segments/rattrapage/1786894/une-etude-pour-mesurer-impact-chaleur-sur-systeme-sante), 2024/06/19, C'est jamais pareil, ICI Première.
 * [The financial  and health impact of a heatwave](https://ici.radio-canada.ca/ohdio/premiere/emissions/cest-jamais-pareil/episodes/750162/rattrapage-vendredi-8-septembre-2023/4), 2023/09/08, ICI Radio-Canada.
 * [Interview with the Ph. D. student Jeremie Boudreault](https://ici.radio-canada.ca/ohdio/premiere/emissions/place-publique/episodes/622784/rattrapage-du-vendredi-22-avril-2022/8?
 fbclid=IwAR3RnzZaGAJ6dpHQw4YDKKyxn9wqVtviFJphlqIKjWB8S76jWbW0nJhrA38), 2022/04/22, Radio-Canada.
