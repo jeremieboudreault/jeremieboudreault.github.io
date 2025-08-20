@@ -9,10 +9,14 @@ author_profile: true
 Featured text interviews
 -------------------
 
+* [Chaleurs extrêmes : certains médicaments peuvent augmenter le risque de décès](https://www.protegez-vous.ca/nouvelles/sante-et-alimentation/chaleurs-extremes-certains-medicaments-peuvent-augmenter-le-risque-de-deces), 2025/08/14, Protégez-vous.
 * [Extreme heat will cost Quebec more and more](https://www.quebecscience.qc.ca/environnement/chaleur-extreme-cout-cher-quebec/), 2025/05/21, Québec Science.
+* [L’été sera chaud et favorable aux feux de forêt, prévoit Environnement Canada](https://www.ledevoir.com/environnement/889687/ete-sera-chaud-favorable-feux-foret-prevoit-environnement-canada), 2025/06/10, Le Devoir
+* [La chaleur extrême coûte cher au système de santé et aux assureurs de personnes](https://portail-assurance.ca/article/la-chaleur-extreme-coute-cher-au-systeme-de-sante-et-aux-assureurs-de-personnes/), 2025/02/29, Le portail de l'assurance, 
 * [Extreme heat: a hefty bill according to an INRS study](https://www.lapresse.ca/actualites/sante/2025-01-28/chaleur-extreme/une-facture-salee-a-venir-pour-le-reseau-de-la-sante-previent-une-etude-de-l-inrs.php), 2025/01/28, La Presse.
 * [2.7M$ to support research on economic impacts of climate change](https://frq.gouv.qc.ca/plus-de-27-m-pour-soutenir-la-recherche-portant-sur-les-impacts-economiques-des-changements-climatiques/), 2024/12/18, FRQ.
 * [Study suggests hundreds of Quebec deaths each year are related to heat](https://www.cbc.ca/news/canada/montreal/heat-mortality-quebec-1.7239971?cmp=rss), 2024/06/19, CBC News.
+
 * [Heat linked to 470 deaths and 225 hospitalizations in Quebec](https://www.ledevoir.com/societe/815114/chaleur-cause-470-deces-225-hospitalisations-chaque-ete-quebec), 2024/06/19, Le Devoir.
 * [Heatwave heroes](https://cihr-irsc.gc.ca/e/53886.html), 2024/04/19, Canadian Institutes of Health Research.
 * [Winners of the 3-minutes thesis competition at INRS](https://inrs.ca/actualites/ma-these-en-180-secondes-et-three-minute-thesis-devoilement-des-laureats-de-linrs/), 2024/04/09, INRS.x
