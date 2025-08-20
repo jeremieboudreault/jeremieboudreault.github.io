@@ -5,8 +5,11 @@ permalink: /medias/
 author_profile: true
 ---
 
+My work was featured in :
 
-Featured text interviews
+<img src = "files/medias.png">
+
+Text interviews
 -------------------
 
 * [Chaleurs extrêmes : certains médicaments peuvent augmenter le risque de décès](https://www.protegez-vous.ca/nouvelles/sante-et-alimentation/chaleurs-extremes-certains-medicaments-peuvent-augmenter-le-risque-de-deces), 2025/08/14, Protégez-vous.
@@ -71,4 +74,4 @@ Video content
 --------------------
 
 * [Finale nationale de Ma Thèse en 180 secondes : Les coûts de la chaleur extrême](https://www.youtube.com/watch?v=yQVabpSwwXc&list=PL9zimENn6GXcVy4IVrhc-_uFSxBOzQ1gH&index=16), 2024/05/15. ACFAS, Université d'Ottawa.
-* [Vidéo promotionnelle de l'INRS](), 
+* Vidéo promotionnelle de l'INRS 
