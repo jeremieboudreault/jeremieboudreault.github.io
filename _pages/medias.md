@@ -5,7 +5,7 @@ permalink: /medias/
 author_profile: true
 ---
 
-My work was featured in :
+My research was featured in :
 
 <img src = "https://jeremieboudreault.github.io/files/medias.png">
 
