@@ -7,7 +7,7 @@ author_profile: true
 
 My work was featured in :
 
-<img src = "files/medias.png">
+<img src = "https://jeremieboudreault.github.io/files/medias.png">
 
 Text interviews
 -------------------
