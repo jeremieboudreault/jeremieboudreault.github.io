@@ -44,9 +44,9 @@ Radio interviews
 * [Les effets insoupçonnés de la chaleur sur le système de santé](https://ici.radio-canada.ca/ohdio/premiere/emissions/le-15-18/segments/rattrapage/1787107/effets-insoupconnes-chaleur-extreme-sur-systeme-sante-au-quebec), 2024/06/19, Le 15-18, ICI Première.
 * [La chaleur extrême pourrait coûter cher au système de santé](https://ici.radio-canada.ca/ohdio/premiere/emissions/premiere-heure/segments/rattrapage/1786707/chaleur-un-reel-fardeau-sanitaire), 2024/06/19, Première Heure, ICI Première.
 * [Une étude pour mesurer l’impact de la chaleur sur le système de santé](https://ici.radio-canada.ca/ohdio/premiere/emissions/cest-jamais-pareil/segments/rattrapage/1786894/une-etude-pour-mesurer-impact-chaleur-sur-systeme-sante), 2024/06/19, C'est jamais pareil, ICI Première.
-* [The financial  and health impact of a heatwave](https://ici.radio-canada.ca/ohdio/premiere/emissions/cest-jamais-pareil/episodes/750162/rattrapage-vendredi-8-septembre-2023/4), 2023/09/08, ICI Radio-Canada.
-* [Interview with the Ph. D. student Jeremie Boudreault](https://ici.radio-canada.ca/ohdio/premiere/emissions/place-publique/episodes/622784/rattrapage-du-vendredi-22-avril-2022/8?
-fbclid=IwAR3RnzZaGAJ6dpHQw4YDKKyxn9wqVtviFJphlqIKjWB8S76jWbW0nJhrA38), 2022/04/22, Radio-Canada.
+* [The effects financiers d'une vague de chaleur](https://ici.radio-canada.ca/ohdio/premiere/emissions/cest-jamais-pareil/episodes/750162/rattrapage-vendredi-8-septembre-2023/4), 2023/09/08, C'est jamais pareil, ICI Première.
+* [Entrevue avec l'étudiant Jérémie Boudreault](https://ici.radio-canada.ca/ohdio/premiere/emissions/place-publique/episodes/622784/rattrapage-du-vendredi-22-avril-2022/8?
+fbclid=IwAR3RnzZaGAJ6dpHQw4YDKKyxn9wqVtviFJphlqIKjWB8S76jWbW0nJhrA38), 2022/04/22, Place Publique, ICI Saguenay-Lac-Saint-Jean.
 
 
 
