@@ -28,5 +28,5 @@ Teaching assistant
 
 * **Summer and Fall 2017** : EAU106 - Advanced applied mathematics, INRS
 * **Fall 2014, 2015, Winter 2017** : ACT1002 - Probability, Laval University
-* **Fall 2016** : ACT3000 - Risk theory, Laval University
+* **Fall 2016** : ACT3001 - Risk theory, Laval University
 * **Winter 2015** : ACT1004 - Financial analysis of risk, Laval University
