@@ -12,7 +12,7 @@ My research was featured in :
 Text interviews
 -------------------
 
-* [Des médicaments peuvent augmenter les décès en période de chaleur](https://www.protegez-vous.ca/nouvelles/sante-et-alimentation/chaleurs-extremes-certains-medicaments-peuvent-augmenter-le-risque-de-deces), Protégez-vous, 2025/08/14.
+* [Des médicaments qui augmentent les décès en période de chaleur](https://www.protegez-vous.ca/nouvelles/sante-et-alimentation/chaleurs-extremes-certains-medicaments-peuvent-augmenter-le-risque-de-deces), Protégez-vous, 2025/08/14.
 * [La chaleur extrême coûtera de plus en plus cher au Québec](https://www.quebecscience.qc.ca/environnement/chaleur-extreme-cout-cher-quebec/), Québec Science, 2025/05/21.
 * [L’été sera chaud et favorable aux feux de forêt](https://www.ledevoir.com/environnement/889687/ete-sera-chaud-favorable-feux-foret-prevoit-environnement-canada), Le Devoir, 2025/06/10.
 * [La chaleur extrême coûte cher aux assureurs](https://portail-assurance.ca/article/la-chaleur-extreme-coute-cher-au-systeme-de-sante-et-aux-assureurs-de-personnes/), Le Journal de l'Assurance, 2025/02/29. 
