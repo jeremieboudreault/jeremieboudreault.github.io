@@ -12,19 +12,21 @@ My research was featured in :
 Text interviews
 -------------------
 
-* [Chaleurs extrêmes : certains médicaments peuvent augmenter le risque de décès](https://www.protegez-vous.ca/nouvelles/sante-et-alimentation/chaleurs-extremes-certains-medicaments-peuvent-augmenter-le-risque-de-deces), 2025/08/14, Protégez-vous.
-* [La chaleur extrême coûtera de plus en plus cher au Québec](https://www.quebecscience.qc.ca/environnement/chaleur-extreme-cout-cher-quebec/), 2025/05/21, Québec Science.
-* [L’été sera chaud et favorable aux feux de forêt, prévoit Environnement Canada](https://www.ledevoir.com/environnement/889687/ete-sera-chaud-favorable-feux-foret-prevoit-environnement-canada), 2025/06/10, Le Devoir
-* [La chaleur extrême coûte cher au système de santé et aux assureurs de personnes](https://portail-assurance.ca/article/la-chaleur-extreme-coute-cher-au-systeme-de-sante-et-aux-assureurs-de-personnes/), 2025/02/29, Le Journal de l'Assurance, 
-* [Chaleur extrême: Une facture salée à venir pour le réseau de la santé, prévient une étude de l’INRS](https://www.lapresse.ca/actualites/sante/2025-01-28/chaleur-extreme/une-facture-salee-a-venir-pour-le-reseau-de-la-sante-previent-une-etude-de-l-inrs.php), 2025/01/28, La Presse.
-* [Pleins feux sur les vagues de chaleur](https://www.lapresse.ca/actualites/sciences/2024-07-21/pleins-feux-sur-les-vagues-de-chaleur.php), 2024/07/21, La Presse.
-* [Study suggests hundreds of Quebec deaths each year are related to heat](https://www.cbc.ca/news/canada/montreal/heat-mortality-quebec-1.7239971?cmp=rss), 2024/06/19, CBC News.
-* [Les effets sous-estimés des vagues de chaleur sur le système de santé](https://ici.radio-canada.ca/nouvelle/2082705/vague-chaleur-canicule-systeme-sante), 2024/06/22, Radio-Canada.
-* [La chaleur est liée à 470 décès et 225 hospitalisations chaque été au Québec](https://www.ledevoir.com/societe/815114/chaleur-cause-470-deces-225-hospitalisations-chaque-ete-quebec), 2024/06/19, Le Devoir.
-* [Environnement Canada affirme que la chaleur extrême persiste en Ontario et au Québec](https://lactualite.com/actualites/environnement-canada-affirme-que-la-chaleur-extreme-persiste-en-ontario-et-au-quebec/), 2024/06/19, L'actualité.
-* [Heatwave heroes: crafting health safeguards for all in an era of turbulent temperatures](https://cihr-irsc.gc.ca/e/53886.html), 2024/04/19, Canadian Institutes of Health Research.
-* [Traduire les impacts des changements climatiques en dollars](https://www.lequotidien.com/actualites/actualites-locales/2023/04/22/traduire-les-impacts-des-changements-climatiques-en-dollars-QCJ3ALYXO5A5RF7AR3L57NFAMU/), 2023/04/22, Le Quotidien. 
-* [MT180 et 3MT : les finales institutionnelles de l’INRS](https://inrs.ca/actualites/ma-these-en-180-secondes-et-three-minute-thesis-devoilement-des-laureats-de-linrs/), 2024/04/09, INRS.
+* [Chaleurs extrêmes : certains médicaments peuvent augmenter les décès](https://www.protegez-vous.ca/nouvelles/sante-et-alimentation/chaleurs-extremes-certains-medicaments-peuvent-augmenter-le-risque-de-deces), Protégez-vous, 2025/08/14.
+* [La chaleur extrême coûtera de plus en plus cher au Québec](https://www.quebecscience.qc.ca/environnement/chaleur-extreme-cout-cher-quebec/), Québec Science, 2025/05/21.
+* [L’été sera chaud et favorable aux feux de forêt](https://www.ledevoir.com/environnement/889687/ete-sera-chaud-favorable-feux-foret-prevoit-environnement-canada), Le Devoir, 2025/06/10.
+* [La chaleur extrême coûte cher aux assureurs de personnes](https://portail-assurance.ca/article/la-chaleur-extreme-coute-cher-au-systeme-de-sante-et-aux-assureurs-de-personnes/), Le Journal de l'Assurance, 2025/02/29. 
+* [Chaleur extrême: Une facture salée à venir pour le réseau de la santé](https://www.lapresse.ca/actualites/sante/2025-01-28/chaleur-extreme/une-facture-salee-a-venir-pour-le-reseau-de-la-sante-previent-une-etude-de-l-inrs.php), La Presse, 2025/01/28.
+* [Pleins feux sur les vagues de chaleur](https://www.lapresse.ca/actualites/sciences/2024-07-21/pleins-feux-sur-les-vagues-de-chaleur.php), La Presse, 2024/07/21.
+* [Hundreds of Quebec deaths each year are related to heat](https://www.cbc.ca/news/canada/montreal/heat-mortality-quebec-1.7239971?cmp=rss), CBC News, 2024/06/19.
+* [Les effets sous-estimés des vagues de chaleur](https://ici.radio-canada.ca/nouvelle/2082705/vague-chaleur-canicule-systeme-sante), Radio-Canada, 2024/06/22.
+* [La chaleur est liée à 470 décès chaque été au Québec](https://www.ledevoir.com/societe/815114/chaleur-cause-470-deces-225-hospitalisations-chaque-ete-quebec)Le Devoir, 2024/06/19, .
+* [La chaleur extrême persiste en Ontario et au Québec](https://lactualite.com/actualites/environnement-canada-affirme-que-la-chaleur-extreme-persiste-en-ontario-et-au-quebec/), L'actualité, 2024/06/19.
+* [Heatwave heroes: crafting health safeguards in an era of turbulent temperatures](https://cihr-irsc.gc.ca/e/53886.html), CIHR, 2024/04/19. 
+* [Traduire les impacts des changements climatiques en dollars](https://www.lequotidien.com/actualites/actualites-locales/2023/04/22/traduire-les-impacts-des-changements-climatiques-en-dollars-QCJ3ALYXO5A5RF7AR3L57NFAMU/), Le Quotidien, 2023/04/22.
+* [MT180: finale institutionnelle de l’INRS](https://inrs.ca/actualites/ma-these-en-180-secondes-et-three-minute-thesis-devoilement-des-laureats-de-linrs/), Site web de l'INRS, 2024/04/09.
+
+
 * [Two Vanier scholars committed to the environment](https://inrs.ca/actualites/linrs-fait-bonne-figure-a-la-remise-des-bourses-vanier2022/), 2022/12/07, INRS.
 * [Jeremie Boudreault is recipient of the Réal-Décoste award](https://www.ouranos.ca/felicitations-au-recipiendaire-du-prix-real-decoste-2022/), 2022/05/09, Ouranos.
 * [Extreme heat and AI: a research scholarship for Jérémie Boudreault](https://www.inspq.qc.ca/nouvelles/chaleur-extreme-intelligence-artificielle-bourse-recherche-jeremie-boudreault), 2022/11/22, INSPQ.
