@@ -15,25 +15,25 @@ Text interviews
 * [Chaleurs extrêmes : certains médicaments peuvent augmenter les décès](https://www.protegez-vous.ca/nouvelles/sante-et-alimentation/chaleurs-extremes-certains-medicaments-peuvent-augmenter-le-risque-de-deces), Protégez-vous, 2025/08/14.
 * [La chaleur extrême coûtera de plus en plus cher au Québec](https://www.quebecscience.qc.ca/environnement/chaleur-extreme-cout-cher-quebec/), Québec Science, 2025/05/21.
 * [L’été sera chaud et favorable aux feux de forêt](https://www.ledevoir.com/environnement/889687/ete-sera-chaud-favorable-feux-foret-prevoit-environnement-canada), Le Devoir, 2025/06/10.
-* [La chaleur extrême coûte cher aux assureurs de personnes](https://portail-assurance.ca/article/la-chaleur-extreme-coute-cher-au-systeme-de-sante-et-aux-assureurs-de-personnes/), Le Journal de l'Assurance, 2025/02/29. 
+* [La chaleur extrême coûte cher aux assureurs](https://portail-assurance.ca/article/la-chaleur-extreme-coute-cher-au-systeme-de-sante-et-aux-assureurs-de-personnes/), Le Journal de l'Assurance, 2025/02/29. 
 * [Chaleur extrême: Une facture salée à venir pour le réseau de la santé](https://www.lapresse.ca/actualites/sante/2025-01-28/chaleur-extreme/une-facture-salee-a-venir-pour-le-reseau-de-la-sante-previent-une-etude-de-l-inrs.php), La Presse, 2025/01/28.
 * [Pleins feux sur les vagues de chaleur](https://www.lapresse.ca/actualites/sciences/2024-07-21/pleins-feux-sur-les-vagues-de-chaleur.php), La Presse, 2024/07/21.
 * [Hundreds of Quebec deaths each year are related to heat](https://www.cbc.ca/news/canada/montreal/heat-mortality-quebec-1.7239971?cmp=rss), CBC News, 2024/06/19.
 * [Les effets sous-estimés des vagues de chaleur](https://ici.radio-canada.ca/nouvelle/2082705/vague-chaleur-canicule-systeme-sante), Radio-Canada, 2024/06/22.
 * [La chaleur est liée à 470 décès chaque été au Québec](https://www.ledevoir.com/societe/815114/chaleur-cause-470-deces-225-hospitalisations-chaque-ete-quebec)Le Devoir, 2024/06/19, .
 * [La chaleur extrême persiste en Ontario et au Québec](https://lactualite.com/actualites/environnement-canada-affirme-que-la-chaleur-extreme-persiste-en-ontario-et-au-quebec/), L'actualité, 2024/06/19.
-* [Heatwave heroes: crafting health safeguards in an era of turbulent temperatures](https://cihr-irsc.gc.ca/e/53886.html), CIHR, 2024/04/19. 
+* [Heatwave heroes: crafting health safeguards](https://cihr-irsc.gc.ca/e/53886.html), CIHR Website, 2024/04/19. 
 * [Traduire les impacts des changements climatiques en dollars](https://www.lequotidien.com/actualites/actualites-locales/2023/04/22/traduire-les-impacts-des-changements-climatiques-en-dollars-QCJ3ALYXO5A5RF7AR3L57NFAMU/), Le Quotidien, 2023/04/22.
-* [MT180: finale institutionnelle de l’INRS](https://inrs.ca/actualites/ma-these-en-180-secondes-et-three-minute-thesis-devoilement-des-laureats-de-linrs/), Site web de l'INRS, 2024/04/09.
-* [Deux récipiendaires de la bourse Vanier engagés pour l’environnement](https://inrs.ca/actualites/linrs-fait-bonne-figure-a-la-remise-des-bourses-vanier2022/), Site web de l'INRS, 2022/12/07.
-* [Félicitations au récipiendaire du prix Réal-Decoste 2022](https://www.ouranos.ca/felicitations-au-recipiendaire-du-prix-real-decoste-2022/), Site web d'Ouranos, 2022/05/09.
-* [Chaleur extrême et IA : une bourse pour Jérémie Boudreault](https://www.inspq.qc.ca/nouvelles/chaleur-extreme-intelligence-artificielle-bourse-recherche-jeremie-boudreault), Site web de l'INSPQ, 2022/11/22.
-* [Le doctorant Jérémie Boudreault reçoit une bourse des IRSC](https://inrs.ca/actualites/le-doctorant-jeremie-boudreault-recoit-la-bourse-dimpact-sur-le-systeme-de-sante-des-irsc/), Site web de l'INRS, 2022/11/22.
-* [Un avenir vert ancré dans sa communauté](https://inrs.ca/actualites/un-avenir-vert-ancre-dans-sa-communaute/), Site web de l'INRS, 2022/07/18.
-* [Des diplômés se distinguent à la collation des grades 2018-2019](https://inrs.ca/actualites/des-diplomees-se-distinguent-a-la-collation-des-grades-2018-2019/), Site web de l'INRS, 2019/05/07.
+* [MT180: finale institutionnelle de l’INRS](https://inrs.ca/actualites/ma-these-en-180-secondes-et-three-minute-thesis-devoilement-des-laureats-de-linrs/), INRS, 2024/04/09.
+* [Deux récipiendaires de la bourse Vanier engagés](https://inrs.ca/actualites/linrs-fait-bonne-figure-a-la-remise-des-bourses-vanier2022/), INRS, 2022/12/07.
+* [Félicitations au récipiendaire du prix Réal-Decoste 2022](https://www.ouranos.ca/felicitations-au-recipiendaire-du-prix-real-decoste-2022/), Ouranos, 2022/05/09.
+* [Chaleur extrême et IA : une bourse pour Jérémie Boudreault](https://www.inspq.qc.ca/nouvelles/chaleur-extreme-intelligence-artificielle-bourse-recherche-jeremie-boudreault), INSPQ, 2022/11/22.
+* [Jérémie Boudreault reçoit une bourse des IRSC](https://inrs.ca/actualites/le-doctorant-jeremie-boudreault-recoit-la-bourse-dimpact-sur-le-systeme-de-sante-des-irsc/), INRS, 2022/11/22.
+* [Un avenir vert ancré dans sa communauté](https://inrs.ca/actualites/un-avenir-vert-ancre-dans-sa-communaute/), INRS, 2022/07/18.
+* [Des diplômés se distinguent à la collation des grades](https://inrs.ca/actualites/des-diplomees-se-distinguent-a-la-collation-des-grades-2018-2019/), INRS, 2019/05/07.
 * [La « honte de prendre l'avion » gagne en popularité](https://ici.radio-canada.ca/nouvelle/1202404/environnement-lutte-changements-climatiques-flygskam-vol), Radio-Canada, 2018/06/26.
-* [Jérémie Boudreault est récipiendaire de la bourse Ken Thompson de l’ACRH](https://inrs.ca/actualites/jeremie-boudreault-est-recipiendaire-de-la-bourse-ken-thompson-de-lacrh/), Site web de l'INRS, 2018/05/25.
-* [Franc succès pour la Journée des sciences de la Terre et de l’environnement](https://inrs.ca/actualites/franc-succes-pour-la-journee-des-sciences-de-la-terre-et-de-lenvironnement/), Site web de l'INRS, 2018/03/22.
+* [Jérémie Boudreault est récipiendaire de la bourse Ken Thompson](https://inrs.ca/actualites/jeremie-boudreault-est-recipiendaire-de-la-bourse-ken-thompson-de-lacrh/), INRS, 2018/05/25.
+* [Franc succès pour la Journée des sciences de la Terre et de l’environnement](https://inrs.ca/actualites/franc-succes-pour-la-journee-des-sciences-de-la-terre-et-de-lenvironnement/), INRS, 2018/03/22.
 
 
 Radio interviews
@@ -67,7 +67,7 @@ Popular science articles
 * [Les canicules engendrent des coûts. Voici pourquoi il est important de les quantifier](https://theconversation.com/les-canicules-engendrent-des-couts-voici-pourquoi-il-est-important-de-les-quantifier-207749), La Conversation, 2023/09/05.
 * [Why it's important to quantify heatwaves costs](https://theconversation.com/heat-waves-have-a-cost-heres-why-its-important-to-quantify-it-213141), The Conversation, 2023/09/05.
 * [Qu'est-ce qui se cache dans les poubelles de l'INRS](https://jeremieboudreault.github.io/files/LaSynthese_HS_Dechets_WEB_FRv2.pdf), La Synthèse, 2023/05/29.
-* [Ma passion pour l'INRS, de la maîtrise au doctorat](https://inrs.ca/actualites/ma-recherche-en-serie-la-passion-pour-lenvironnement-de-jeremie-boudreault-de-la-maitrise-au-doctorat/), Site web de l'INRS, 2022/04/22.
+* [Ma passion pour l'INRS, de la maîtrise au doctorat](https://inrs.ca/actualites/ma-recherche-en-serie-la-passion-pour-lenvironnement-de-jeremie-boudreault-de-la-maitrise-au-doctorat/), INRS, 2022/04/22.
 
 
 Video content
