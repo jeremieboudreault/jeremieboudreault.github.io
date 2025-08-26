@@ -27,15 +27,15 @@ Text interviews
 * [MT180: finale institutionnelle de l’INRS](https://inrs.ca/actualites/ma-these-en-180-secondes-et-three-minute-thesis-devoilement-des-laureats-de-linrs/), Site web de l'INRS, 2024/04/09.
 
 
-* [Two Vanier scholars committed to the environment](https://inrs.ca/actualites/linrs-fait-bonne-figure-a-la-remise-des-bourses-vanier2022/), 2022/12/07, INRS.
-* [Jeremie Boudreault is recipient of the Réal-Décoste award](https://www.ouranos.ca/felicitations-au-recipiendaire-du-prix-real-decoste-2022/), 2022/05/09, Ouranos.
-* [Extreme heat and AI: a research scholarship for Jérémie Boudreault](https://www.inspq.qc.ca/nouvelles/chaleur-extreme-intelligence-artificielle-bourse-recherche-jeremie-boudreault), 2022/11/22, INSPQ.
-* [Jérémie Boudreault receives the Health System Impact Fellowship](https://inrs.ca/actualites/le-doctorant-jeremie-boudreault-recoit-la-bourse-dimpact-sur-le-systeme-de-sante-des-irsc/), 2022/11/22, INRS.
-* [The 490 Green Committee is awarded 15 000$ to reduce waste ](https://inrs.ca/actualites/un-avenir-vert-ancre-dans-sa-communaute/), 2022/07/18, INRS.
-* [Graduates stand out at the 2018-2019 convocation](https://inrs.ca/actualites/des-diplomees-se-distinguent-a-la-collation-des-grades-2018-2019/), 2019/05/07, INRS
-* [La « honte de prendre l'avion » gagne en popularité](https://ici.radio-canada.ca/nouvelle/1202404/environnement-lutte-changements-climatiques-flygskam-vol), 2018/06/26, Radio-Canada.
-* [Jeremie Boudreault is the recipient of the Ken Thompson award](https://inrs.ca/actualites/jeremie-boudreault-est-recipiendaire-de-la-bourse-ken-thompson-de-lacrh/), 2018/05/25, INRS
-* [Big success for the Earth and Environmental Science Day](https://inrs.ca/actualites/franc-succes-pour-la-journee-des-sciences-de-la-terre-et-de-lenvironnement/), 2018/03/22, INRS.
+* [Deux récipiendaires de la bourse Vanier engagés pour l’environnement](https://inrs.ca/actualites/linrs-fait-bonne-figure-a-la-remise-des-bourses-vanier2022/), Site web de l'INRS, 2022/12/07.
+* [Félicitations au récipiendaire du prix Réal-Decoste 2022](https://www.ouranos.ca/felicitations-au-recipiendaire-du-prix-real-decoste-2022/), Site web d'Ouranos, 2022/05/09.
+* [Chaleur extrême et IA : une bourse pour Jérémie Boudreault](https://www.inspq.qc.ca/nouvelles/chaleur-extreme-intelligence-artificielle-bourse-recherche-jeremie-boudreault), Site web de l'INSPQ, 2022/11/22.
+* [Le doctorant Jérémie Boudreault reçoit une bourse des IRSC](https://inrs.ca/actualites/le-doctorant-jeremie-boudreault-recoit-la-bourse-dimpact-sur-le-systeme-de-sante-des-irsc/), Site web de l'INRS, 2022/11/22.
+* [Un avenir vert ancré dans sa communauté](https://inrs.ca/actualites/un-avenir-vert-ancre-dans-sa-communaute/), Site web de l'INRS, 2022/07/18.
+* [Des diplômés se distinguent à la collation des grades 2018-2019](https://inrs.ca/actualites/des-diplomees-se-distinguent-a-la-collation-des-grades-2018-2019/), Site web de l'INRS, 2019/05/07.
+* [La « honte de prendre l'avion » gagne en popularité](https://ici.radio-canada.ca/nouvelle/1202404/environnement-lutte-changements-climatiques-flygskam-vol), Radio-Canada, 2018/06/26.
+* [Jérémie Boudreault est récipiendaire de la bourse Ken Thompson de l’ACRH](https://inrs.ca/actualites/jeremie-boudreault-est-recipiendaire-de-la-bourse-ken-thompson-de-lacrh/), Site web de l'INRS, 2018/05/25.
+* [Franc succès pour la Journée des sciences de la Terre et de l’environnement](https://inrs.ca/actualites/franc-succes-pour-la-journee-des-sciences-de-la-terre-et-de-lenvironnement/), Site web de l'INRS, 2018/03/22.
 
 
 Radio interviews
@@ -49,7 +49,7 @@ Radio interviews
 * [Une étude pour mesurer l’impact de la chaleur sur le système de santé](https://ici.radio-canada.ca/ohdio/premiere/emissions/cest-jamais-pareil/segments/rattrapage/1786894/une-etude-pour-mesurer-impact-chaleur-sur-systeme-sante), 2024/06/19, C'est jamais pareil, ICI Première.
 * [The effects financiers d'une vague de chaleur](https://ici.radio-canada.ca/ohdio/premiere/emissions/cest-jamais-pareil/episodes/750162/rattrapage-vendredi-8-septembre-2023/4), 2023/09/08, C'est jamais pareil, ICI Première.
 * [La Jour de la Terre et l’éco-anxiété avec Jérémie Boudreault](https://ici.radio-canada.ca/ohdio/premiere/emissions/place-publique/episodes/622784/rattrapage-du-vendredi-22-avril-2022/8?fbclid=IwAR3RnzZaGAJ6dpHQw4YDKKyxn9wqVtviFJphlqIKjWB8S76jWbW0nJhrA38), 2022/04/22, Place Publique, ICI Première.
-* Entevue radio dans le cadre de la JSTE 2018
+* [La Journée des sciences de l’environnement à l’INRS](https://ici.radio-canada.ca/ohdio/premiere/emissions/premiere-heure/segments/chronique/63484/inrs-science-environnement-martine), Première Heure, ICI Première, 2018/03/15.
 
 
 TV interviews
