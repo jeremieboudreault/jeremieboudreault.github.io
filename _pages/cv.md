@@ -58,7 +58,7 @@ Current social involvements
 
 Supervision
 ---------------
-* **2023-** : 5 trainees and 2 master's students, Doctoral project, INRS & INSPQ
+* **2023-** : 5 trainees and 3 master's students, Doctoral project, INRS & INSPQ
 * **2020-2022** : 3 data analysts and 2 Mitacs master's students, The Co-operators
 * **2017-2018** : 7 trainees et 3 research assistants, Master's project, INRS
 
