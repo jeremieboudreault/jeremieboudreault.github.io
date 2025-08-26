@@ -8,10 +8,12 @@ author_profile: true
 Upcoming talks
 -------------------
 
-1. KN Cowan\*, **J Boudreault**, K LeMasters, L Brinkley-Rubinstein (2025) [Temperatures extremes and mortality in federal prisons across the United States](https://www.isesisee2025.org/), International Society for Environmental Epidemiology (ISEE), 2025/08/17. Atlanta, GA, United States. [Poster]
+...
 
 Past talks
 -------------------
+
+38. KN Cowan\*, **J Boudreault**, K LeMasters, L Brinkley-Rubinstein (2025) [Temperatures extremes and mortality in federal prisons across the United States](https://www.isesisee2025.org/), International Society for Environmental Epidemiology (ISEE), 2025/08/17. Atlanta, GA, United States. [Poster]
 
 37. **J Boudreault\***, E Lavigne, C Campagna, F Chebana (2025) [Modelling vulnerability to extreme heat at a small spatial scale using environmental epidemiology and machine learning models](https://cseb.ca/events/2025-conference/), Canadian Society of Biostatistics and Epidemiology, 2025/08/12. Montréal, QC, Canada.
 
