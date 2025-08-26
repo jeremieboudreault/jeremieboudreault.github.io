@@ -5,18 +5,18 @@ permalink: /projects/
 author_profile: true
 ---
 
-Evaluating climate-related health costs and adaptation measures ❄️☀️🌳 [2025-]
+Climate-related health costs and adaptation measures ❄️☀️🌳 [2025-]
 -------------------
 
-*As part of a research grant funded by Actions concertées du FRQ-MELCCFP.*
+*As part of a research grant funded by Actions concertées du FRQ and MELCCFP.*
 
-- Modelling the the mortality and morbidity burden of climate hazards in Quebec
+- Modelling the mortality and morbidity burden of climate hazards in Quebec
 - Projecting the associated health costs under various climate change scenarios
-- Analyse the cost and benefits of various adaptation measures
+- Analyzing the cost and benefits of various adaptation measures
 
 ---
 
-Health and economic effects of extreme heat using data science 🌇 [2021-]
+Heat-related health and economic effects using data science 🌇 [2021-]
 -------------------
 
 *As part of my Ph. D. at INRS and my research internships at INSPQ and BCCDC/UBC.*
