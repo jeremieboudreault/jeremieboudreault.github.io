@@ -25,8 +25,6 @@ Text interviews
 * [Heatwave heroes: crafting health safeguards in an era of turbulent temperatures](https://cihr-irsc.gc.ca/e/53886.html), CIHR, 2024/04/19. 
 * [Traduire les impacts des changements climatiques en dollars](https://www.lequotidien.com/actualites/actualites-locales/2023/04/22/traduire-les-impacts-des-changements-climatiques-en-dollars-QCJ3ALYXO5A5RF7AR3L57NFAMU/), Le Quotidien, 2023/04/22.
 * [MT180: finale institutionnelle de l’INRS](https://inrs.ca/actualites/ma-these-en-180-secondes-et-three-minute-thesis-devoilement-des-laureats-de-linrs/), Site web de l'INRS, 2024/04/09.
-
-
 * [Deux récipiendaires de la bourse Vanier engagés pour l’environnement](https://inrs.ca/actualites/linrs-fait-bonne-figure-a-la-remise-des-bourses-vanier2022/), Site web de l'INRS, 2022/12/07.
 * [Félicitations au récipiendaire du prix Réal-Decoste 2022](https://www.ouranos.ca/felicitations-au-recipiendaire-du-prix-real-decoste-2022/), Site web d'Ouranos, 2022/05/09.
 * [Chaleur extrême et IA : une bourse pour Jérémie Boudreault](https://www.inspq.qc.ca/nouvelles/chaleur-extreme-intelligence-artificielle-bourse-recherche-jeremie-boudreault), Site web de l'INSPQ, 2022/11/22.
@@ -41,13 +39,13 @@ Text interviews
 Radio interviews
 -------------------
 
-* [The heat-related healthcare costs in Quebec](https://ici.radio-canada.ca/ohdio/premiere/emissions/premiere-heure/segments/rattrapage/2104442/effets-episodes-chaleur-extreme-sur-systeme-sante), 2025/06/24, Première heure, ICI Première.
-* [Comment calculer les coûts sanitaires et économiques des vagues de chaleur?](https://ici.radio-canada.ca/ohdio/premiere/emissions/moteur-de-recherche/segments/rattrapage/1910988/comment-calculer-couts-sanitaires-et-economiques-vagues-chaleur), 2024/11/12, Moteur de recherche. ICI Première.
-* [Les impacts de la chaleur sur le réseau de la santé](https://ici.radio-canada.ca/ohdio/premiere/emissions/des-matins-en-or/segments/rattrapage/1787912/impacts-chaleur-sur-reseau-sante), 2024/06/20, Des matins en or, ICI Première.
-* [Les effets insoupçonnés de la chaleur sur le système de santé](https://ici.radio-canada.ca/ohdio/premiere/emissions/le-15-18/segments/rattrapage/1787107/effets-insoupconnes-chaleur-extreme-sur-systeme-sante-au-quebec), 2024/06/19, Le 15-18, ICI Première.
-* [La chaleur extrême pourrait coûter cher au système de santé](https://ici.radio-canada.ca/ohdio/premiere/emissions/premiere-heure/segments/rattrapage/1786707/chaleur-un-reel-fardeau-sanitaire), 2024/06/19, Première Heure, ICI Première.
-* [Une étude pour mesurer l’impact de la chaleur sur le système de santé](https://ici.radio-canada.ca/ohdio/premiere/emissions/cest-jamais-pareil/segments/rattrapage/1786894/une-etude-pour-mesurer-impact-chaleur-sur-systeme-sante), 2024/06/19, C'est jamais pareil, ICI Première.
-* [The effects financiers d'une vague de chaleur](https://ici.radio-canada.ca/ohdio/premiere/emissions/cest-jamais-pareil/episodes/750162/rattrapage-vendredi-8-septembre-2023/4), 2023/09/08, C'est jamais pareil, ICI Première.
+* [La chaleur coûte plus de 15 M$ chaque année au Québec](https://ici.radio-canada.ca/ohdio/premiere/emissions/premiere-heure/segments/rattrapage/2104442/effets-episodes-chaleur-extreme-sur-systeme-sante), Première heure, ICI Première, 2025/06/24.
+* [Calculer les coûts sanitaires et économiques des vagues de chaleur?](https://ici.radio-canada.ca/ohdio/premiere/emissions/moteur-de-recherche/segments/rattrapage/1910988/comment-calculer-couts-sanitaires-et-economiques-vagues-chaleur), Moteur de recherche, ICI Première, 2024/11/12.
+* [Les impacts de la chaleur sur le réseau de la santé](https://ici.radio-canada.ca/ohdio/premiere/emissions/des-matins-en-or/segments/rattrapage/1787912/impacts-chaleur-sur-reseau-sante), Des matins en or, ICI Première, 2024/06/20.
+* [Les effets insoupçonnés de la chaleur sur le système de santé](https://ici.radio-canada.ca/ohdio/premiere/emissions/le-15-18/segments/rattrapage/1787107/effets-insoupconnes-chaleur-extreme-sur-systeme-sante-au-quebec), Le 15-18, ICI Première, 2024/06/19.
+* [La chaleur extrême pourrait coûter cher au système de santé](https://ici.radio-canada.ca/ohdio/premiere/emissions/premiere-heure/segments/rattrapage/1786707/chaleur-un-reel-fardeau-sanitaire), Première Heure, ICI Première, 2024/06/19.
+* [Une étude pour mesurer l’impact de la chaleur sur le système de santé](https://ici.radio-canada.ca/ohdio/premiere/emissions/cest-jamais-pareil/segments/rattrapage/1786894/une-etude-pour-mesurer-impact-chaleur-sur-systeme-sante), C'est jamais pareil, ICI Première, 2024/06/19.
+* [The effects financiers d'une vague de chaleur](https://ici.radio-canada.ca/ohdio/premiere/emissions/cest-jamais-pareil/episodes/750162/rattrapage-vendredi-8-septembre-2023/4), C'est jamais pareil, ICI Première, 2023/09/08.
 * [La Jour de la Terre et l’éco-anxiété avec Jérémie Boudreault](https://ici.radio-canada.ca/ohdio/premiere/emissions/place-publique/episodes/622784/rattrapage-du-vendredi-22-avril-2022/8?fbclid=IwAR3RnzZaGAJ6dpHQw4YDKKyxn9wqVtviFJphlqIKjWB8S76jWbW0nJhrA38), 2022/04/22, Place Publique, ICI Première.
 * [La Journée des sciences de l’environnement à l’INRS](https://ici.radio-canada.ca/ohdio/premiere/emissions/premiere-heure/segments/chronique/63484/inrs-science-environnement-martine), Première Heure, ICI Première, 2018/03/15.
 
@@ -55,21 +53,21 @@ Radio interviews
 TV interviews
 -------------------
 
-* [Une école internationale sur l'adaptation à la chaleur](https://www.youtube.com/watch?v=1AGNxft7-Dk), 2025/07/21, Le Téléjournal RDI.
-* [Les effets de la chaleur sur les populations vulnérables](https://www.tvaplus.ca/tva/le-tva-nouvelles-quebec), 2025/06/23, Le TVA Nouvelles Québec.
-* [Le fardeau de la chaleur sur le système de santé](https://ici.radio-canada.ca/tele/decouverte/site/segments/reportage/1872309/changements-climatiques-chaleur-sante-soins), 2024/10/06, Découverte, Radio-Canada
-* [La période de question: émission thématique sur le chaleur extrême](https://solutionsmedia.cbcrc.ca/fr/emissions/la-periode-de-questions), 2025/07/30, RDI.
-* [Cinq trucs pour réduire son empreinte environnementale](https://www.meteomedia.com/fr/nouvelles/climat/impacts/cinq-trucs-pour-reduire-son-empreinte-environnementale), 2019/09/29, Météo-Média.
+* [Une école internationale sur l'adaptation à la chaleur](https://www.youtube.com/watch?v=1AGNxft7-Dk), Le Téléjournal RDI, 2025/07/21.
+* [Les effets de la chaleur sur les populations vulnérables](https://www.tvaplus.ca/tva/le-tva-nouvelles-quebec), Le TVA Nouvelles Québec, 2025/06/23.
+* [Le fardeau de la chaleur sur le système de santé](https://ici.radio-canada.ca/tele/decouverte/site/segments/reportage/1872309/changements-climatiques-chaleur-sante-soins), Découverte, Radio-Canada, 2024/10/06.
+* [La période de question: émission thématique sur le chaleur extrême](https://solutionsmedia.cbcrc.ca/fr/emissions/la-periode-de-questions), RDI, 2025/07/30.
+* [Cinq trucs pour réduire son empreinte environnementale](https://www.meteomedia.com/fr/nouvelles/climat/impacts/cinq-trucs-pour-reduire-son-empreinte-environnementale), Météo-Média, 2019/09/29.
 
 
 Popular science articles
 -------------------
 
 * [L’Accord de Paris pour limiter les coûts de la chaleur extrême](), Le Climatoscope [À paraître]
-* [Les canicules engendrent des coûts. Voici pourquoi il est important de les quantifier](https://theconversation.com/les-canicules-engendrent-des-couts-voici-pourquoi-il-est-important-de-les-quantifier-207749), 2023/09/05, La Conversation.
-* [Why it's important to quantify heatwaves costs](https://theconversation.com/heat-waves-have-a-cost-heres-why-its-important-to-quantify-it-213141), 2023/09/05, The Conversation.
-* [Qu'est-ce qui se cache dans les poubelles de l'INRS](https://jeremieboudreault.github.io/files/LaSynthese_HS_Dechets_WEB_FRv2.pdf), 2023/05/29, La Synthèse.
-* [Ma passion pour l'INRS, de la maîtrise au doctorat](https://inrs.ca/actualites/ma-recherche-en-serie-la-passion-pour-lenvironnement-de-jeremie-boudreault-de-la-maitrise-au-doctorat/), 2022/04/22, INRS website.
+* [Les canicules engendrent des coûts. Voici pourquoi il est important de les quantifier](https://theconversation.com/les-canicules-engendrent-des-couts-voici-pourquoi-il-est-important-de-les-quantifier-207749), La Conversation, 2023/09/05.
+* [Why it's important to quantify heatwaves costs](https://theconversation.com/heat-waves-have-a-cost-heres-why-its-important-to-quantify-it-213141), The Conversation, 2023/09/05.
+* [Qu'est-ce qui se cache dans les poubelles de l'INRS](https://jeremieboudreault.github.io/files/LaSynthese_HS_Dechets_WEB_FRv2.pdf), La Synthèse, 2023/05/29.
+* [Ma passion pour l'INRS, de la maîtrise au doctorat](https://inrs.ca/actualites/ma-recherche-en-serie-la-passion-pour-lenvironnement-de-jeremie-boudreault-de-la-maitrise-au-doctorat/), Site web de l'INRS, 2022/04/22.
 
 
 Video content
