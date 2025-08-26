@@ -40,13 +40,13 @@ Radio interviews
 -------------------
 
 * [La chaleur coûte plus de 15 M$ chaque année au Québec](https://ici.radio-canada.ca/ohdio/premiere/emissions/premiere-heure/segments/rattrapage/2104442/effets-episodes-chaleur-extreme-sur-systeme-sante), Première heure, 2025/06/24.
-* [Calculer les coûts sanitaires et économiques des vagues de chaleur?](https://ici.radio-canada.ca/ohdio/premiere/emissions/moteur-de-recherche/segments/rattrapage/1910988/comment-calculer-couts-sanitaires-et-economiques-vagues-chaleur), Moteur de recherche, 2024/11/12.
+* [Les coûts sanitaires et économiques des vagues de chaleur?](https://ici.radio-canada.ca/ohdio/premiere/emissions/moteur-de-recherche/segments/rattrapage/1910988/comment-calculer-couts-sanitaires-et-economiques-vagues-chaleur), Moteur de recherche, 2024/11/12.
 * [Les impacts de la chaleur sur le réseau de la santé](https://ici.radio-canada.ca/ohdio/premiere/emissions/des-matins-en-or/segments/rattrapage/1787912/impacts-chaleur-sur-reseau-sante), Des matins en or, 2024/06/20.
 * [Les effets insoupçonnés de la chaleur sur le système de santé](https://ici.radio-canada.ca/ohdio/premiere/emissions/le-15-18/segments/rattrapage/1787107/effets-insoupconnes-chaleur-extreme-sur-systeme-sante-au-quebec), Le 15-18, 2024/06/19.
 * [La chaleur extrême pourrait coûter cher au système de santé](https://ici.radio-canada.ca/ohdio/premiere/emissions/premiere-heure/segments/rattrapage/1786707/chaleur-un-reel-fardeau-sanitaire), Première Heure, 2024/06/19.
-* [Une étude pour mesurer l’impact de la chaleur sur le système de santé](https://ici.radio-canada.ca/ohdio/premiere/emissions/cest-jamais-pareil/segments/rattrapage/1786894/une-etude-pour-mesurer-impact-chaleur-sur-systeme-sante), C'est jamais pareil, 2024/06/19.
+* [Une étude de l’impact de la chaleur sur le système de santé](https://ici.radio-canada.ca/ohdio/premiere/emissions/cest-jamais-pareil/segments/rattrapage/1786894/une-etude-pour-mesurer-impact-chaleur-sur-systeme-sante), C'est jamais pareil, 2024/06/19.
 * [The effects financiers d'une vague de chaleur](https://ici.radio-canada.ca/ohdio/premiere/emissions/cest-jamais-pareil/episodes/750162/rattrapage-vendredi-8-septembre-2023/4), C'est jamais pareil, 2023/09/08.
-* [La Jour de la Terre et l’éco-anxiété avec Jérémie Boudreault](https://ici.radio-canada.ca/ohdio/premiere/emissions/place-publique/episodes/622784/rattrapage-du-vendredi-22-avril-2022/8?fbclid=IwAR3RnzZaGAJ6dpHQw4YDKKyxn9wqVtviFJphlqIKjWB8S76jWbW0nJhrA38), 2022/04/22, Place Publique, ICI Première.
+* [La Jour de la Terre et l’éco-anxiété avec Jérémie Boudreault](https://ici.radio-canada.ca/ohdio/premiere/emissions/place-publique/episodes/622784/rattrapage-du-vendredi-22-avril-2022/8?fbclid=IwAR3RnzZaGAJ6dpHQw4YDKKyxn9wqVtviFJphlqIKjWB8S76jWbW0nJhrA38), Place Publique, 2022/04/22.
 * [La Journée des sciences de l’environnement à l’INRS](https://ici.radio-canada.ca/ohdio/premiere/emissions/premiere-heure/segments/chronique/63484/inrs-science-environnement-martine), Première Heure, 2018/03/15.
 
 
@@ -73,5 +73,5 @@ Popular science articles
 Video content
 --------------------
 
-* [Finale nationale de MT180 : Les coûts de la chaleur extrême](https://www.youtube.com/watch?v=yQVabpSwwXc&list=PL9zimENn6GXcVy4IVrhc-_uFSxBOzQ1gH&index=16), ACFAS, Université d'Ottawa, 2024/05/15.
+* [Finale nationale de Ma Thèse en 180 secondes](https://www.youtube.com/watch?v=yQVabpSwwXc&list=PL9zimENn6GXcVy4IVrhc-_uFSxBOzQ1gH&index=16), ACFAS, Université d'Ottawa, 2024/05/15.
 * Vidéo promotionnelle de l'INRS, YouTube, 2018.
