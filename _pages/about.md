@@ -13,6 +13,11 @@ Hello! I am Jérémie Boudreault, a PhD student-researcher at the National insti
 My research focuses on modelling the health, economic and environmental impacts of climate hazards such as extreme heat and flooding. To that end, I leverage both novel statistical models and AI/machine learning approaches. Prior to my PhD, I worked for several years as a research scientist in climate risk modelling. My current and past projects are available [here](https://jeremieboudreault.github.io/projects/). 
 
 
+News 🔥
+----------
+
+* [Work and heat-related mortality and medications featured in L'Express](https://www.lexpress.fr/sciences-sante/sante/les-medicaments-aggravent-ils-la-mortalite-lors-des-canicules-enquete-sur-une-zone-dombre-DY32OYRWJBH3XBDGC3VLKGRSKU/), 2025/09/09.
+
 Hiring 🚨
 ----------
 
