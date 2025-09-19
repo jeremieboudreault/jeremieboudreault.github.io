@@ -14,6 +14,7 @@ Text interviews
 
 * [Les médicaments aggravent-ils la mortalité lors des canicules ?](https://www.lexpress.fr/sciences-sante/sante/les-medicaments-aggravent-ils-la-mortalite-lors-des-canicules-enquete-sur-une-zone-dombre-DY32OYRWJBH3XBDGC3VLKGRSKU/), L'Express, 2025/09/09.
 * [Des médicaments qui augmentent les décès en période de chaleur](https://www.protegez-vous.ca/nouvelles/sante-et-alimentation/chaleurs-extremes-certains-medicaments-peuvent-augmenter-le-risque-de-deces), Protégez-vous, 2025/08/14.
+* [Chaleur extrême : Des médicaments associés à plus de décès](https://ici.radio-canada.ca/nouvelle/2182573/chaleur-medicaments-risque-deces-temperature), Radio-Canada, 2025/07/30.
 * [La chaleur extrême coûtera de plus en plus cher au Québec](https://www.quebecscience.qc.ca/environnement/chaleur-extreme-cout-cher-quebec/), Québec Science, 2025/05/21.
 * [L’été sera chaud et favorable aux feux de forêt](https://www.ledevoir.com/environnement/889687/ete-sera-chaud-favorable-feux-foret-prevoit-environnement-canada), Le Devoir, 2025/06/10.
 * [La chaleur extrême coûte cher aux assureurs](https://portail-assurance.ca/article/la-chaleur-extreme-coute-cher-au-systeme-de-sante-et-aux-assureurs-de-personnes/), Le Journal de l'Assurance, 2025/02/29. 
