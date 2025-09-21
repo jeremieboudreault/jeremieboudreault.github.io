@@ -16,7 +16,7 @@ My research focuses on modelling the health, economic and environmental impacts 
 News 🔥
 ----------
 
-* [Work and heat-related mortality and medications featured in L'Express](https://www.lexpress.fr/sciences-sante/sante/les-medicaments-aggravent-ils-la-mortalite-lors-des-canicules-enquete-sur-une-zone-dombre-DY32OYRWJBH3XBDGC3VLKGRSKU/), 2025/09/09.
+* Work on heat-related mortality and medications featured in [L'Express](https://www.lexpress.fr/sciences-sante/sante/les-medicaments-aggravent-ils-la-mortalite-lors-des-canicules-enquete-sur-une-zone-dombre-DY32OYRWJBH3XBDGC3VLKGRSKU/), 2025/09/09.
 
 Hiring 🚨
 ----------
