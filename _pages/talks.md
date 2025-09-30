@@ -8,10 +8,12 @@ author_profile: true
 Upcoming talks
 -------------------
 
-...
+📧 Email me at jeremie [dot] boudreault [at] inrs [dot] ca to schedule a talk.
 
 Past talks
 -------------------
+
+39. **J Boudreault\*** (2025) Chaleur extrême : la recherche scientifique pour modéliser les impacts à la santé et les coûts, Dîner-causerie du syndicat du CISSS de Launaudière. 2025/09/26. En ligne. **[Invited speaker]**
 
 38. KN Cowan\*, **J Boudreault**, K LeMasters, L Brinkley-Rubinstein (2025) [Temperatures extremes and mortality in federal prisons across the United States](https://www.isesisee2025.org/), International Society for Environmental Epidemiology (ISEE), 2025/08/17. Atlanta, GA, United States. [Poster]
 
