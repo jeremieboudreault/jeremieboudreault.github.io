@@ -8,11 +8,11 @@ author_profile: true
 Climate-related health costs and adaptation measures ❄️☀️🌳 [2025-]
 -------------------
 
-*As part of a research grant funded by Actions concertées du FRQ and MELCCFP.*
+*As part of a research grant funded by Actions concertées of FRQ and MELCCFP.*
 
-- Modelling the mortality and morbidity burden of climate hazards in Quebec
+- Modelling the health burden of summer and winter conditions in Quebec
 - Projecting the associated health costs under various climate change scenarios
-- Analyzing the cost and benefits of various adaptation measures
+- Analyzing the cost and benefits of different adaptation measures
 
 ---
 

@@ -13,7 +13,7 @@ Hello! I am Jérémie Boudreault, a PhD student-researcher at the National insti
 My research focuses on modelling the health, economic and environmental impacts of climate hazards such as extreme heat and flooding. To that end, I leverage both novel statistical models and AI/machine learning approaches. Prior to my PhD, I worked for several years as a research scientist in climate risk modelling. My current and past projects are available [here](https://jeremieboudreault.github.io/projects/). 
 
 
-News 🔥
+News 🆕
 ----------
 
 * New text on the Paris Agreement and heat-related health costs published in [Le Climatoscope](https://climatoscope.ca/wp-content/uploads/2025/09/Pages-from-Le_Climatoscope_Num7_2025_Boudreault.pdf), 2025/09/30.
