@@ -13,7 +13,7 @@ Text interviews
 -------------------
 
 * [Les médicaments aggravent-ils la mortalité lors des canicules ?](https://www.lexpress.fr/sciences-sante/sante/les-medicaments-aggravent-ils-la-mortalite-lors-des-canicules-enquete-sur-une-zone-dombre-DY32OYRWJBH3XBDGC3VLKGRSKU/), L'Express, 2025/09/09.
-* [Des médicaments qui augmentent les décès en période de chaleur](https://www.protegez-vous.ca/nouvelles/sante-et-alimentation/chaleurs-extremes-certains-medicaments-peuvent-augmenter-le-risque-de-deces), Protégez-vous, 2025/08/14.
+* [Des médicaments augmenant les décès en période de chaleur](https://www.protegez-vous.ca/nouvelles/sante-et-alimentation/chaleurs-extremes-certains-medicaments-peuvent-augmenter-le-risque-de-deces), Protégez-vous, 2025/08/14.
 * [Chaleur extrême : Des médicaments associés à plus de décès](https://ici.radio-canada.ca/nouvelle/2182573/chaleur-medicaments-risque-deces-temperature), Radio-Canada, 2025/07/30.
 * [La chaleur extrême coûtera de plus en plus cher au Québec](https://www.quebecscience.qc.ca/environnement/chaleur-extreme-cout-cher-quebec/), Québec Science, 2025/05/21.
 * [L’été sera chaud et favorable aux feux de forêt](https://www.ledevoir.com/environnement/889687/ete-sera-chaud-favorable-feux-foret-prevoit-environnement-canada), Le Devoir, 2025/06/10.
@@ -42,7 +42,7 @@ Radio interviews
 -------------------
 
 * [La chaleur coûte plus de 15 M$ chaque année au Québec](https://ici.radio-canada.ca/ohdio/premiere/emissions/premiere-heure/segments/rattrapage/2104442/effets-episodes-chaleur-extreme-sur-systeme-sante), Première heure, 2025/06/24.
-* [Les coûts sanitaires et économiques des vagues de chaleur?](https://ici.radio-canada.ca/ohdio/premiere/emissions/moteur-de-recherche/segments/rattrapage/1910988/comment-calculer-couts-sanitaires-et-economiques-vagues-chaleur), Moteur de recherche, 2024/11/12.
+* [Les coûts sanitaires et économiques de la chaleur](https://ici.radio-canada.ca/ohdio/premiere/emissions/moteur-de-recherche/segments/rattrapage/1910988/comment-calculer-couts-sanitaires-et-economiques-vagues-chaleur), Moteur de recherche, 2024/11/12.
 * [Les impacts de la chaleur sur le réseau de la santé](https://ici.radio-canada.ca/ohdio/premiere/emissions/des-matins-en-or/segments/rattrapage/1787912/impacts-chaleur-sur-reseau-sante), Des matins en or, 2024/06/20.
 * [Les effets insoupçonnés de la chaleur sur le système de santé](https://ici.radio-canada.ca/ohdio/premiere/emissions/le-15-18/segments/rattrapage/1787107/effets-insoupconnes-chaleur-extreme-sur-systeme-sante-au-quebec), Le 15-18, 2024/06/19.
 * [La chaleur extrême pourrait coûter cher au système de santé](https://ici.radio-canada.ca/ohdio/premiere/emissions/premiere-heure/segments/rattrapage/1786707/chaleur-un-reel-fardeau-sanitaire), Première Heure, 2024/06/19.
@@ -58,15 +58,15 @@ TV interviews
 * [Une école internationale sur l'adaptation à la chaleur](https://www.youtube.com/watch?v=1AGNxft7-Dk), Le Téléjournal RDI, 2025/07/21.
 * [Les effets de la chaleur sur les populations vulnérables](https://www.tvaplus.ca/tva/le-tva-nouvelles-quebec), TVA Nouvelles, 2025/06/23.
 * [Le fardeau de la chaleur sur le système de santé](https://ici.radio-canada.ca/tele/decouverte/site/segments/reportage/1872309/changements-climatiques-chaleur-sante-soins), Découverte, Radio-Canada, 2024/10/06.
-* [La période de question: émission thématique sur le chaleur extrême](https://solutionsmedia.cbcrc.ca/fr/emissions/la-periode-de-questions), RDI, 2025/07/30.
+* [La période de question: émission thématique sur la chaleur extrême](https://solutionsmedia.cbcrc.ca/fr/emissions/la-periode-de-questions), RDI, 2025/07/30.
 * [Cinq trucs pour réduire son empreinte environnementale](https://www.meteomedia.com/fr/nouvelles/climat/impacts/cinq-trucs-pour-reduire-son-empreinte-environnementale), Météo-Média, 2019/09/29.
 
 
 Popular science articles
 -------------------
 
-* [Respecter l’Accord de Paris : un levier pour réduire les coûts de santé de la chaleur extrême au Québec](https://climatoscope.ca/wp-content/uploads/2025/09/Pages-from-Le_Climatoscope_Num7_2025_Boudreault.pdf), Le Climatoscope, 2025/09/30.
-* [Les canicules engendrent des coûts. Pourquoi les quantifier ?](https://theconversation.com/les-canicules-engendrent-des-couts-voici-pourquoi-il-est-important-de-les-quantifier-207749), La Conversation, 2023/09/05.
+* [L'Accord de Paris pour réduire les coûts de la chaleur extrême](https://climatoscope.ca/wp-content/uploads/2025/09/Pages-from-Le_Climatoscope_Num7_2025_Boudreault.pdf), Le Climatoscope, 2025/09/30.
+* [Pourquoi quantifier les coûts engendrés par les canicules ?](https://theconversation.com/les-canicules-engendrent-des-couts-voici-pourquoi-il-est-important-de-les-quantifier-207749), La Conversation, 2023/09/05.
 * [Why it's important to quantify heatwaves costs](https://theconversation.com/heat-waves-have-a-cost-heres-why-its-important-to-quantify-it-213141), The Conversation, 2023/09/05.
 * [Qu'est-ce qui se cache dans les poubelles de l'INRS](https://jeremieboudreault.github.io/files/LaSynthese_HS_Dechets_WEB_FRv2.pdf), La Synthèse, 2023/05/29.
 * [Ma passion pour l'INRS, de la maîtrise au doctorat](https://inrs.ca/actualites/ma-recherche-en-serie-la-passion-pour-lenvironnement-de-jeremie-boudreault-de-la-maitrise-au-doctorat/), INRS, 2022/04/22.
@@ -76,4 +76,4 @@ Video content
 --------------------
 
 * [Finale nationale de Ma Thèse en 180 secondes](https://www.youtube.com/watch?v=yQVabpSwwXc&list=PL9zimENn6GXcVy4IVrhc-_uFSxBOzQ1gH&index=16), ACFAS, Université d'Ottawa, 2024/05/15.
-* Vidéo promotionnelle de l'INRS, YouTube, 2018.
+* [Étudier à l'INRS: tous les atouts pour réussir](https://www.youtube.com/watch?v=N5mxOkml19g), YouTube, 2019/04/23.
