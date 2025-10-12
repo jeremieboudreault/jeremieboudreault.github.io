@@ -13,7 +13,7 @@ Lecturer
 Co-lecturer
 ----------
 
-* **Fall 2022, 2023, 2024** : ETE414 - Data science and environmental applications, INRS
+* **Fall 2022, 2023, 2024, 2025** : ETE414 - Data science and environmental applications, INRS
 
 Invited lecturer
 ----------
