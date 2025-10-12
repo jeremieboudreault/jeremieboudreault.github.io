@@ -65,7 +65,7 @@ TV interviews
 Popular science articles
 -------------------
 
-* [L’Accord de Paris pour limiter les coûts de la chaleur extrême](), Le Climatoscope, *À paraître*.
+* [Respecter l’Accord de Paris : un levier pour réduire les coûts de santé de la chaleur extrême au Québec](https://climatoscope.ca/wp-content/uploads/2025/09/Pages-from-Le_Climatoscope_Num7_2025_Boudreault.pdf), Le Climatoscope, 2025/09/30.
 * [Les canicules engendrent des coûts. Pourquoi les quantifier ?](https://theconversation.com/les-canicules-engendrent-des-couts-voici-pourquoi-il-est-important-de-les-quantifier-207749), La Conversation, 2023/09/05.
 * [Why it's important to quantify heatwaves costs](https://theconversation.com/heat-waves-have-a-cost-heres-why-its-important-to-quantify-it-213141), The Conversation, 2023/09/05.
 * [Qu'est-ce qui se cache dans les poubelles de l'INRS](https://jeremieboudreault.github.io/files/LaSynthese_HS_Dechets_WEB_FRv2.pdf), La Synthèse, 2023/05/29.
