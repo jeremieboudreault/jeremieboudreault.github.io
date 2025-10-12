@@ -29,14 +29,14 @@ Heat-related health and economic effects using data science 🌇 [2021-]
 
 <img src = "/../files/fig_proj_3.png" />
 
-*Related publications* : [Papers #5–#7, #10, #12-#13, Reports #1-#2](https://jeremieboudreault.github.io/publications/)
+*Related publications* : [Papers #5–#7, #10, #12-#14, Reports #1-#2](https://jeremieboudreault.github.io/publications/)
 
 ---
 
 Climate-related risks in insurance contexts ⛈ [2019-2022] 
 -------------------
 
-*As part of my research scientist position at The Co-operators.*
+*As part of my research scientist position at The Co-operators in collaboration with UQÀM.*
 
 - Modelling and simulating river and coastal flood risk at the Canadian level
 - Projection of climate change impacts for convective storms, hurricane and flooding
