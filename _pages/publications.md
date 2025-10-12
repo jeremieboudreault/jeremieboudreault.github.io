@@ -9,7 +9,7 @@ author_profile: true
 Published journal articles
 ---------------
 
-14. **J Boudreault\***, KE McLean, SB Henderson (2025). [Exploring the relationship between medications and heat-related community deaths during the 2021 heat dome: a hybrid approach using machine learning](https://doi.org/10.1016/j.ebiom.2025.105788). *eBioMedicine*. 117: 105788.
+14. **J Boudreault\***, KE McLean, SB Henderson (2025). [Exploring the relationship between medications and heat-related community deaths during the 2021 heat dome: a hybrid approach using machine learning](https://doi.org/10.1016/j.ebiom.2025.105788). *eBioMedicine*. 117(105788): 1-14.
 
 13. **J Boudreault\***, C Campagna, E Lavigne, F Chebana (2025). [Projecting the overall heat-related health burden and associated economic costs in a climate change context in Quebec, Canada](https://doi.org/10.1016/j.scitotenv.2024.178022). *Science of the Total Environment*. 958(178022): 1-10.
 
@@ -42,9 +42,9 @@ Published journal articles
 Submitted articles
 ---------------
 
-1. **J Boudreault\***, F Lamothe, C Campagna, F Chebana (2025). Machine learning for modelling the health impacts of extreme heat: a comprehensive literature review.
+1. **J Boudreault\***, F Lamothe, C Campagna, F Chebana (2025). Machine learning for modelling the health impacts of extreme heat: a comprehensive literature review. [*Revision requested*]
 
-2. KN Cowan\*, **J Boudreault**, K LeMasters, L Brinkley-Rubinstein (2025). Lagged and non-linear effects of temperature extremes on mortality in US federal prisons: a case-crossover study, 2009-2021.
+2. KN Cowan\*, **J Boudreault**, K LeMasters, L Brinkley-Rubinstein (2025). Lagged and non-linear effects of temperature extremes on mortality in US federal prisons: a case-crossover study, 2009-2021. [*Revision requested*]
 
 Reports
 ---------------
