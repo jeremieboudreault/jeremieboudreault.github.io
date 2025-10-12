@@ -55,8 +55,8 @@ Functional regression models in ecohydrology 🏞 [2016-2019]
 
 *As part of my M. Sc. in statistical hydrology at INRS.*
 
-- Statistical modelling of ecohydrological variables (temperature, flow, habitat, etc.)
-- Analysis of the physico-thermal fish habitat variability
+- Statistical modelling of ecohydrological variables (streamflow, temperature, etc.)
+- Functional data analysis of the physico-thermal fish habitat
 - Team leader for river data sampling during two summers
 
 *An example of results for simulated stream tempearture in the US* : 
