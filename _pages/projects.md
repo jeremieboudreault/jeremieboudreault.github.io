@@ -59,8 +59,8 @@ Functional regression models in ecohydrology 🏞 [2016-2019]
 - Functional data analysis of the physico-thermal fish habitat
 - Team leader for river data sampling during two summers
 
-*An example of results for simulated stream tempearture in the US* : 
+*An example of results for simulated stream temperature in the US* : 
 
 <img src = "/../files/fig_proj_1.png" />
 
-*Other publications* : [Papers #1–#4, Master thesis](https://jeremieboudreault.github.io/publications/)
+*Related publications* : [Papers #1–#4, Master thesis](https://jeremieboudreault.github.io/publications/)
