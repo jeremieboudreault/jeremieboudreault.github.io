@@ -16,8 +16,8 @@ My research focuses on modelling the health, economic and environmental impacts 
 News 🆕
 ----------
 
-* Our article on the Paris Agreement and heat-related health costs was published in [Le Climatoscope]
-* Our work on heat-related mortality and medications was featured in [L'Express](https://www.lexpress.fr/sciences-sante/sante/les-medicaments-aggravent-ils-la-mortalite-lors-des-canicules-enquete-sur-une-zone-dombre-DY32OYRWJBH3XBDGC3VLKGRSKU/) in France.
+* Our article on [the Paris Agreement and heat-related health costs](https://climatoscope.ca/wp-content/uploads/2025/09/Pages-from-Le_Climatoscope_Num7_2025_Boudreault.pdf) was recently published in Le Climatoscope. 
+* Our work on [heat-related mortality and medications](ttps://www.lexpress.fr/sciences-sante/sante/les-medicaments-aggravent-ils-la-mortalite-lors-des-canicules-enquete-sur-une-zone-dombre-DY32OYRWJBH3XBDGC3VLKGRSKU/) was featured in L'Express in France.
 
 Hiring 🚨
 ----------
