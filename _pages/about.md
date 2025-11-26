@@ -16,8 +16,8 @@ My research focuses on modelling the health, economic and environmental impacts 
 News 🆕
 ----------
 
-* Our literature review on [machine learning for modelling heat-related health impacts](https://www.sciencedirect.com/science/article/pii/S0160412025007160?via%3Dihub#s0195) as recently published in *Environment International*.
-* Our article on [the Paris Agreement and heat-related health costs](https://climatoscope.ca/wp-content/uploads/2025/09/Pages-from-Le_Climatoscope_Num7_2025_Boudreault.pdf) was recently 
+* Our literature review on [machine learning for modelling heat-related health impacts](https://doi.org/10.1016/j.envint.2025.109965) was published in *Environment International*.
+* Our general public article on [the Paris Agreement and heat-related health costs](https://climatoscope.ca/wp-content/uploads/2025/09/Pages-from-Le_Climatoscope_Num7_2025_Boudreault.pdf) was published in Le Climatoscope.
 
 Hiring 🚨
 ----------
