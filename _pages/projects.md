@@ -29,7 +29,7 @@ Heat-related health and economic effects using data science 🌇 [2021-]
 
 <img src = "/../files/fig_proj_3.png" />
 
-*Related publications* : [Papers #5–#7, #10, #12-#14, Reports #1-#2](https://jeremieboudreault.github.io/publications/)
+*Related publications* : [Papers #5–#7, #10, #12-#15, Reports #1-#2](https://jeremieboudreault.github.io/publications/)
 
 ---
 
