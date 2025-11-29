@@ -17,12 +17,12 @@ News 🆕
 ----------
 
 * Our literature review on [machine learning for modelling heat-related health impacts](https://doi.org/10.1016/j.envint.2025.109965) was published in *Environment International*.
-* Our general public article on [the Paris Agreement and heat-related health costs](https://climatoscope.ca/wp-content/uploads/2025/09/Pages-from-Le_Climatoscope_Num7_2025_Boudreault.pdf) was published in Le Climatoscope.
+* Our general public article on [the Paris Agreement and heat-related health costs](https://climatoscope.ca/wp-content/uploads/2025/09/Pages-from-Le_Climatoscope_Num7_2025_Boudreault.pdf) was published in *Le Climatoscope*.
 
 Hiring 🚨
 ----------
 
-We are currently looking for students to join our team to pursue a Ph. D. in climate-health or data science. More information available below:
+We are currently looking for people to join our research group at INRS in climate-health and data science. More information available below:
 * [PhD on the health costs of climate change and evaluation of adaptation measures](https://inrs.ca/les-etudes/projets-de-maitrise-et-de-doctorat/repertoire-des-projets-etudes/analyse-des-couts-sanitaires-des-aleas-climatiques-au-quebec-et-evaluation-des-mesures-dadaptation/)
 
 About me 📃
