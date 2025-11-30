@@ -9,7 +9,7 @@ author_profile: true
 Published journal articles
 ---------------
 
-15. **J Boudreault\***, F Lamothe, C Campagna, F Chebana (2025). [Machine learning for modelling the health impacts of extreme heat: a comprehensive literature review](https://doi.org/10.1016/j.envint.2025.109965). *Environmental International*. 206(109965): 1-15.
+15. **J Boudreault\***, F Lamothe, C Campagna, F Chebana (2025). [Machine learning for modelling the health impacts of extreme heat: a comprehensive literature review](https://doi.org/10.1016/j.envint.2025.109965). *Environment International*. 206(109965): 1-15.
 
 14. **J Boudreault\***, KE McLean, SB Henderson (2025). [Exploring the relationship between medications and heat-related community deaths during the 2021 heat dome: a hybrid approach using machine learning](https://doi.org/10.1016/j.ebiom.2025.105788). *eBioMedicine*. 117(105788): 1-14.
 
