@@ -63,7 +63,7 @@ Popular science articles
 
 3.  **J Boudreault**\*, C Campagna, F Chebana (2023). [Heatwaves have a cost. Here’s why it’s important to quantify it](https://theconversation.com/heat-waves-have-a-cost-heres-why-its-important-to-quantify-it-213141), The Conversation Website.
 
-2. **J Boudreault**\*, M Quinche\* (2022). [Qu'est-ce qui se cache dans les poubelles de l'INRS ?](https://jeremieboudreault.github.io/files/LaSynthese_HS_Dechets_WEB_FRv2.pdf), Journal La Synthèse. 1-9.
+2. **J Boudreault**\*, M Quinche\* (2022). [Qu'est-ce qui se cache dans les poubelles de l'INRS ?](https://www.lasyntheseinrs.ca/post/hors-s%C3%A9rie-qu-est-ce-qui-se-cache-dans-les-poubelles-de-l-inrs), Journal La Synthèse.
 
 1. **J Boudreault**\* (2022). [Ma passion pour l'environnement, de la maîtrise au doctorat !](https://inrs.ca/actualites/ma-recherche-en-serie-la-passion-pour-lenvironnement-de-jeremie-boudreault-de-la-maitrise-au-doctorat/), INRS website.
 {: reversed="reversed"}
