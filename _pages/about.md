@@ -22,8 +22,12 @@ News 🆕
 Hiring 🚨
 ----------
 
-We are currently looking for people to join our research group at INRS in climate-health and data science. More information available below:
-* [PhD on the health costs of climate change and evaluation of adaptation measures](https://inrs.ca/les-etudes/projets-de-maitrise-et-de-doctorat/repertoire-des-projets-etudes/analyse-des-couts-sanitaires-des-aleas-climatiques-au-quebec-et-evaluation-des-mesures-dadaptation/)
+We are currently looking for people to join our research group at INRS in data science and climate-health. More information available below:
+* [PhD student](https://inrs.ca/les-etudes/projets-de-maitrise-et-de-doctorat/repertoire-des-projets-etudes/analyse-des-couts-sanitaires-des-aleas-climatiques-au-quebec-et-evaluation-des-mesures-dadaptation/)
+* [Post-doctoral fellowship](https://inrs.ca/les-etudes/stages-et-postdoctorats/repertoire-des-stages-postdoctoraux/modelisation-des-effets-sur-la-sante-des-couts-et-des-mesures-dadaptation-aux-temperatures-extremes/)
+* [Research assistant](https://atlas.workland.com/work/70630/agente-ou-agent-de-recherche-laboratoire-science-des-donnees-sciences-environnementales-sdse-25116-70630)
+
+Please email me if you need more information.
 
 About me 📃
 ----------
