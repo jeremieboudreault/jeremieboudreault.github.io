@@ -8,7 +8,7 @@ author_profile: true
 Upcoming talks
 -------------------
 
-1. **J Boudreault\***, F Chebana (2025) Aperçu des travaux de recherche sur la chaleur extrême de l'INRS, Forum sur la chaleur à Montréal, Montréal, QC, Canada **[Invited speaker]**
+1. **J Boudreault\***, F Chebana (2025) Aperçu des travaux de recherche sur la chaleur extrême de l'INRS, Forum sur la chaleur. 2025/12/09. Montréal, QC, Canada **[Invited speaker]**
 
 📧 Email me at jeremie [dot] boudreault [at] inrs [dot] ca to schedule a talk.
 
