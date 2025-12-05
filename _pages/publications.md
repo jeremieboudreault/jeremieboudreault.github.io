@@ -46,12 +46,22 @@ Submitted articles
 
 1. KN Cowan\*, **J Boudreault**, K LeMasters, L Brinkley-Rubinstein (2025). Lagged and non-linear effects of temperature extremes on mortality in US federal prisons: a case-crossover study, 2009-2021. [*Revision requested*]
 
-Reports
+Scientific reports
 ---------------
 
 2. F Lamothe\*, M Dubé, **J Boudreault**, R Bustinza (2025). [Vagues de chaleur extrême et chaleur estivale au Québec : impacts sur la santé de 2010 à 2024](https://www.inspq.qc.ca/publications/3662). Institut national de santé publique du Québec. 52 p. 
 
 1. **J Boudreault***, C Campagna, F Chebana (2022). [Coûts de santé de la chaleur extrême en contexte de changements climatiques : état des connaissances et orientations futures](https://espace.inrs.ca/id/eprint/13052/). Rapport de recherche R2129, Institut national de la recherche scientifique, 92 p.
+
+Popular science articles
+-------------------
+
+* [L'Accord de Paris pour réduire les coûts de la chaleur extrême](https://climatoscope.ca/wp-content/uploads/2025/09/Pages-from-Le_Climatoscope_Num7_2025_Boudreault.pdf), Le Climatoscope, 2025/09/30.
+* [Pourquoi quantifier les coûts engendrés par les canicules ?](https://theconversation.com/les-canicules-engendrent-des-couts-voici-pourquoi-il-est-important-de-les-quantifier-207749), La Conversation, 2023/09/05.
+* [Why it's important to quantify heatwaves costs](https://theconversation.com/heat-waves-have-a-cost-heres-why-its-important-to-quantify-it-213141), The Conversation, 2023/09/05.
+* [Qu'est-ce qui se cache dans les poubelles de l'INRS](https://jeremieboudreault.github.io/files/LaSynthese_HS_Dechets_WEB_FRv2.pdf), La Synthèse, 2023/05/29.
+* [Ma passion pour l'INRS, de la maîtrise au doctorat](https://inrs.ca/actualites/ma-recherche-en-serie-la-passion-pour-lenvironnement-de-jeremie-boudreault-de-la-maitrise-au-doctorat/), INRS, 2022/04/22.
+
 
 
 Master thesis
