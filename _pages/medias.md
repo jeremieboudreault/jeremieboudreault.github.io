@@ -62,18 +62,9 @@ TV interviews
 * [Cinq trucs pour réduire son empreinte environnementale](https://www.meteomedia.com/fr/nouvelles/climat/impacts/cinq-trucs-pour-reduire-son-empreinte-environnementale), Météo-Média, 2019/09/29.
 
 
-Popular science articles
--------------------
-
-* [L'Accord de Paris pour réduire les coûts de la chaleur extrême](https://climatoscope.ca/wp-content/uploads/2025/09/Pages-from-Le_Climatoscope_Num7_2025_Boudreault.pdf), Le Climatoscope, 2025/09/30.
-* [Pourquoi quantifier les coûts engendrés par les canicules ?](https://theconversation.com/les-canicules-engendrent-des-couts-voici-pourquoi-il-est-important-de-les-quantifier-207749), La Conversation, 2023/09/05.
-* [Why it's important to quantify heatwaves costs](https://theconversation.com/heat-waves-have-a-cost-heres-why-its-important-to-quantify-it-213141), The Conversation, 2023/09/05.
-* [Qu'est-ce qui se cache dans les poubelles de l'INRS](https://jeremieboudreault.github.io/files/LaSynthese_HS_Dechets_WEB_FRv2.pdf), La Synthèse, 2023/05/29.
-* [Ma passion pour l'INRS, de la maîtrise au doctorat](https://inrs.ca/actualites/ma-recherche-en-serie-la-passion-pour-lenvironnement-de-jeremie-boudreault-de-la-maitrise-au-doctorat/), INRS, 2022/04/22.
-
-
 Video content
 --------------------
 
+* [Participation at the Gala Forces AVENIR 2025](https://forcesavenir.com/gala-forces-avenir/27e-edition-du-gala-forces-avenir-universitaire-2025/), 2025/10/15.
 * [Finale nationale de Ma Thèse en 180 secondes](https://www.youtube.com/watch?v=yQVabpSwwXc&list=PL9zimENn6GXcVy4IVrhc-_uFSxBOzQ1gH&index=16), ACFAS, Université d'Ottawa, 2024/05/15.
 * [Étudier à l'INRS: tous les atouts pour réussir](https://www.youtube.com/watch?v=N5mxOkml19g), YouTube, 2019/04/23.
