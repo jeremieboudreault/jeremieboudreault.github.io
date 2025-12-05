@@ -65,6 +65,6 @@ TV interviews
 Video content
 --------------------
 
-* [Participation at the Gala Forces AVENIR 2025](https://forcesavenir.com/gala-forces-avenir/27e-edition-du-gala-forces-avenir-universitaire-2025/), 2025/10/15.
+* [Participation at the Gala Forces AVENIR 2025](https://forcesavenir.com/gala-forces-avenir/27e-edition-du-gala-forces-avenir-universitaire-2025/), Forces AVENIR, 2025/10/15.
 * [Finale nationale de Ma Thèse en 180 secondes](https://www.youtube.com/watch?v=yQVabpSwwXc&list=PL9zimENn6GXcVy4IVrhc-_uFSxBOzQ1gH&index=16), ACFAS, Université d'Ottawa, 2024/05/15.
 * [Étudier à l'INRS: tous les atouts pour réussir](https://www.youtube.com/watch?v=N5mxOkml19g), YouTube, 2019/04/23.
