@@ -57,15 +57,15 @@ Scientific reports
 Popular science articles
 -------------------
 
-5. **J Boudreault**\*, C Campagna, F Chebana (2025). [Respecter l’Accord de Paris : un levier pour réduire les coûts de santé de la chaleur extrême au Québec](https://climatoscope.ca/wp-content/uploads/2025/09/Pages-from-Le_Climatoscope_Num7_2025_Boudreault.pdf), *Le Climatoscope*, Volume 7: 21-26.
+5. **J Boudreault**\*, C Campagna, F Chebana (2025). [Respecter l’Accord de Paris : un levier pour réduire les coûts de santé de la chaleur extrême au Québec](https://climatoscope.ca/wp-content/uploads/2025/09/Pages-from-Le_Climatoscope_Num7_2025_Boudreault.pdf), *Le Climatoscope*, 7: 21-26.
 
 4.  **J Boudreault**\*, C Campagna, F Chebana (2023). [Les canicules engendrent des coûts. Voici pourquoi il est important de les quantifier](https://theconversation.com/les-canicules-engendrent-des-couts-voici-pourquoi-il-est-important-de-les-quantifier-207749), La Conversation.
 
 3.  **J Boudreault**\*, C Campagna, F Chebana (2023). [Heatwaves have a cost. Here’s why it’s important to quantify it](https://theconversation.com/heat-waves-have-a-cost-heres-why-its-important-to-quantify-it-213141), The Conversation.
 
-2. **J Boudreault**\* & M Qinche\* [Qu'est-ce qui se cache dans les poubelles de l'INRS](https://jeremieboudreault.github.io/files/LaSynthese_HS_Dechets_WEB_FRv2.pdf), Journal La Synthèse. 1-9.
+2. **J Boudreault**\* & M Qinche\* [Qu'est-ce qui se cache dans les poubelles de l'INRS ?](https://jeremieboudreault.github.io/files/LaSynthese_HS_Dechets_WEB_FRv2.pdf), Journal La Synthèse. 1-9.
 
-1. **J Boudreault**\* (2022) [Ma passion pour l'INRS, de la maîtrise au doctorat](https://inrs.ca/actualites/ma-recherche-en-serie-la-passion-pour-lenvironnement-de-jeremie-boudreault-de-la-maitrise-au-doctorat/), INRS website.
+1. **J Boudreault**\* (2022) [Ma passion pour l'environnement, de la maîtrise au doctorat !](https://inrs.ca/actualites/ma-recherche-en-serie-la-passion-pour-lenvironnement-de-jeremie-boudreault-de-la-maitrise-au-doctorat/), INRS website.
 {: reversed="reversed"}
 
 
