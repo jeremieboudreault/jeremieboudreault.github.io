@@ -8,6 +8,8 @@ author_profile: true
 Lecturer
 ----------
 
+* **Winter 2026** : ACT4114/6114 - Statistical learning, Laval University
+
 * **Winter 2025** : ACT4114/6114 - Statistical learning, Laval University
 
 Co-lecturer
