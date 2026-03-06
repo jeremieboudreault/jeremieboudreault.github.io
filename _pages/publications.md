@@ -9,6 +9,8 @@ author_profile: true
 Published journal articles
 ---------------
 
+16. KN Cowan\*, **J Boudreault**, K LeMasters, L Brinkley-Rubinstein (2026). Lagged and non-linear effects of temperature extremes on mortality in US federal prisons: a case-crossover study, 2009-2021. [*Accepted in Epidemiology*]
+
 15. **J Boudreault\***, F Lamothe, C Campagna, F Chebana (2025). [Machine learning for modelling the health impacts of extreme heat: a comprehensive literature review](https://doi.org/10.1016/j.envint.2025.109965). *Environment International*. 206(109965): 1-15.
 
 14. **J Boudreault\***, KE McLean, SB Henderson (2025). [Exploring the relationship between medications and heat-related community deaths during the 2021 heat dome: a hybrid approach using machine learning](https://doi.org/10.1016/j.ebiom.2025.105788). *eBioMedicine*. 117(105788): 1-14.
@@ -44,7 +46,11 @@ Published journal articles
 Submitted articles
 ---------------
 
-1. KN Cowan\*, **J Boudreault**, K LeMasters, L Brinkley-Rubinstein (2025). Lagged and non-linear effects of temperature extremes on mortality in US federal prisons: a case-crossover study, 2009-2021. [*Revision requested*]
+2. **J Boudreault\***, N Rivest, F Lamothe, E Lavigne, C Campagna, F Chebana (2026). *Net increase in temperature-related mortality: projected cold spells, heatwaves and health impacts in Quebec, Canada*.
+
+1. **J Boudreault\***, S Calcaneo, F Lamothe, E Lavigne, C Campagna, F Chebana (2026). *The influence of the COVID-19 pandemic period on heat-related and cold-related mortality in Quebec, Canada*.
+
+{: reversed="reversed"}
 
 Scientific reports
 ---------------
