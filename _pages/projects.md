@@ -5,6 +5,17 @@ permalink: /projects/
 author_profile: true
 ---
 
+Climate effects in a large health insurance Canadian cohort [2026-] 👤🇨🇦
+-------------------
+
+*As part as my post-doctoral fellowship at McGill.*
+
+- Assessing the relationship between different environmental exposures and medication dispensations across Canada
+- Studying exposures to extreme temperatures, wildfires and flooding
+- Partenering with large health insurer in Canada
+
+---
+
 Climate-related health costs and adaptation measures ❄️☀️🌳 [2025-]
 -------------------
 
@@ -16,20 +27,29 @@ Climate-related health costs and adaptation measures ❄️☀️🌳 [2025-]
 
 ---
 
-Heat-related health and economic effects using data science 🌇 [2021-]
+COMPLETED: Medications related to heat-related mortality using machine learning 💊🥵 [2024] 
+-------------------
+*As part as of a research internship at UBC and BC Centre for Disease Control*
+
+- Analyzing medications increasing heat-related mortality during the 2021 heat dome
+- Using case-crossover and case-only design with linked health data 
+
+*Related publications* : [Papers #14](https://jeremieboudreault.github.io/publications/)
+
+Heat-related health and economic effects using data science 🌇 [2021-2025]
 -------------------
 
-*As part of my Ph. D. at INRS and my research internships at INSPQ and BCCDC/UBC.*
+*As part of my Ph. D. at INRS and my research internships at INSPQ*
 
 - Modelling the heat-related health impacts using machine and deep learning models
 - Estimating the heat burden and associated health costs with projected climate change
-- Analyzing vulnerability factors to extreme heat such as medication use and schizophrenia 
+- Analyzing vulnerability factors to extreme heat such as  schizophrenia 
 
 *An example of results for health costs in Quebec* :
 
 <img src = "/../files/fig_proj_3.png" />
 
-*Related publications* : [Papers #5–#7, #10, #12-#15, Reports #1-#2](https://jeremieboudreault.github.io/publications/)
+*Related publications* : [Papers #5–#7, #10, #12, #13, #15, Reports #1-#2](https://jeremieboudreault.github.io/publications/)
 
 ---
 
