@@ -5,10 +5,10 @@ permalink: /projects/
 author_profile: true
 ---
 
-Climate effects in a large health insurance Canadian cohort [2026-] 👤🇨🇦
+Climate effects in a large health insurance Canadian cohort (2026-) 👤🇨🇦
 -------------------
 
-*As part as my post-doctoral fellowship at McGill.*
+*As part as my post-doctoral fellowship at McGill, funded by CIHR.*
 
 - Assessing the relationship between different environmental exposures and medication dispensations across Canada
 - Studying exposures to extreme temperatures, wildfires and flooding
@@ -16,10 +16,10 @@ Climate effects in a large health insurance Canadian cohort [2026-] 👤🇨🇦
 
 ---
 
-Climate-related health costs and adaptation measures ❄️☀️🌳 [2025-]
+Climate-related health costs and adaptation measures (2025-) ❄️☀️🌳 
 -------------------
 
-*As part of a research grant funded by Actions concertées of FRQ and MELCCFP.*
+*As part of a research grant funded by Actions concertées, funded by FRQ and MELCCFP.*
 
 - Modelling the health burden of summer and winter conditions in Quebec
 - Projecting the associated health costs under various climate change scenarios
@@ -27,19 +27,19 @@ Climate-related health costs and adaptation measures ❄️☀️🌳 [2025-]
 
 ---
 
-COMPLETED: Medications related to heat-related mortality using machine learning 💊🥵 [2024] 
+[Completed] Medications related to heat-related mortality using machine learning (2026) 💊🥵
 -------------------
-*As part as of a research internship at UBC and BC Centre for Disease Control*
+*As part as of a research internship at UBC and BC Centre for Disease Control, funded by MES and BCCDC.*
 
 - Analyzing medications increasing heat-related mortality during the 2021 heat dome
 - Using case-crossover and case-only design with linked health data 
 
 *Related publications* : [Papers #14](https://jeremieboudreault.github.io/publications/)
 
-Heat-related health and economic effects using data science 🌇 [2021-2025]
+[Completed] Heat-related health and economic effects using data science (2021-2025) 🌇
 -------------------
 
-*As part of my Ph. D. at INRS and my research internships at INSPQ*
+*As part of my Ph. D. at INRS and my research internship at INSPQ, funded by Ouranos, NSERC, CIHR and INSPQ.*
 
 - Modelling the heat-related health impacts using machine and deep learning models
 - Estimating the heat burden and associated health costs with projected climate change
@@ -53,7 +53,7 @@ Heat-related health and economic effects using data science 🌇 [2021-2025]
 
 ---
 
-Climate-related risks in insurance contexts ⛈ [2019-2022] 
+[Completed] Climate-related risks in insurance contexts (2019-2022) ⛈🏠
 -------------------
 
 *As part of my research scientist position at The Co-operators in collaboration with UQÀM.*
@@ -70,10 +70,10 @@ Climate-related risks in insurance contexts ⛈ [2019-2022]
 
 ---
 
-Functional regression models in ecohydrology 🏞 [2016-2019] 
+[Completed] Functional regression models in ecohydrology (2016-2019) 🏞
 ------------------ 
 
-*As part of my M. Sc. in statistical hydrology at INRS.*
+*As part of my M. Sc. in statistical hydrology at INRS, funded by NSERC.*
 
 - Statistical modelling of ecohydrological variables (streamflow, temperature, etc.)
 - Functional data analysis of the physico-thermal fish habitat
