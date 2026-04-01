@@ -5,18 +5,18 @@ permalink: /projects/
 author_profile: true
 ---
 
-Climate effects in a large health insurance Canadian cohort (2026-) 👤🇨🇦
+Climate effects in a large health insurance Canadian cohort (2026—) 👤🇨🇦
 -------------------
 
 *As part as my post-doctoral fellowship at McGill, funded by CIHR.*
 
-- Assessing the relationship between different environmental exposures and medication dispensations across Canada
-- Studying exposures to extreme temperatures, wildfires and flooding
-- Partenering with large health insurer in Canada
+- Assessing the relationship between  environmental exposures and medication dispensations
+- Studying various exposures such as extreme temperatures, wildfires and flooding
+- Collaborating with a leading health insurer in Canada
 
 ---
 
-Climate-related health costs and adaptation measures (2025-) ❄️☀️🌳 
+Climate-related health costs and adaptation measures (2025—) ❄️☀️🌳 
 -------------------
 
 *As part of a research grant funded by Actions concertées, funded by FRQ and MELCCFP.*
@@ -27,7 +27,7 @@ Climate-related health costs and adaptation measures (2025-) ❄️☀️🌳
 
 ---
 
-[Completed] Medications related to heat-related mortality using machine learning (2026) 💊🥵
+Medications and heat-related mortality using machine learning (2024) 💊🥵
 -------------------
 *As part as of a research internship at UBC and BC Centre for Disease Control, funded by MES and BCCDC.*
 
@@ -36,7 +36,9 @@ Climate-related health costs and adaptation measures (2025-) ❄️☀️🌳
 
 *Related publications* : [Papers #14](https://jeremieboudreault.github.io/publications/)
 
-[Completed] Heat-related health and economic effects using data science (2021-2025) 🌇
+---
+
+Heat-related health and economic effects using data science (2021-2025) 🌇
 -------------------
 
 *As part of my Ph. D. at INRS and my research internship at INSPQ, funded by Ouranos, NSERC, CIHR and INSPQ.*
@@ -53,7 +55,7 @@ Climate-related health costs and adaptation measures (2025-) ❄️☀️🌳
 
 ---
 
-[Completed] Climate-related risks in insurance contexts (2019-2022) ⛈🏠
+Climate-related risks in insurance contexts (2019-2022) ⛈🏠
 -------------------
 
 *As part of my research scientist position at The Co-operators in collaboration with UQÀM.*
@@ -70,7 +72,7 @@ Climate-related health costs and adaptation measures (2025-) ❄️☀️🌳
 
 ---
 
-[Completed] Functional regression models in ecohydrology (2016-2019) 🏞
+Functional regression models in ecohydrology (2016-2019) 🏞
 ------------------ 
 
 *As part of my M. Sc. in statistical hydrology at INRS, funded by NSERC.*
