@@ -14,17 +14,18 @@ My research focuses on modelling the health and economic impacts of climate risk
 
 My current and past projects are available [here](https://jeremieboudreault.github.io/projects/). 
 
+News 🆕
+----------
+
+* I recently joined the [McGill Centre for Climate Change and Health](https://www.mcgill.ca/climatehealth/) as a postdoctoral fellow, working on extreme temperature and wildfires.
+* I sucessfully [defended my PhD thesis]https://www.linkedin.com/posts/jeremieboudreault_la-semaine-derni%C3%A8re-jai-d%C3%A9fendu-avec-succ%C3%A8s-activity-7429513753869692928-obgx?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABo69O0Br5d-4eKBlGg70EkvdLE8nZkqudE) on Febraury 9, 2026, at INRS.
+* Our literature review on [machine learning for modelling heat-related health impacts](https://doi.org/10.1016/j.envint.2025.109965) was published in *Environment International*.
+
+
 Hiring 🚨 
 ----------
 
 If you are interested in joining my research group, please send me an email include 1) a cover letter including your research interst, 2) your academic CV and 3) your transcripts for all your studies. 
-
-
-News 🆕
-----------
-
-* Our literature review on [machine learning for modelling heat-related health impacts](https://doi.org/10.1016/j.envint.2025.109965) was published in *Environment International*, 2025/11/25.
-* Our general public article on [the Paris Agreement and heat-related health costs](https://climatoscope.ca/wp-content/uploads/2025/09/Pages-from-Le_Climatoscope_Num7_2025_Boudreault.pdf) was published in *Le Climatoscope*, 2025/10/03.
 
 
 About me 📃
