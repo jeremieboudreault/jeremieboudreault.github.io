@@ -8,7 +8,7 @@ author_profile: true
 Climate effects in a large health insurance Canadian cohort (2026—) 👤🇨🇦
 -------------------
 
-*As part as my post-doctoral fellowship at McGill, funded by CIHR.*
+*As part as my postdoctoral fellowship at McGill, funded by CIHR.*
 
 - Assessing the relationship between  environmental exposures and medication dispensations
 - Studying various exposures such as extreme temperatures, wildfires and flooding
@@ -19,7 +19,7 @@ Climate effects in a large health insurance Canadian cohort (2026—) 👤🇨�
 Climate-related health costs and adaptation measures (2025—) ❄️☀️🌳 
 -------------------
 
-*As part of a research grant funded by Actions concertées, funded by FRQ and MELCCFP.*
+*As part of a research grant funded by Actions concertées of FRQ and MELCCGP.*
 
 - Modelling the health burden of summer and winter conditions in Quebec
 - Projecting the associated health costs under various climate change scenarios
@@ -27,18 +27,18 @@ Climate-related health costs and adaptation measures (2025—) ❄️☀️🌳
 
 ---
 
-Medications and heat-related mortality using machine learning (2024) 💊🥵
+Medications and heat-related mortality using machine learning (2024) 💊
 -------------------
-*As part as of a research internship at UBC and BC Centre for Disease Control, funded by MES and BCCDC.*
+*As part as of a research internship at UBC and BCCDC, funded by MES and Health Canada.*
 
 - Analyzing medications increasing heat-related mortality during the 2021 heat dome
 - Using case-crossover and case-only design with linked health data 
 
-*Related publications* : [Papers #14](https://jeremieboudreault.github.io/publications/)
+*Related publications* : [Paper #14](https://jeremieboudreault.github.io/publications/)
 
 ---
 
-Heat-related health and economic effects using data science (2021-2025) 🌇
+Health and economic impacts of extreme heat (2021-2025) 🌇
 -------------------
 
 *As part of my Ph. D. at INRS and my research internship at INSPQ, funded by Ouranos, NSERC, CIHR and INSPQ.*
