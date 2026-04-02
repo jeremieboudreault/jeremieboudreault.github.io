@@ -19,7 +19,7 @@ Climate effects in a large health insurance Canadian cohort (2026—) 👤🇨�
 Climate-related health costs and adaptation measures (2025—) ❄️☀️🌳 
 -------------------
 
-*As part of a research grant funded by Actions concertées of FRQ and MELCCGP.*
+*As part of a research grant funded by Actions concertées of FRQ and MELCCFP.*
 
 - Modelling the health burden of summer and winter conditions in Quebec
 - Projecting the associated health costs under various climate change scenarios
