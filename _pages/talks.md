@@ -8,10 +8,18 @@ author_profile: true
 Upcoming talks
 -------------------
 
+1. **J Boudreault\*** (2026) [Changements climatiques et santé : modéliser les coûts pour guider l’action via une approche interdisciplinaire](https://ieds.ulaval.ca/recherche/axes-de-developpement/jeunesse-et-action-climatique/rendez-vous-de-laction-climatique), Rendez-vous de l’action climatique. 2026/05/25. Québec, QC, Canada
+
+2. **J Boudreault\***, (2026) [Innovating for Resilience: AdaptTech, AI, and the Role of Digital Tech in Adaptation.](https://adaptationcanada2026.ca/program/), Adaptation Canada 2026.  2026/09/23. Toronto, ON, Canada. **[Panelist]**
+
+
 📧 Email me at jeremie [dot] boudreault [at] inrs [dot] ca to schedule a talk.
 
 Past talks
 -------------------
+
+41.  **J Boudreault\*** (2026) [Impacts sanitaires et économiques de la chaleur au Québec avec approches de la science des données.](https://inrs.ca/linrs/nouvelles/evenements/soutenance-de-these-jeremie-boudreault/) Soutenance de thèse. 2026/02/09. Québec. QC, Canada.
+
 
 40. **J Boudreault\***, F Chebana (2025) Aperçu des travaux de recherche sur la chaleur extrême de l'INRS, Forum sur la chaleur. 2025/12/09. Montréal, QC, Canada **[Invited speaker]**
 
