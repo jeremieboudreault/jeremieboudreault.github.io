@@ -9,7 +9,7 @@ redirect_from:
 
 Education
 ---------------
-* **2026** : Ph. D., Data science and environmental health**, INRS
+* **2026** : Ph. D., Data science and environmental health, INRS
 * **2018** : M. Sc., Statistical hydrology, INRS
 * **2016** : B. Sc., Actuarial science, Laval University
 
@@ -20,12 +20,12 @@ Work experience
   * McGill University
 
 * **2024** : Research internship abroad
-  * BC Centre for Disease Control & University of British Columbia (UBC)
+  * University of British Columbia (UBC) & BC Centre for Disease Contro
 
-* **2022-2023** : Research internship - Health system impact fellowship (HSIF)
-  * Climate change and health, Quebec National Institute of Public Health (INSPQ)
+* **2022-2023** : Research fellowship
+  * Quebec National Institute of Public Health (INSPQ)
 
-* **2019-2022** : Research scientist in climate risk modelling
+* **2019-2022** : Research scientist
   * Climatic Hazards and Advanced Risk Modelling, The Co-operators
 
 * **2014-2015**: Actuarial intern
@@ -38,7 +38,7 @@ Grants
 Scholarships 
 ---------------
 * **2026- : Canada Postdoctoral Research Award**, CIHR (140 000$)
-* **2026** : Bourses postdoctorales en recherche, FRQ-S (90 000$) [Declined]
+* **2026** : Postdoctoral Research scholarship, FRQ-S (90 000$) [Declined]
 * **2022-2026** : Vanier Canada Graduate scholarship, NSERC (150 000$)
 * **2022-2026** : Real-Decoste Excellence scholarship, Ouranos (60 000$)
 * **2022-2023** : Health System Impact Fellowship - Equitable AI stream, CIHR (50 000$)
