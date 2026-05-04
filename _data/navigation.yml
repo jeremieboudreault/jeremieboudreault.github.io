@@ -15,5 +15,8 @@ main:
   - title: "Medias"
     url: /medias/    
 
+  - title: "Lab"
+    url: "/lab/"
+
   - title: "CV"
     url: /cv/
