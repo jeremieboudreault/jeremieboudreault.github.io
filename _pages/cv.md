@@ -9,12 +9,16 @@ redirect_from:
 
 Education
 ---------------
-* **2021- : Ph. D., Data science and environmental health**, INRS
+* **2026** : Ph. D., Data science and environmental health**, INRS
 * **2018** : M. Sc., Statistical hydrology, INRS
 * **2016** : B. Sc., Actuarial science, Laval University
 
 Work experience
 ---------------
+
+* **2026- : Postdoctoral researcher**
+  * McGill University
+
 * **2024** : Research internship abroad
   * BC Centre for Disease Control & University of British Columbia (UBC)
 
@@ -27,15 +31,19 @@ Work experience
 * **2014-2015**: Actuarial intern
   * Actuarial pricing (2014), BI & Special projects (2015), SSQ General Insurance
 
-
-Scholarships and grants
+Grants
 ---------------
 * **2025- : [Research grant on the economic impacts of climate change](https://frq.gouv.qc.ca/plus-de-27-m-pour-soutenir-la-recherche-portant-sur-les-impacts-economiques-des-changements-climatiques/)**, FRQ (300 000$) [Co-researcher]
-* **2022- : Vanier Canada Graduate scholarship**, NSERC (150 000$)
-* **2022- : Real-Decoste Excellence scholarship**, Ouranos (60 000$)
+
+Scholarships 
+---------------
+* **2026- : Canada Postdoctoral Research Award**, CIHR (140 000$)
+* **2026** : Bourses postdoctorales en recherche, FRQ-S (90 000$) [Declined]
+* **2022-2026** : Vanier Canada Graduate scholarship, NSERC (150 000$)
+* **2022-2026** : Real-Decoste Excellence scholarship, Ouranos (60 000$)
 * **2022-2023** : Health System Impact Fellowship - Equitable AI stream, CIHR (50 000$)
 * **2022** : Canada Graduate scholarship - Doctoral, NSERC (105 000$) [Declined]
-* **2022** : Doctoral Research scholarship, FRQNT (84 000$) [Declined]
+* **2022** : Doctoral Research scholarship, FRQ-NT (84 000$) [Declined]
 * **2021-2022** : Student Research scholarship, INSPQ (14 000$)
 * **2017-2018** : Canada Graduate scholarship - Master, NSERC (17 500$)
 
@@ -62,7 +70,6 @@ Supervision
 * **2023-** : 5 trainees and 3 master's students, Doctoral project, INRS & INSPQ
 * **2020-2022** : 3 data analysts and 2 Mitacs master's students, The Co-operators
 * **2017-2018** : 7 trainees et 3 research assistants, Master's project, INRS
-
 
 Teaching
 ---------------
