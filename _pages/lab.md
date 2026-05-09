@@ -5,6 +5,8 @@ permalink: /lab/
 author_profile: true
 ---
 
+Welcome **Re²ACT**, the *Resarch lab on hEalth and Economic impacts of Adverse Climate exTremes* — *Laboratoire sur les Risques sanitaires et économiques des aléas climatiques*. 
+
 Current lab members
 ----------
 
