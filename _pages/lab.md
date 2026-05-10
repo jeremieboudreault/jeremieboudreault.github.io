@@ -13,10 +13,10 @@ Welcome to **Re²ACT**, the **R**esarch lab on h**e**alth and **e**conomic impac
 Current lab members
 ----------
 
-- **André-Anne Lavoie** (2025–): M. Sc. student, NSERC scholar *[*Co-director*]
-- **Sandrine Gagnon** (2025–): M. Sc. student, CIHR scholar [*Co-director*]
-- **Éloi Larouche** (2026–): Summer undergraduate trainee, NSERC scholar
-- **Philippe Nadeau** (2026–): Summer undergraduate trainee, NSERC scholar
+- **André-Anne Lavoie** (2025–): M. Sc. student, NSERC scholar [*Co-supervision*]
+- **Sandrine Gagnon** (2025–): M. Sc. student, CIHR scholar [*Co-supervision*]
+- **Éloi Larouche** (2026): Summer undergraduate trainee, NSERC scholar
+- **Philippe Nadeau** (2026): Summer undergraduate trainee, NSERC scholar
 
 Past members
 ----------
