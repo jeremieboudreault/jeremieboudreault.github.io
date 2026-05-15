@@ -20,7 +20,7 @@ News 🆕
 * I successfully [defended my PhD thesis](https://www.linkedin.com/posts/jeremieboudreault_la-semaine-derni%C3%A8re-jai-d%C3%A9fendu-avec-succ%C3%A8s-activity-7429513753869692928-obgx?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABo69O0Br5d-4eKBlGg70EkvdLE8nZkqudE) at INRS
 * Our literature review on [machine learning for modelling heat-related health impacts](https://doi.org/10.1016/j.envint.2025.109965) was published in *Environment International*
 
-👴🏻
+
 Hiring 🚨 
 ----------
 
