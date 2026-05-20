@@ -9,6 +9,7 @@ author_profile: true
 Published journal articles
 ---------------
 
+16. KN Cowan\*, **J Boudreault**, K LeMasters, L Brinkley-Rubinstein (2026). [Lagged and non-linear effects of temperature extremes on mortality in US federal prisons: a case-crossover study, 2009-2021](doi.org/10.1097/EDE.0000000000002007). *Epidemiology*.
 
 15. **J Boudreault\***, F Lamothe, C Campagna, F Chebana (2025). [Machine learning for modelling the health impacts of extreme heat: a comprehensive literature review](https://doi.org/10.1016/j.envint.2025.109965). *Environment International*. 206(109965): 1-15.
 
@@ -45,14 +46,11 @@ Published journal articles
 Submitted articles
 ---------------
 
-1. KN Cowan\*, **J Boudreault**, K LeMasters, L Brinkley-Rubinstein (2026). Lagged and non-linear effects of temperature extremes on mortality in US federal prisons: a case-crossover study, 2009-2021. [***Accepted in Epidemiology***]
+1. **J Boudreault\***, S Calcaneo, F Lamothe, E Lavigne, C Campagna, F Chebana (2026). *Quantifying heat-related and cold-related mortality burden in the context of the COVID-19 pandemic in Quebec, Canada (2000-2024).*
 
-2. **J Boudreault\***, S Calcaneo, F Lamothe, E Lavigne, C Campagna, F Chebana (2026). *Quantifying heat-related and cold-related mortality burden in the context of the COVID-19 pandemic in Quebec, Canada (2000-2024).*
+2. **J Boudreault\***, N Rivest, F Lamothe, E Lavigne, C Campagna, F Chebana (2026). *Net increase in temperature-related mortality: projected cold spells, heatwaves and health impacts in Quebec, Canada*.
 
-3. **J Boudreault\***, N Rivest, F Lamothe, E Lavigne, C Campagna, F Chebana (2026). *Net increase in temperature-related mortality: projected cold spells, heatwaves and health impacts in Quebec, Canada*.
-
-
-4. **J Boudreault\***, A Halladja, F Lamothe, E Lavigne, C Campagna, F Chebana (2026). *Mortality and morbidity associated with winter weather conditions revealed by machine learning models*.
+3. **J Boudreault\***, A Halladja, F Lamothe, E Lavigne, C Campagna, F Chebana (2026). *Mortality and morbidity associated with winter weather conditions revealed by machine learning models*.
 
 
 Scientific reports
