@@ -9,7 +9,7 @@ author_profile: true
 Published journal articles
 ---------------
 
-16. KN Cowan\*, **J Boudreault**, K LeMasters, L Brinkley-Rubinstein (2026). [Lagged and non-linear effects of temperature extremes on mortality in US federal prisons: a case-crossover study, 2009-2021](doi.org/10.1097/EDE.0000000000002007). *Epidemiology*.
+16. KN Cowan\*, **J Boudreault**, K LeMasters, L Brinkley-Rubinstein (2026). [Lagged and non-linear effects of temperature extremes on mortality in US federal prisons: a case-crossover study, 2009-2021](https://doi.org/10.1097/EDE.0000000000002007). *Epidemiology*.
 
 15. **J Boudreault\***, F Lamothe, C Campagna, F Chebana (2025). [Machine learning for modelling the health impacts of extreme heat: a comprehensive literature review](https://doi.org/10.1016/j.envint.2025.109965). *Environment International*. 206(109965): 1-15.
 
