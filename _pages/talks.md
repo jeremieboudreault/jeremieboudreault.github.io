@@ -10,7 +10,13 @@ Upcoming talks
 
 1. **J Boudreault\*** (2026) [Changements climatiques et santé : modéliser les coûts pour guider l’action via une approche interdisciplinaire](https://ieds.ulaval.ca/recherche/axes-de-developpement/jeunesse-et-action-climatique/rendez-vous-de-laction-climatique), Rendez-vous de l’action climatique. 2026/05/25. Québec, QC, Canada
 
-2. **J Boudreault\***, (2026) [Innovating for Resilience: AdaptTech, AI, and the Role of Digital Tech in Adaptation.](https://adaptationcanada2026.ca/program/), Adaptation Canada 2026.  2026/09/23. Toronto, ON, Canada. **[Panelist]**
+2. N Rivest*, F Lamothe, E Lavigne, C Campagna, F Chebana, **J Boudreault** (2026) [Modélisation de la mortalité liée aux vagues de chaleur et froid au Québec](https://cimmul.fsg.ulaval.ca/), Séminaires étudiants du CIMMUL. 2025/07/09. Québec, QC. Canada.
+
+3. **J Boudreault\***, A Halladja, A Ruf, F Lamothe, KE McLean, SB Henderson, C Campagna, F Chebana (2026) [Machine learning for tackling climate-health risks](https://ai4ph-hrtp.ca/ai4ph-summer-institute/), AI4PH Research and Implementation Symposium. 2026/07/20. Montréal, QC, Canada.
+
+4. **J Boudreault**, N Rivest, F Lamothe, E Lavigne\*, C Campagna, F Chebana (2026) [Net increase in temperature-related mortality under climate change scenarios: results from projected heatwaves and cold spells in Quebec, Canada](https://www.isee26.org/), International Society for Environmental Epidemiology. 2026/08/30. Munich, Germany.
+
+5. **J Boudreault\*** (2026) [Innovating for Resilience: AdaptTech, AI, and the Role of Digital Tech in Adaptation.](https://adaptationcanada2026.ca/program/), Adaptation Canada 2026.  2026/09/23. Toronto, ON, Canada. **[Panelist]**
 
 
 📧 Email me at jeremie [dot] boudreault [at] inrs [dot] ca to schedule a talk.
@@ -20,9 +26,7 @@ Past talks
 
 41.  **J Boudreault\*** (2026) [Impacts sanitaires et économiques de la chaleur au Québec avec approches de la science des données.](https://inrs.ca/linrs/nouvelles/evenements/soutenance-de-these-jeremie-boudreault/) Soutenance de thèse. 2026/02/09. Québec. QC, Canada.
 
-
 40. **J Boudreault\***, F Chebana (2025) Aperçu des travaux de recherche sur la chaleur extrême de l'INRS, Forum sur la chaleur. 2025/12/09. Montréal, QC, Canada **[Invited speaker]**
-
 
 39. **J Boudreault\*** (2025) Chaleur extrême : la recherche scientifique pour modéliser les impacts à la santé et les coûts, Dîner-causerie du syndicat du CISSS de Lanaudière. 2025/09/26. En ligne. **[Invited speaker]**
 
