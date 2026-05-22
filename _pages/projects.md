@@ -25,6 +25,8 @@ Climate-related health costs and adaptation measures (2025—) ❄️☀️🌳
 - Projecting the associated health costs under various climate change scenarios
 - Analyzing the cost and benefits of different adaptation measures
 
+*Related publications* : [Paper #17](https://jeremieboudreault.github.io/publications/)
+
 ---
 
 Medications and heat-related mortality using machine learning (2024) 💊
