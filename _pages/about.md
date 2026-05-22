@@ -15,10 +15,9 @@ My current and past projects are available [here](https://jeremieboudreault.gith
 News 🆕
 ----------
 
-* Our paper and heat- and cold-related mortality during the COVID-19 pandemic was published in [*Environmental Research: Health*](https://doi.org/10.1088/2752-5309/ae714d)
-* Our paper on extreme temperature and mortality in US prisons was published in [*Epidemiology*](https://doi.org/10.1097/EDE.0000000000002007)
-* I received both CIHR and FRQ-S scholarships for my postdoctoral project
-* I recently joined the [McGill Centre for Climate Change and Health](https://www.mcgill.ca/climatehealth/) as a postdoctoral researcher
+* Our paper on [heat- and cold-related mortality during the COVID-19 pandemic](https://doi.org/10.1088/2752-5309/ae714d) was published in *Environmental Research: Health*
+* Our paper on [extreme temperature and mortality in US federal prisons](https://doi.org/10.1097/EDE.0000000000002007) was published in *Epidemiology*
+* I received both CIHR and FRQ-S scholarships for my postdoctoral fellowship at [McGill](https://www.mcgill.ca/climatehealth/)
 
 Hiring 🚨
 ----------
