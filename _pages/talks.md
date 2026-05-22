@@ -10,13 +10,13 @@ Upcoming talks
 
 1. **J Boudreault\*** (2026) [Changements climatiques et santé : modéliser les coûts pour guider l’action via une approche interdisciplinaire](https://ieds.ulaval.ca/recherche/axes-de-developpement/jeunesse-et-action-climatique/rendez-vous-de-laction-climatique), Rendez-vous de l’action climatique. 2026/05/25. Québec, QC, Canada
 
-2. N Rivest*, F Lamothe, E Lavigne, C Campagna, F Chebana, **J Boudreault** (2026) [Modélisation de la mortalité liée aux vagues de chaleur et froid au Québec](https://cimmul.fsg.ulaval.ca/), Séminaires étudiants du CIMMUL. 2025/07/09. Québec, QC. Canada.
+2. N Rivest*, F Lamothe, E Lavigne, C Campagna, F Chebana, **J Boudreault** (2026) [Modélisation de la mortalité liée aux vagues de chaleur et de froid au Québec en contexte de changements climatiques](https://cimmul.fsg.ulaval.ca/), Séminaires étudiants du CIMMUL. 2025/07/09. Québec, QC. Canada.
 
 3. **J Boudreault\***, A Halladja, A Ruf, F Lamothe, KE McLean, SB Henderson, C Campagna, F Chebana (2026) [Machine learning for tackling climate-health risks](https://ai4ph-hrtp.ca/ai4ph-summer-institute/), AI4PH Research and Implementation Symposium. 2026/07/20. Montréal, QC, Canada.
 
-4. **J Boudreault**, N Rivest, F Lamothe, E Lavigne\*, C Campagna, F Chebana (2026) [Net increase in temperature-related mortality under climate change scenarios: results from projected heatwaves and cold spells in Quebec, Canada](https://www.isee26.org/), International Society for Environmental Epidemiology. 2026/08/30. Munich, Germany.
+4. **J Boudreault**, N Rivest, F Lamothe, E Lavigne\*, C Campagna, F Chebana (2026) [Net increase in temperature-related mortality under climate change scenarios: results from projected heatwaves and cold spells in Quebec, Canada](https://www.isee26.org/), International Society for Environmental Epidemiology. 2026/08/30. Munich, Germany. [Poster]
 
-5. **J Boudreault\*** (2026) [Innovating for Resilience: AdaptTech, AI, and the Role of Digital Tech in Adaptation.](https://adaptationcanada2026.ca/program/), Adaptation Canada 2026.  2026/09/23. Toronto, ON, Canada. **[Panelist]**
+5. **J Boudreault\*** (2026) [Innovating for Resilience: AdaptTech, AI, and the Role of Digital Tech in Adaptation](https://adaptationcanada2026.ca/program/), Adaptation Canada 2026.  2026/09/23. Toronto, ON, Canada. **[Panelist]**
 
 
 📧 Email me at jeremie [dot] boudreault [at] inrs [dot] ca to schedule a talk.
