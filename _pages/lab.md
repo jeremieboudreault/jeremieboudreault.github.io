@@ -8,7 +8,7 @@ author_profile: true
 **  **
 
 
-Welcome to **Re²ACT**, the **R**esarch lab on h**e**alth and **e**conomic impacts of **a**dverse **c**limate ex**t**remes (*Laboratoire sur les risques sanitaires et économiques des aléas climatiques*). 
+Welcome to **Re²ACT**, the **R**esarch lab on h**e**alth and **e**conomic risks of **a**dverse **c**limate ex**t**remes (*Laboratoire sur les risques sanitaires et économiques des aléas climatiques*). 
 
 Current lab members
 ----------
