@@ -9,7 +9,7 @@ author_profile: true
 Published journal articles
 ---------------
 
-17. **J Boudreault\***, S Calcaneo, F Lamothe, E Lavigne, C Campagna, F Chebana (2026). [Quantifying heat-related and cold-related mortality burden in the context of the COVID-19 pandemic in Quebec, Canada (2000-2024)](https://doi.org/10.1088/2752-5309/ae714d). *Environmental Research: Health*.
+17. **J Boudreault\***, S Calcaneo, F Lamothe, E Lavigne, C Campagna, F Chebana (2026). [Quantifying heat-related and cold-related mortality burden in the context of the COVID-19 pandemic in Quebec, Canada (2000-2024)](https://doi.org/10.1088/2752-5309/ae714d). *Environmental Research: Health*. 4(025023): 1-17.
 
 
 
@@ -57,6 +57,8 @@ Submitted articles
 
 Scientific reports
 ---------------
+
+3. F Lamothe\*, M Dubé, **J Boudreault**, R Bustinza (2026). [Surveillance des impacts sanitaires de la chaleur extrême et estivale au Québec – Bilan 2025](https://www.inspq.qc.ca/publications/3833). Institut national de santé publique du Québec. 23p.
 
 2. F Lamothe\*, M Dubé, **J Boudreault**, R Bustinza (2025). [Vagues de chaleur extrême et chaleur estivale au Québec : impacts sur la santé de 2010 à 2024](https://www.inspq.qc.ca/publications/3662). Institut national de santé publique du Québec. 52 p. 
 
