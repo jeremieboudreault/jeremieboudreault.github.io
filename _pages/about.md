@@ -15,7 +15,7 @@ My current and past projects are available [here](https://jeremieboudreault.gith
 News 🆕
 ----------
 
-* I was interviewed by [Les années luminières](https://ici.radio-canada.ca/ohdio/premiere/emissions/les-annees-lumiere/segments/rattrapage/2414035/vague-chaleur-identifier-personnes-vulnerables) (Radio-Canada) to speak my research on heat-health risks
+* I was interviewed by [Les années lumières](https://ici.radio-canada.ca/ohdio/premiere/emissions/les-annees-lumiere/segments/rattrapage/2414035/vague-chaleur-identifier-personnes-vulnerables) on ICI Première to speak about my research on heat-health risks using AI
 * Our report on [heat-related health impacts in Quebec during summer 2025](https://www.inspq.qc.ca/sites/default/files/publications/3833-impacts-sanitaires-chaleur-quebec-2025.pdf) was published by *Institut national de santé publique du Québec*
 * Our paper on [heat- and cold-related mortality during the COVID-19 pandemic](https://doi.org/10.1088/2752-5309/ae714d) was published in *Environmental Research: Health*
 * Our paper on [extreme temperature and mortality in US federal prisons](https://doi.org/10.1097/EDE.0000000000002007) was published in *Epidemiology*
