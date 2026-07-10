@@ -68,9 +68,11 @@ Scientific reports
 Popular science articles
 -------------------
 
+6. **J Boudreault**\* (2026) [Voici comment l’IA peut nous aider à affronter les chaleurs extrêmes](https://theconversation.com/voici-comment-lia-peut-nous-aider-a-affronter-les-chaleurs-extremes-284276), Site web The Conversation.
+
 5. **J Boudreault**\*, C Campagna, F Chebana (2025). [Respecter l’Accord de Paris : un levier pour réduire les coûts de santé de la chaleur extrême au Québec](https://climatoscope.ca/respecter-laccord-de-paris-un-levier-pour-reduire-les-couts-de-sante-de-la-chaleur-extreme-au-quebec/), Le Climatoscope, 7: 21-26.
 
-4.  **J Boudreault**\*, C Campagna, F Chebana (2023). [Les canicules engendrent des coûts. Voici pourquoi il est important de les quantifier](https://theconversation.com/les-canicules-engendrent-des-couts-voici-pourquoi-il-est-important-de-les-quantifier-207749), Site web La Conversation.
+4.  **J Boudreault**\*, C Campagna, F Chebana (2023). [Les canicules engendrent des coûts. Voici pourquoi il est important de les quantifier](https://theconversation.com/les-canicules-engendrent-des-couts-voici-pourquoi-il-est-important-de-les-quantifier-207749), Site web The Conversation.
 
 3.  **J Boudreault**\*, C Campagna, F Chebana (2023). [Heatwaves have a cost. Here’s why it’s important to quantify it](https://theconversation.com/heat-waves-have-a-cost-heres-why-its-important-to-quantify-it-213141), The Conversation Website.
 

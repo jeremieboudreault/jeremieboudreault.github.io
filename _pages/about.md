@@ -15,6 +15,7 @@ My current and past projects are available [here](https://jeremieboudreault.gith
 News 🆕
 ----------
 
+* My article [artificial intelligence and heat-health risks](https://theconversation.com/voici-comment-lia-peut-nous-aider-a-affronter-les-chaleurs-extremes-284276) was publised on The Conversation
 * I was interviewed by [Les années lumières](https://ici.radio-canada.ca/ohdio/premiere/emissions/les-annees-lumiere/segments/rattrapage/2414035/vague-chaleur-identifier-personnes-vulnerables) on ICI Première to speak about my research on heat-health risks using AI
 * Our report on [heat-related health impacts in Quebec during summer 2025](https://www.inspq.qc.ca/sites/default/files/publications/3833-impacts-sanitaires-chaleur-quebec-2025.pdf) was published by *Institut national de santé publique du Québec*
 * Our paper on [heat- and cold-related mortality during the COVID-19 pandemic](https://doi.org/10.1088/2752-5309/ae714d) was published in *Environmental Research: Health*
