@@ -12,7 +12,7 @@ Upcoming talks
 
 2. **J Boudreault**, N Rivest, F Lamothe, E Lavigne\*, C Campagna, F Chebana (2026) [Net increase in temperature-related mortality under climate change scenarios: results from projected heatwaves and cold spells in Quebec, Canada](https://www.isee26.org/), International Society for Environmental Epidemiology. 2026/08/30. Munich, Germany. [Poster]
 
-3. E. Lavigne\*, S. Dixon, P. Wilk, **J. Boudreault**, K. Clemens (2026) [Urban Climate Adaptation: Green Space and Air Conditioning Attenuate Heat-Related Medical Emergencies in Ontario, Canada.](https://www.isee26.org/), International Society for Environmental Epidemiology. 2026/08/30. Munich, Germany. [Poster]
+3. E Lavigne\*, S Dixon, P Wilk, **J Boudreault**, K Clemens (2026) [Urban Climate Adaptation: Green Space and Air Conditioning Attenuate Heat-Related Medical Emergencies in Ontario, Canada.](https://www.isee26.org/), International Society for Environmental Epidemiology. 2026/08/30. Munich, Germany. [Poster]
 
 
 📧 Email me at jeremie [dot] boudreault [at] inrs [dot] ca to schedule a talk.
