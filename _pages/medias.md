@@ -41,6 +41,14 @@ Text interviews
 Radio interviews
 -------------------
 
+* [Comment l’IA peut nous aider à affronter les chaleurs extrêmes](https://ici.radio-canada.ca/ohdio/premiere/emissions/point-du-jour/segments/rattrapage/2428314/comment-ia-peut-nous-aider-a-affronter-chaleurs-extremes), Point du jour. ICI Sasketchewan. 2026/07/15.
+* [Comment l’IA peut nous aider à affronter les chaleurs extrêmes](https://ici.radio-canada.ca/ohdio/premiere/emissions/le-matin-du-nord/segments/rattrapage/2428038/bulletin-nouvelles-regionales), Le matin du Nord. ICI Première-Thunder Bay. 2026/07/15.
+* [Comment l’IA peut nous aider à affronter les chaleurs extrêmes](https://ici.radio-canada.ca/ohdio/premiere/emissions/matins-sans-frontieres/segments/rattrapage/2428284/comment-ia-peut-nous-aider-a-affronter-chaleurs-extremes), Des matin sans frontières ICI Première-Windsor 2026/07/15.
+* [Comment l’IA peut nous aider à affronter les chaleurs extrêmes](https://ici.radio-canada.ca/ohdio/premiere/emissions/premiere-escale/segments/rattrapage/2428072/comment-ia-peut-nous-aider-a-affronter-chaleurs-extremes), Première escale. ICI Première-Gaspésie-Îles-de-la-Madeleine. 2026/07/15.
+* [L’IA peut nous aider à affronter les chaleurs extrêmes, selon un chercheur](https://ici.radio-canada.ca/ohdio/premiere/emissions/toujours-le-matin/segments/rattrapage/2428092/entrevue-actualite), Toujours le matin. ICI Première-Mauricie-Centre du Québec. 2026/07/15.
+* [De quelles façons l’IA peut-elle limiter les conséquences des canicules?](https://ici.radio-canada.ca/ohdio/premiere/emissions/sur-le-vif/segments/rattrapage/2427560/culturel), Sur le vif. ICI Première-Ottawa-Gatineau, 2026/07/14
+* [Comment l’IA peut-elle nous aider à affronter les chaleurs extrêmes?](https://ici.radio-canada.ca/ohdio/premiere/emissions/place-publique/segments/rattrapage/2427813/comment-ia-peut-elle-nous-aider-a-affronter-chaleurs-extremes), Place Publique, ICI Première-Saguenay-Lac-Saint-Jean 2026/07/14.
+* [Utiliser l’IA pour mieux assurer la gestion des chaleurs extrêmes](https://ici.radio-canada.ca/ohdio/premiere/emissions/le-cafe-show/segments/rattrapage/2426255/entrevue), Le Café Show, ICI Première-Alberta. 2026/07/13.
 * [La chaleur coûte plus de 15 M$ chaque année au Québec](https://ici.radio-canada.ca/ohdio/premiere/emissions/premiere-heure/segments/rattrapage/2104442/effets-episodes-chaleur-extreme-sur-systeme-sante), Première heure, 2025/06/24.
 * [Les coûts sanitaires et économiques de la chaleur](https://ici.radio-canada.ca/ohdio/premiere/emissions/moteur-de-recherche/segments/rattrapage/1910988/comment-calculer-couts-sanitaires-et-economiques-vagues-chaleur), Moteur de recherche, 2024/11/12.
 * [Les impacts de la chaleur sur le réseau de la santé](https://ici.radio-canada.ca/ohdio/premiere/emissions/des-matins-en-or/segments/rattrapage/1787912/impacts-chaleur-sur-reseau-sante), Des matins en or, 2024/06/20.
