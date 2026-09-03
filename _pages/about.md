@@ -8,19 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Jérémie Boudreault, a postdoctoral researcher at McGill University, and a lecturer at Université Laval. My research focuses on modelling the health and economic impacts of climate risks such as extreme temperatures, wildfires and flooding. To that end, I leverage both novel statistical models and AI/machine learning approaches. 
+Hello! I am Jérémie Boudreault, an assistant professor in climate risks and data science at the School of actuarial science of Laval University.
+
+My research focuses on modelling the health and economic impacts of climate hazards such as extreme temperatures, wildfires and flooding. To that end, I leverage both novel statistical models and AI/machine learning approaches.
 
 My current and past projects are available [here](https://jeremieboudreault.github.io/projects/). 
 
 News 🆕
 ----------
 
+* In September, I joined Laval University as an assistant professor  🎉
 * My popular article on [artificial intelligence (AI) for tackling heat-health risks](https://theconversation.com/voici-comment-lia-peut-nous-aider-a-affronter-les-chaleurs-extremes-284276) was published in The Conversation
 * I was interviewed by [Les années lumières](https://ici.radio-canada.ca/ohdio/premiere/emissions/les-annees-lumiere/segments/rattrapage/2414035/vague-chaleur-identifier-personnes-vulnerables) on ICI Première to speak about my research on heat-health risks using AI
-* Our report on [heat-related health impacts in Quebec during summer 2025](https://www.inspq.qc.ca/sites/default/files/publications/3833-impacts-sanitaires-chaleur-quebec-2025.pdf) was published by *Institut national de santé publique du Québec*
-* Our paper on [heat- and cold-related mortality during the COVID-19 pandemic](https://doi.org/10.1088/2752-5309/ae714d) was published in *Environmental Research: Health*
-* Our paper on [extreme temperature and mortality in US federal prisons](https://doi.org/10.1097/EDE.0000000000002007) was published in *Epidemiology*
-* I received both CIHR and FRQ-S scholarships for my postdoctoral fellowship at [McGill](https://www.mcgill.ca/climatehealth/)
 
 Hiring 🚨
 ----------
@@ -31,12 +30,9 @@ If you are interested in joining [my research group](https://jeremieboudreault.g
 About me 📃
 ----------
 
-* **2026- : Postdoctoral researcher**, McGill University
-* **2025- : Lecturer**, Laval University
+* **2026- : Assistant professor**, Laval University
+* 2026 : Postdoctoral researcher**, McGill
 * 2021-2026 : Ph. D., Data science and environmental health, INRS
-* 2024 : Research intership abroad, University of British Columbia (UBC) and BCCDC
-* 2022-2023 : Research intership, INSPQ
-* 2019-2022 : Research scientist, Climate risk modelling, The Co-operators
 * 2016-2018 : M. Sc., Statistical hydrology, INRS
 * 2013-2016 : B. Sc., Actuarial science, Laval University
 
