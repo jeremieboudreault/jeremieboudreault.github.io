@@ -33,7 +33,7 @@ About me 📃
 * **2026- : Assistant professor**, Laval University
 * 2026 : Postdoctoral researcher, McGill University
 * 2021-2026 : Ph. D., Data science and environmental health, INRS
-* 2019-2021 : Research scientist, The Co-operators
+* 2019-2022 : Research scientist, The Co-operators
 * 2016-2018 : M. Sc., Statistical hydrology, INRS
 * 2013-2016 : B. Sc., Actuarial science, Laval University
 
