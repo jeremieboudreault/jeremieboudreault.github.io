@@ -16,7 +16,10 @@ Education
 Work experience
 ---------------
 
-* **2026- : Postdoctoral researcher**
+* **2026- : Assistant professor**
+  * Laval University
+
+* **2026** : Postdoctoral researcher
   * McGill University
 
 * **2024** : Research internship abroad
