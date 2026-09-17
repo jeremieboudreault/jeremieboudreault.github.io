@@ -8,14 +8,12 @@ author_profile: true
 Upcoming talks
 -------------------
 
-
-
 📧 Email me at jeremie [dot] boudreault [at] inrs [dot] ca to schedule a talk.
 
 Past talks
 -------------------
 
-45. **J Boudreault**, N Rivest\*, F Lamothe, E Lavigne, C Campagna, F Chebana (2026) [Net increase in temperature-related mortality under climate change scenarios: results from projected heatwaves and cold spells in Quebec, Canada](https://www.isee26.org/), International Society for Environmental Epidemiology. 2026/08/30. Munich, Germany. [Poster]
+45. **J Boudreault**, N Rivest\*, F Lamothe, E Lavigne¹, C Campagna, F Chebana (2026) [Net increase in temperature-related mortality under climate change scenarios: results from projected heatwaves and cold spells in Quebec, Canada](https://www.isee26.org/), International Society for Environmental Epidemiology. 2026/08/30. Munich, Germany. [Poster]
 
 44. E Lavigne, S Dixon, P Wilk, **J Boudreault**, K Clemens (2026) [Urban Climate Adaptation: Green Space and Air Conditioning Attenuate Heat-Related Medical Emergencies in Ontario, Canada.](https://www.isee26.org/), International Society for Environmental Epidemiology. 2026/08/30. Munich, Germany. [Poster]
 
@@ -50,7 +48,7 @@ Past talks
 
 30. **J Boudreault**, E Lavigne, C Campagna, F Chebana (2025) [Estimation des coûts futurs de santé liés à la chaleur extrême au Québec à l’aide des projections climatiques](https://www.ouranos.ca/fr/symposium/programmation-jour1/session4-couts-climat-changeant), Symposium Ouranos, 2025/01/28. Montréal, QC, Canada. 
 
-29. **J Boudreault**, KE McLean, SB Henderson (2025) [Which medications influence the risk of mortality during extreme heat events? A novel approach using machine learning](https://oshce.uw.edu/pages/cascadia-2025-annual-symposium-environmental-occupational-and-population-health), Cascadia Annual Symposium on Environmental, Occupational, and Population Health, 2025/01/09. Blaine, WA, United States. 
+29. **J Boudreault**, KE McLean, SB Henderson¹s (2025) [Which medications influence the risk of mortality during extreme heat events? A novel approach using machine learning](https://oshce.uw.edu/pages/cascadia-2025-annual-symposium-environmental-occupational-and-population-health), Cascadia Annual Symposium on Environmental, Occupational, and Population Health, 2025/01/09. Blaine, WA, United States. 
 
 28. **J Boudreault**, E Lavigne, C Campagna, F Chebana (2024) [Assessing historical and projected heat-related health burden and associated costs with climate and demographic data](https://www.agu.org/annual-meeting), AGU annual meeting, 2024/12/11. Washington, DC, United States. [Poster]
 
