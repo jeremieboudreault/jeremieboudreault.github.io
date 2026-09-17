@@ -8,6 +8,8 @@ author_profile: true
 Upcoming talks
 -------------------
 
+
+
 📧 Email me at jeremie [dot] boudreault [at] inrs [dot] ca to schedule a talk.
 
 Past talks
