@@ -14,10 +14,10 @@ Upcoming talks
 
 3. A Lavoie\*, E Lavigne, F Lamothe, F Chebena, **J Boudreault** (2026) [A first look at the burden of cold temperatures on multiple health outcomes in Montreal, Canada](https://climatehealth.utoronto.ca/events/conference-overview/climate-health-2026-conference/), 2026 Climate & Health conference. 2026/10/23. Toronto, ON, Canada. [Poster]
 
-4. F Lamothe & **J Boudreault** (2026) [Surveillance des impacts sanitaires de la chaleur au Québec : Innovations méthodologiques
-et résultats récents](https://espum.umontreal.ca/lespum/evenements/webinaires-et-seminaires-scientifiques/) Séminaire en surveillance épidémiologique de l'ESPUM. 2026/11/12. En ligne **[Invited speaker]**
+4. F Lamothe & **J Boudreault** (2026) [Surveillance des impacts sanitaires de la chaleur au Québec : innovations méthodologiques
+et résultats récents](https://espum.umontreal.ca/lespum/evenements/webinaires-et-seminaires-scientifiques/) Séminaire en surveillance de l'ESPUM. 2026/11/12. En ligne **[Invited speaker]**
 
-5. **J Boudreault** (2026) *Titre à venir*. Séminaire en épidémiologie de McGill. 2026/11/23. Montréal, QC, Canada.  **[Invited speaker]**
+5. **J Boudreault** (2026) *Titre à venir*. Séminaire en épidémiologie de l'Université McGill. 2026/11/23. Montréal, QC, Canada.  **[Invited speaker]**
 
 5. **J Boudreault** (2026) [L'apprentissage machine pour mieux comprendre les risques climatiques affectant la santé publique](https://www.inspq.qc.ca/epidemiologie-de-terrain), Conférences web en épidémiologie de terrain. 2026/12/16. En ligne. **[Invited speaker]**
 
