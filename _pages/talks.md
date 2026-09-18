@@ -8,6 +8,20 @@ author_profile: true
 Upcoming talks
 -------------------
 
+1. **J Boudreault**, Scott Weichenthal, Jill Baumgarner (2026) [Estimating the effects of wildfires and extreme temperatures on pharmaceuticals claims in Canada](https://climatehealth.utoronto.ca/events/conference-overview/climate-health-2026-conference/), 2026 Climate & Health conference. 2026/10/23. Toronto, ON, Canada.
+
+2. S Gagnon\*, P Nadeau, E Lavigne, F Lamothe, F Chebena, **J Boudreault** (2026) [Snowfall, Freezing Rain and Adverse Health Impacts : A Multi-Outcome Study in Montreal and Quebec City, Canada](https://climatehealth.utoronto.ca/events/conference-overview/climate-health-2026-conference/), 2026 Climate & Health conference. 2026/10/23. Toronto, ON, Canada. [Poster]
+
+3. A Lavoie\*, E Lavigne, F Lamothe, F Chebena, **J Boudreault** (2026) [A first look at the burden of cold temperatures on multiple health outcomes in Montreal, Canada](https://climatehealth.utoronto.ca/events/conference-overview/climate-health-2026-conference/), 2026 Climate & Health conference. 2026/10/23. Toronto, ON, Canada. [Poster]
+
+4. F Lamothe & **J Boudreault** (2026) [Surveillance des impacts sanitaires de la chaleur au Québec : Innovations méthodologiques
+et résultats récents](https://espum.umontreal.ca/lespum/evenements/webinaires-et-seminaires-scientifiques/) Séminaire en surveillance épidémiologique de l'ESPUM. 2026/11/12. En ligne **[Invited speaker]**
+
+5. **J Boudreault** (2026) *Titre à venir*. Séminaire en épidémiologie de McGill. 2026/11/23. Montréal, QC, Canada.  **[Invited speaker]**
+
+5. **J Boudreault** (2026) [L'apprentissage machine pour mieux comprendre les risques climatiques affectant la santé publique](https://www.inspq.qc.ca/epidemiologie-de-terrain), Conférences web en épidémiologie de terrain. 2026/12/16. En ligne. **[Invited speaker]**
+
+
 📧 Email me at jeremie [dot] boudreault [at] inrs [dot] ca to schedule a talk.
 
 Past talks
