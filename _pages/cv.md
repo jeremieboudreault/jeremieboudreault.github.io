@@ -23,7 +23,7 @@ Work experience
   * McGill University
 
 * **2024** : Research internship abroad
-  * University of British Columbia (UBC) & BC Centre for Disease Contro
+  * University of British Columbia (UBC) & BC Centre for Disease Control (BCCDC)
 
 * **2022-2023** : Research fellowship
   * Quebec National Institute of Public Health (INSPQ)
@@ -40,7 +40,7 @@ Grants
 
 Scholarships 
 ---------------
-* **2026- : Canada Postdoctoral Research Award**, CIHR (140 000$)
+* **2026** : Canada Postdoctoral Research Award, CIHR (140 000$)
 * **2026** : Postdoctoral Research scholarship, FRQ-S (90 000$) [Declined]
 * **2022-2026** : Vanier Canada Graduate scholarship, NSERC (150 000$)
 * **2022-2026** : Real-Decoste Excellence scholarship, Ouranos (60 000$)
@@ -61,18 +61,18 @@ Main awards and prizes
 * **2013** : Medal of the general board, Cegep de Chicoutimi (500$)
 
 
-Current social involvements
+Recent social involvements
 -------------------
-* **2024-** : Chairman of the environmental data science seminars, INRS
-* **2023-** : Member, Institutional committee for sustainable development of INRS
-* **2023-** : Reviewer of scientific papers, *EHP*, *Environment International*, *Epidemiology*, etc.
-* **2021-** : Treasurer and project manager, 490 Green Comittee, INRS
+* **2023-** : Reviewer of 35+ scientific papers, Various journals
+* **2024-2025** : Chairman of the environmental data science seminars, INRS
+* **2023-2025** : Member, Institutional committee for sustainable development of INRS
+* **2021-2025** : Treasurer and project manager, 490 Green Comittee, INRS
 
 Supervision
 ---------------
-* **2023-** : 8 trainees and 3 master's students, Doctoral project, INRS & INSPQ
-* **2020-2022** : 3 data analysts and 2 Mitacs master's students, The Co-operators
-* **2017-2018** : 7 trainees et 3 research assistants, Master's project, INRS
+* **2023-** : 8 trainees and 3 master's students; PhD, postdoc and current position
+* **2020-2022** : 3 data analysts and 2 Mitacs master's studentsl The Co-operators
+* **2017-2018** : 7 trainees et 3 research assistants; MSc project
 
 Teaching
 ---------------
