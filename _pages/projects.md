@@ -10,8 +10,8 @@ Climate effects in a large health insurance Canadian cohort (2026—) 👤🇨�
 
 *As part as my postdoctoral fellowship at McGill, funded by CIHR.*
 
-- Assessing the relationship between  environmental exposures and medication dispensations
-- Studying various exposures such as extreme temperatures, wildfires and flooding
+- Modelling climate effects on pharmaceutical, disability and other medical claims
+- Studying various environmental exposures such as extreme temperatures and wildfires
 - Collaborating with a leading health insurer in Canada
 
 ---
