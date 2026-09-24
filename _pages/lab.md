@@ -13,10 +13,10 @@ Welcome to **Re²ACT**, the **R**esarch lab on h**e**alth and **e**conomic risks
 Current lab members
 ----------
 
+- **Éloi Larouche** (2026): Fall undergraduate trainee, INRS excellence scholar
 - **Noah Rivest** (2026): Fall undergraduate trainee, CRM-ISM scholar
 - **André-Anne Lavoie** (2025–): M. Sc. student, NSERC scholar [*Co-supervision*]
 - **Sandrine Gagnon** (2025–): M. Sc. student, CIHR scholar [*Co-supervision*]
-
 
 Past members
 ----------
