@@ -14,7 +14,7 @@ My research focuses on modelling the health and economic impacts of climate haza
 
 My current and past projects are available [here](https://jeremieboudreault.github.io/projects/). 
 
-News 🆕
+News 📣
 ----------
 
 * I received the [Science Policy Youth Award](https://www.fsg.ulaval.ca/faculte/actualites/jeremie-boudreault-recipiendaire-du-prix-jeunesse-en-politique-scientifique-et-dinnovation-5146) from the Canadian Science Policy Centre 
