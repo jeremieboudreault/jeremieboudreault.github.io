@@ -17,7 +17,8 @@ My current and past projects are available [here](https://jeremieboudreault.gith
 News 🆕
 ----------
 
-* In September, I joined Laval University as an assistant professor  🎉
+* I received the [Youth Award](https://www.fsg.ulaval.ca/faculte/actualites/jeremie-boudreault-recipiendaire-du-prix-jeunesse-en-politique-scientifique-et-dinnovation-5146) from the Canadian Science Policy Centre 
+* I joined Laval University as an assistant professor  🎉
 * My popular article on [artificial intelligence (AI) for tackling heat-health risks](https://theconversation.com/voici-comment-lia-peut-nous-aider-a-affronter-les-chaleurs-extremes-284276) was published in The Conversation
 * I was interviewed by [Les années lumières](https://ici.radio-canada.ca/ohdio/premiere/emissions/les-annees-lumiere/segments/rattrapage/2414035/vague-chaleur-identifier-personnes-vulnerables) on ICI Première to speak about my research on heat-health risks using AI
 
