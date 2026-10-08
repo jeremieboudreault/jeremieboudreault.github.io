@@ -52,6 +52,7 @@ Scholarships
 
 Main awards and prizes
 ---------------
+* **2026** : Science Policy Youth Award from the Canadian Science Policy Centre (0$)
 * **2025** : Finalist for student involvment at the Forces AVENIR contest (2000$)
 * **2024** : Canadian finalist of the 3-minute thesis contest (500$)
 * **2019** : Honor Roll of the Director of Research and Academic Affairs, INRS (0$)
