@@ -12,6 +12,7 @@ My research was featured in :
 Text interviews
 -------------------
 
+* [Jérémie Boudreault est récipiendaire du Prix jeunesse en politique scientifique](https://www.fsg.ulaval.ca/faculte/actualites/jeremie-boudreault-recipiendaire-du-prix-jeunesse-en-politique-scientifique-et-dinnovation-5146), Université Laval, 2026/10/01.
 * [Les médicaments aggravent-ils la mortalité lors des canicules ?](https://www.lexpress.fr/sciences-sante/sante/les-medicaments-aggravent-ils-la-mortalite-lors-des-canicules-enquete-sur-une-zone-dombre-DY32OYRWJBH3XBDGC3VLKGRSKU/), L'Express, 2025/09/09.
 * [Des médicaments augmenant les décès en période de chaleur](https://www.protegez-vous.ca/nouvelles/sante-et-alimentation/chaleurs-extremes-certains-medicaments-peuvent-augmenter-le-risque-de-deces), Protégez-vous, 2025/08/14.
 * [Chaleur extrême : Des médicaments associés à plus de décès](https://ici.radio-canada.ca/nouvelle/2182573/chaleur-medicaments-risque-deces-temperature), Radio-Canada, 2025/07/30.
