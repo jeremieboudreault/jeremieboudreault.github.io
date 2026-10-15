@@ -52,6 +52,8 @@ Submitted articles
 
 2. **J Boudreault**, A Halladja\*, F Lamothe, E Lavigne, C Campagna, F Chebana (2026). *Mortality and morbidity associated with winter weather conditions revealed by machine learning models*. **[Revisions requested]**
 
+3. **J Boudreault**, L Mayer, G Allameh, C Truswell, D Perry, S Weichenthal, J Baumgartner (2026). *Effects of high temperature and wildfire smoke on prescription medication claims across Canada*.
+
 
 Scientific reports
 ---------------
