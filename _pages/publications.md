@@ -81,8 +81,9 @@ Popular science articles
 1. **J Boudreault** (2022). [Ma passion pour l'environnement, de la maîtrise au doctorat !](https://inrs.ca/actualites/ma-recherche-en-serie-la-passion-pour-lenvironnement-de-jeremie-boudreault-de-la-maitrise-au-doctorat/), INRS website.
 {: reversed="reversed"}
 
-
-Master thesis
+PhD and master thesis
 ---------------
+
+1. **J Boudreault** (2026). [Impacts sanitaires et économiques de la chaleur au Québec avec approches de la science des données](https://espace.inrs.ca/id/eprint/17736/). Thèse de doctorat. 229 p.
 
 1. **J Boudreault** (2018). [La régression fonctionnelle pour modéliser la température de l’eau et l’habitat du saumon atlantique juvénile](https://espace.inrs.ca/id/eprint/8791/). Mémoire de maîtrise. 161 p.
