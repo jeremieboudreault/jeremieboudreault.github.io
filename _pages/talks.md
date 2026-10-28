@@ -24,7 +24,7 @@ Past talks
 -------------------
 
 
-45. **J Boudreault**, Scott Weichenthal, Jill Baumgarner (2026) [Estimating the effects of wildfires and extreme temperatures on pharmaceuticals claims in Canada](https://climatehealth.utoronto.ca/events/conference-overview/climate-health-2026-conference/), 2026 Climate & Health conference. 2026/10/23. Toronto, ON, Canada.
+45. **J Boudreault**, L Mayer, G Allameh, C Truswell, D Perry, S Weichenthal, J Baumgartner (2026) [Estimating the effects of wildfires and extreme temperatures on pharmaceuticals claims in Canada](https://climatehealth.utoronto.ca/events/conference-overview/climate-health-2026-conference/), 2026 Climate & Health conference. 2026/10/23. Toronto, ON, Canada.
 
 44. **J Boudreault**, N Rivest\*, F Lamothe, E Lavigne¹, C Campagna, F Chebana (2026) [Net increase in temperature-related mortality under climate change scenarios: results from projected heatwaves and cold spells in Quebec, Canada](https://www.isee26.org/), International Society for Environmental Epidemiology. 2026/08/30. Munich, Germany. [Poster]
 
