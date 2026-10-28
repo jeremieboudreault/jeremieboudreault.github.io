@@ -11,7 +11,7 @@ Upcoming talks
 📧 Email me at jeremie [dot] boudreault [dot] 1 [at] ulaval [dot] ca to schedule a talk.
 
 1. F Lamothe¹ & **J Boudreault**¹ (2026) [Surveillance des impacts sanitaires de la chaleur au Québec : innovations méthodologiques
-et résultats récents](https://espum.umontreal.ca/lespum/evenements/webinaires-et-seminaires-scientifiques/) Séminaire en surveillance de l'ESPUM. 2026/11/12. En ligne **[Invited speaker]**
+et résultats récents](https://calendrier.umontreal.ca/activite/surveillance-des-impacts-sanitaires-de-la-chaleur-au-quebec) Séminaire en surveillance de l'ESPUM. 2026/11/12. En ligne **[Invited speaker]**
 
 2. **J Boudreault** (2026) *Titre à venir*. Séminaire en épidémiologie de l'Université McGill. 2026/11/23. Montréal, QC, Canada.  **[Invited speaker]**
 
