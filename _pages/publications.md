@@ -9,6 +9,8 @@ author_profile: true
 Published journal articles
 ---------------
 
+18. **J Boudreault**, A Halladja\*, F Lamothe, E Lavigne, C Campagna, F Chebana (2026). Mortality and morbidity associated with winter weather conditions revealed by machine learning models. *Environmental Research Communications*, **[Accepted]**
+
 17. **J Boudreault**, S Calcaneo\*, F Lamothe, E Lavigne, C Campagna, F Chebana (2026). [Quantifying heat-related and cold-related mortality burden in the context of the COVID-19 pandemic in Quebec, Canada (2000-2024)](https://doi.org/10.1088/2752-5309/ae714d). *Environmental Research: Health*. 4(025023): 1-17.
 
 16. KN Cowan, **J Boudreault**, K LeMasters, L Brinkley-Rubinstein (2026). [Lagged and non-linear effects of temperature extremes on mortality in US federal prisons: a case-crossover study, 2009-2021](https://doi.org/10.1097/EDE.0000000000002007). *Epidemiology*.
@@ -50,9 +52,7 @@ Submitted articles
 
 1. **J Boudreault**, N Rivest\*, F Lamothe, E Lavigne, C Campagna, F Chebana (2026). *Net increase in temperature-related mortality: projected cold spells, heatwaves and health impacts in Quebec, Canada*. **[Revisions requested]**
 
-2. **J Boudreault**, A Halladja\*, F Lamothe, E Lavigne, C Campagna, F Chebana (2026). *Mortality and morbidity associated with winter weather conditions revealed by machine learning models*. **[Revisions requested]**
-
-3. **J Boudreault**, L Mayer, G Allameh, C Truswell, D Perry, S Weichenthal, J Baumgartner (2026). *Effects of high temperature and wildfire smoke on prescription medication claims across Canada*.
+2. **J Boudreault**, L Mayer, G Allameh, C Truswell, D Perry, S Weichenthal, J Baumgartner (2026). *Effects of high temperature and wildfire smoke on prescription medication claims across Canada*.
 
 
 Scientific reports
