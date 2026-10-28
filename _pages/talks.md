@@ -10,31 +10,27 @@ Upcoming talks
 
 📧 Email me at jeremie [dot] boudreault [dot] 1 [at] ulaval [dot] ca to schedule a talk.
 
-1. **J Boudreault**, Scott Weichenthal, Jill Baumgarner (2026) [Estimating the effects of wildfires and extreme temperatures on pharmaceuticals claims in Canada](https://climatehealth.utoronto.ca/events/conference-overview/climate-health-2026-conference/), 2026 Climate & Health conference. 2026/10/23. Toronto, ON, Canada.
-
-2. S Gagnon\*, P Nadeau\*, E Lavigne, F Lamothe, F Chebena, **J Boudreault** (2026) [Snowfall, Freezing Rain and Adverse Health Impacts : A Multi-Outcome Study in Montreal and Quebec City, Canada](https://climatehealth.utoronto.ca/events/conference-overview/climate-health-2026-conference/), 2026 Climate & Health conference. 2026/10/23. Toronto, ON, Canada. [Poster]
-
-3. AA Lavoie\*, E Lavigne, F Lamothe, F Chebena, **J Boudreault** (2026) [A first look at the burden of cold temperatures on multiple health outcomes in Montreal, Canada](https://climatehealth.utoronto.ca/events/conference-overview/climate-health-2026-conference/), 2026 Climate & Health conference. 2026/10/23. Toronto, ON, Canada. [Poster]
-
-4. F Lamothe¹ & **J Boudreault**¹ (2026) [Surveillance des impacts sanitaires de la chaleur au Québec : innovations méthodologiques
+1. F Lamothe¹ & **J Boudreault**¹ (2026) [Surveillance des impacts sanitaires de la chaleur au Québec : innovations méthodologiques
 et résultats récents](https://espum.umontreal.ca/lespum/evenements/webinaires-et-seminaires-scientifiques/) Séminaire en surveillance de l'ESPUM. 2026/11/12. En ligne **[Invited speaker]**
 
-5. **J Boudreault** (2026) *Titre à venir*. Séminaire en épidémiologie de l'Université McGill. 2026/11/23. Montréal, QC, Canada.  **[Invited speaker]**
+2. **J Boudreault** (2026) *Titre à venir*. Séminaire en épidémiologie de l'Université McGill. 2026/11/23. Montréal, QC, Canada.  **[Invited speaker]**
 
-6. **J Boudreault** (2026) [L'apprentissage machine pour mieux comprendre les risques climatiques affectant la santé publique](https://www.inspq.qc.ca/epidemiologie-de-terrain), Conférences web en épidémiologie de terrain. 2026/12/16. En ligne. **[Invited speaker]**
+3. **J Boudreault** (2026) [L'apprentissage machine pour mieux comprendre les risques climatiques affectant la santé publique](https://www.inspq.qc.ca/epidemiologie-de-terrain), Conférences web en épidémiologie de terrain. 2026/12/16. En ligne. **[Invited speaker]**
+
+4. **J Boudreault**, N Rivest, AA Lavoie, S Gagnon, F Lamothe, E Lavigne, F Chebana  (2026) [Impacts sanitaires, coûts et adaptation aux températures estivales et hivernales au Québec : résultats du projet ISEPACQ](https://www.ouranos.ca/fr/symposium-accueil), Symposum Ouranos. 2027/01/25. Québec, QC, Canada.
 
 
 Past talks
 -------------------
 
-45. **J Boudreault**, N Rivest\*, F Lamothe, E Lavigne¹, C Campagna, F Chebana (2026) [Net increase in temperature-related mortality under climate change scenarios: results from projected heatwaves and cold spells in Quebec, Canada](https://www.isee26.org/), International Society for Environmental Epidemiology. 2026/08/30. Munich, Germany. [Poster]
 
-44. E Lavigne, S Dixon, P Wilk, **J Boudreault**, K Clemens (2026) [Urban Climate Adaptation: Green Space and Air Conditioning Attenuate Heat-Related Medical Emergencies in Ontario, Canada.](https://www.isee26.org/), International Society for Environmental Epidemiology. 2026/08/30. Munich, Germany. [Poster]
+45. **J Boudreault**, Scott Weichenthal, Jill Baumgarner (2026) [Estimating the effects of wildfires and extreme temperatures on pharmaceuticals claims in Canada](https://climatehealth.utoronto.ca/events/conference-overview/climate-health-2026-conference/), 2026 Climate & Health conference. 2026/10/23. Toronto, ON, Canada.
 
-43. **J Boudreault** (2026) [Machine learning for tackling climate-health risks](https://ai4ph-hrtp.ca/ai4ph-summer-institute/), AI4PH Research and Implementation Symposium. 2026/07/20. Montréal, QC, Canada.
+44. **J Boudreault**, N Rivest\*, F Lamothe, E Lavigne¹, C Campagna, F Chebana (2026) [Net increase in temperature-related mortality under climate change scenarios: results from projected heatwaves and cold spells in Quebec, Canada](https://www.isee26.org/), International Society for Environmental Epidemiology. 2026/08/30. Munich, Germany. [Poster]
 
+43. E Lavigne, S Dixon, P Wilk, **J Boudreault**, K Clemens (2026) [Urban Climate Adaptation: Green Space and Air Conditioning Attenuate Heat-Related Medical Emergencies in Ontario, Canada.](https://www.isee26.org/), International Society for Environmental Epidemiology. 2026/08/30. Munich, Germany. [Poster]
 
-42. N Rivest\*, F Lamothe, E Lavigne, C Campagna, F Chebana, **J Boudreault** (2026) [Modélisation et projection de la mortalité liée aux vagues de chaleur et de froid au Québec en contexte de changements climatiques](https://cimmul.fsg.ulaval.ca/), Séminaires étudiants du CIMMUL. 2025/07/09. Québec, QC. Canada. [**Invited speaker**]
+42. **J Boudreault** (2026) [Machine learning for tackling climate-health risks](https://ai4ph-hrtp.ca/ai4ph-summer-institute/), AI4PH Research and Implementation Symposium. 2026/07/20. Montréal, QC, Canada.
 
 41. **J Boudreault** (2026) [Changements climatiques et santé : modéliser les coûts pour guider l’action via une approche interdisciplinaire](https://ieds.ulaval.ca/recherche/axes-de-developpement/jeunesse-et-action-climatique/rendez-vous-de-laction-climatique), Rendez-vous de l’action climatique. 2026/05/25. Québec, QC, Canada
 
