@@ -9,7 +9,7 @@ author_profile: true
 Published journal articles
 ---------------
 
-18. **J Boudreault**, A Halladja\*, F Lamothe, E Lavigne, C Campagna, F Chebana (2026). Mortality and morbidity associated with winter weather conditions revealed by machine learning models. *Environmental Research Communications*, **[Accepted]**
+18. **J Boudreault**, A Halladja\*, F Lamothe, E Lavigne, C Campagna, F Chebana (2026). [Mortality and morbidity associated with winter weather conditions revealed by machine learning models](https://doi.org/10.1088/2515-7620/aebb07). *Environmental Research Communications*.
 
 17. **J Boudreault**, S Calcaneo\*, F Lamothe, E Lavigne, C Campagna, F Chebana (2026). [Quantifying heat-related and cold-related mortality burden in the context of the COVID-19 pandemic in Quebec, Canada (2000-2024)](https://doi.org/10.1088/2752-5309/ae714d). *Environmental Research: Health*. 4(025023): 1-17.
 
