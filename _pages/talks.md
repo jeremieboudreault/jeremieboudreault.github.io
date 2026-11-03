@@ -19,7 +19,7 @@ et résultats récents](https://calendrier.umontreal.ca/activite/surveillance-de
 
 4. **J Boudreault**, N Rivest, AA Lavoie, S Gagnon, F Lamothe, E Lavigne, F Chebana  (2027) [Impacts sanitaires, coûts et adaptation aux températures estivales et hivernales au Québec : résultats du projet ISEPACQ](https://www.ouranos.ca/fr/symposium-accueil), Symposum Ouranos. 2027/01/25. Québec, QC, Canada.
 
-5. **J Boudreault** (2027) *Titre à venir*, Séminaire de statistique de l'Université Laval. 2027/02/18. Québec, QC, Canada.
+5. **J Boudreault** (2027) *Titre à venir*, Séminaire de statistique de l'Université Laval. 2027/02/18. Québec, QC, Canada. **[Invited speaker]**
 
 
 
