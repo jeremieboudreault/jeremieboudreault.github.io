@@ -13,11 +13,14 @@ Upcoming talks
 1. F Lamothe¹ & **J Boudreault**¹ (2026) [Surveillance des impacts sanitaires de la chaleur au Québec : innovations méthodologiques
 et résultats récents](https://calendrier.umontreal.ca/activite/surveillance-des-impacts-sanitaires-de-la-chaleur-au-quebec) Séminaire en surveillance de l'ESPUM. 2026/11/12. En ligne **[Invited speaker]**
 
-2. **J Boudreault** (2026) *Titre à venir*. Séminaire en épidémiologie de l'Université McGill. 2026/11/23. Montréal, QC, Canada.  **[Invited speaker]**
+2. **J Boudreault** (2026) [Estimating climate-related health impacts across multiple outcomes using advanced modelling approaches](https://www.mcgill.ca/epi-biostat-occh/seminars-events/seminars/epidemiology). McGill Epidemiology Seminar Series. 2026/11/23. Montréal, QC, Canada.  **[Invited speaker]**
 
 3. **J Boudreault** (2026) [L'apprentissage machine pour mieux comprendre les risques climatiques affectant la santé publique](https://www.inspq.qc.ca/epidemiologie-de-terrain), Conférences web en épidémiologie de terrain. 2026/12/16. En ligne. **[Invited speaker]**
 
-4. **J Boudreault**, N Rivest, AA Lavoie, S Gagnon, F Lamothe, E Lavigne, F Chebana  (2026) [Impacts sanitaires, coûts et adaptation aux températures estivales et hivernales au Québec : résultats du projet ISEPACQ](https://www.ouranos.ca/fr/symposium-accueil), Symposum Ouranos. 2027/01/25. Québec, QC, Canada.
+4. **J Boudreault**, N Rivest, AA Lavoie, S Gagnon, F Lamothe, E Lavigne, F Chebana  (2027) [Impacts sanitaires, coûts et adaptation aux températures estivales et hivernales au Québec : résultats du projet ISEPACQ](https://www.ouranos.ca/fr/symposium-accueil), Symposum Ouranos. 2027/01/25. Québec, QC, Canada.
+
+5. **J Boudreault** (2027) *Titre à venir*, Séminaire de statistique de l'Université Laval. 2027/02/18. Québec, QC, Canada.
+
 
 
 Past talks
