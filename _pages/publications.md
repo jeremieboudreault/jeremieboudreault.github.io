@@ -13,7 +13,7 @@ Published journal articles
 
 17. **J Boudreault**, S Calcaneo\*, F Lamothe, E Lavigne, C Campagna, F Chebana (2026). [Quantifying heat-related and cold-related mortality burden in the context of the COVID-19 pandemic in Quebec, Canada (2000-2024)](https://doi.org/10.1088/2752-5309/ae714d). *Environmental Research: Health*. 4(025023): 1-17.
 
-16. KN Cowan, **J Boudreault**, K LeMasters, L Brinkley-Rubinstein (2026). [Lagged and non-linear effects of temperature extremes on mortality in US federal prisons: a case-crossover study, 2009-2021](https://doi.org/10.1097/EDE.0000000000002007). *Epidemiology*.
+16. KN Cowan, **J Boudreault**, K LeMasters, L Brinkley-Rubinstein (2026). [Lagged and non-linear effects of temperature extremes on mortality in US federal prisons: a case-crossover study, 2009-2021](https://doi.org/10.1097/EDE.0000000000002007). *Epidemiology*. 37(5): 698-708.
 
 15. **J Boudreault**, F Lamothe, C Campagna, F Chebana (2025). [Machine learning for modelling the health impacts of extreme heat: a comprehensive literature review](https://doi.org/10.1016/j.envint.2025.109965). *Environment International*. 206(109965): 1-15.
 
