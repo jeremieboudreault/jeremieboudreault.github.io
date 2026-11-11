@@ -17,10 +17,9 @@ My current and past projects are available [here](https://jeremieboudreault.gith
 News 📣
 ----------
 
+* Our paper on health impacts of winter weather conditions using machine learning models was published in [*Environmental Research Communications*](https://doi.org/10.1088/2515-7620/aebb07)
 * I received the [Science Policy Youth Award](https://nouvelles.ulaval.ca/2026/10/14/jeremie-boudreault-recoit-le-prix-jeunesse-en-politique-scientifique-et-dinnovation-24410606-720a-421f-89a1-ce2badc02071) from the Canadian Science Policy Centre 
 * I joined Laval University as an assistant professor  🎉
-* My popular article on [artificial intelligence (AI) for tackling heat-health risks](https://theconversation.com/voici-comment-lia-peut-nous-aider-a-affronter-les-chaleurs-extremes-284276) was published in The Conversation
-* I was interviewed by [Les années lumières](https://ici.radio-canada.ca/ohdio/premiere/emissions/les-annees-lumiere/segments/rattrapage/2414035/vague-chaleur-identifier-personnes-vulnerables) on ICI Première to speak about my research on heat-health risks using AI
 
 Hiring 🚨
 ----------
