@@ -17,7 +17,7 @@ My current and past projects are available [here](https://jeremieboudreault.gith
 News 📣
 ----------
 
-* Our paper on health impacts of winter weather conditions using machine learning models was published in [*Environmental Research Communications*](https://doi.org/10.1088/2515-7620/aebb07)
+* Our paper on [mortality and morbidity associated with winter weather conditions using machine learning](https://doi.org/10.1088/2515-7620/aebb07) was published in *Environmental Research Communications*
 * I received the [Science Policy Youth Award](https://nouvelles.ulaval.ca/2026/10/14/jeremie-boudreault-recoit-le-prix-jeunesse-en-politique-scientifique-et-dinnovation-24410606-720a-421f-89a1-ce2badc02071) from the Canadian Science Policy Centre 
 * I joined Laval University as an assistant professor  🎉
 
